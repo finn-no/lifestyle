@@ -12,6 +12,17 @@ var sendJson = R.curry(function(res, data) {
     res.json(data);
 });
 
+var handleError = R.curry(function(res, error) {
+    if (error.response) {
+        var url = error.response.request.uri.href; // lol
+        res.status(error.response.statusCode)
+           .send("Error " + error.response.statusCode + " when fetching: " + url);
+    }
+    else {
+        res.status(500).send(error.stack);
+    }
+});
+
 function installRoutes(app) {
     app.get('/', function(req, res) {
         res.sendFile(__dirname + '/index.html');
@@ -21,25 +32,29 @@ function installRoutes(app) {
         client
             .getSearches()
             .then(R.pluck('title'))
-            .then(sendJson(res));
+            .then(sendJson(res))
+            .catch(handleError(res));
     });
 
     app.get('/search/', function(req, res) {
         client
             .search(req.query.searchid, R.omit('searchid', req.query))
-            .then(sendJson(res));
+            .then(sendJson(res))
+            .catch(handleError(res));
     });
 
     app.get('/description/', function(req, res) {
         client
             .getSearchDescription(req.query.searchid)
-            .then(sendJson(res));
+            .then(sendJson(res))
+            .catch(handleError(res));
     });
 
     app.get('/ad/', function(req, res) {
         client
             .getAd(req.query.adid)
-            .then(sendJson(res));
+            .then(sendJson(res))
+            .catch(handleError(res));
     });
 }
 
