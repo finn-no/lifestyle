@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+}
+
+.marketlink {
+    display: inline-block;
+    width: 32%;
+}
+
+
+.checkboxlist {
+    list-style: none;
+    padding-left: 0;
+}

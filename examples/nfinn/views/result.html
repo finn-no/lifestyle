@@ -1,0 +1,21 @@
+{% import './macros.html' as macros %}
+{% extends 'base.html' %}
+
+{% block title %}{{ title }} - {{ totalResults }} hits{% endblock %}
+
+{% block content %}
+<h2>{{ subtitle }}</h2>
+<h3>{{ totalResults }} hits</h3>
+{% for hit in hits %}
+    <a href="/ad/{{ hit.adId }}">
+        <div>
+            <h3>{{ hit.title }}</h3>
+            <img src="{{ hit.images[0].url }}">
+
+
+        </div>
+    </a>
+    {{ hit|jsonSummary|safe }}    
+{% endfor %}
+
+{% endblock %}

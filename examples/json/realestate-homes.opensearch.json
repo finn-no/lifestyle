@@ -1,0 +1,123 @@
+{
+    "shortName": "Boliger",
+    "longName": "Finn.no API search for Boliger",
+    "filters": [
+        {
+            "range": true,
+            "name": "price"
+        },
+        {
+            "range": false,
+            "name": "energy_label"
+        },
+        {
+            "range": false,
+            "name": "ownership_type"
+        },
+        {
+            "range": true,
+            "name": "no_of_bedrooms"
+        },
+        {
+            "range": true,
+            "name": "area"
+        },
+        {
+            "range": true,
+            "name": "plot_area"
+        },
+        {
+            "range": false,
+            "name": "viewing"
+        },
+        {
+            "range": false,
+            "name": "location"
+        },
+        {
+            "range": false,
+            "name": "property_type"
+        },
+        {
+            "range": false,
+            "name": "facilities"
+        },
+        {
+            "range": false,
+            "name": "floor_navigator"
+        },
+        {
+            "range": false,
+            "name": "is_private_broker"
+        },
+        {
+            "range": false,
+            "name": "collective_debt"
+        },
+        {
+            "range": false,
+            "name": "school_catchment_area"
+        },
+        {
+            "range": true,
+            "name": "construction_year"
+        }
+    ],
+    "queries": [
+        {
+            "sort": "0",
+            "title": "Mest relevant",
+            "selected": false
+        },
+        {
+            "sort": "1",
+            "title": "Publisert",
+            "selected": true
+        },
+        {
+            "sort": "2",
+            "title": "Prisant lav-høy",
+            "selected": false
+        },
+        {
+            "sort": "99",
+            "title": "Nærmest",
+            "selected": false
+        },
+        {
+            "sort": "3",
+            "title": "Prisant høy-lav",
+            "selected": false
+        },
+        {
+            "sort": "4",
+            "title": "P-ROM Areal lav-høy",
+            "selected": false
+        },
+        {
+            "sort": "5",
+            "title": "P-ROM Areal høy-lav",
+            "selected": false
+        },
+        {
+            "sort": "6",
+            "title": "Tot pris lav-høy",
+            "selected": false
+        },
+        {
+            "sort": "7",
+            "title": "Tot pris høy-lav",
+            "selected": false
+        },
+        {
+            "sort": "8",
+            "title": "Kvmeterpris lav-høy",
+            "selected": false
+        },
+        {
+            "sort": "9",
+            "title": "Kvmeterpris høy-lav",
+            "selected": false
+        }
+    ]
+}

@@ -1,0 +1,808 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://a9.com/-/opensearch/extensions/geo/1.0/" xmlns:f="http://xmlns.finn.no/opensearch/1.0" xmlns:os="http://a9.com/-/spec/opensearch/1.1/" xmlns:age="http://purl.org/atompub/age/1.0" xmlns:finn="http://xmlns.finn.no/atom-ad-extensions/1.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:app="http://www.w3.org/2007/app" xmlns:georss="http://www.georss.org/georss">
+  <id>urn:uuid:c7z4Tqm7mI37yHMjajbuCJYreMGdnHAn</id>
+  <title>Båter til salgs</title>
+  <subtitle>Båter til salgs</subtitle>
+  <updated>2014-03-22T23:15:23.377Z</updated>
+  <author>
+    <name>FINN.no</name>
+  </author>
+  <link href="https://cache.api.finn.no/iad/search/boat-sale?orgId=1234030440&amp;sort=1" rel="self"/>
+  <link href="https://cache.api.finn.no/iad/search/boat-sale?orgId=1234030440&amp;sort=1" rel="first"/>
+  <link href="https://cache.api.finn.no/iad/search/boat-sale?orgId=1234030440&amp;sort=1&amp;page=1" rel="last"/>
+  <link href="https://cache.api.finn.no/iad/search/boat-sale/description" rel="search" type="application/opensearchdescription+xml"/>
+  <link href="https://cache.api.finn.no/iad/promoted/boat-sale" rel="promoted"/>
+  <f:filter name="motor_ad_location" title="Båten står i" range="false">
+    <f:Query role="subset" totalResults="20" f:filter="1" title="Norge"/>
+  </f:filter>
+  <f:filter name="motor_size" title="Hestekrefter" range="true">
+    <f:Query f:to="5" role="subset" title="0-5" totalResults="2" f:from="0"/>
+    <f:Query f:to="10" role="subset" title="6-10" totalResults="1" f:from="6"/>
+    <f:Query f:to="50" role="subset" title="11-50" totalResults="1" f:from="11"/>
+    <f:Query f:to="100" role="subset" title="51-100" totalResults="6" f:from="51"/>
+    <f:Query f:to="200" role="subset" title="101-200" totalResults="6" f:from="101"/>
+    <f:Query f:to="500" role="subset" title="201-500" totalResults="3" f:from="201"/>
+  </f:filter>
+  <f:filter name="fuel" title="Drivstoff" range="false">
+    <f:Query role="subset" totalResults="17" f:filter="1" title="Bensin"/>
+    <f:Query role="subset" totalResults="2" f:filter="2" title="Diesel"/>
+  </f:filter>
+  <f:filter name="location" title="Område" range="false">
+    <f:Query role="subset" totalResults="20" f:filter="20019" title="Troms"/>
+  </f:filter>
+  <f:filter name="price" title="Pris" range="true">
+    <f:Query f:to="50000" role="subset" title="0-50000" totalResults="3" f:from="0"/>
+    <f:Query f:to="150000" role="subset" title="50001-150000" totalResults="3" f:from="50001"/>
+    <f:Query f:to="250000" role="subset" title="150001-250000" totalResults="2" f:from="150001"/>
+    <f:Query f:to="500000" role="subset" title="250001-500000" totalResults="8" f:from="250001"/>
+    <f:Query role="subset" totalResults="4" f:from="500001" title="500001-"/>
+  </f:filter>
+  <f:filter name="no_of_sleepers" title="Soveplasser" range="true">
+    <f:Query f:to="2" role="subset" title="0-2" totalResults="7" f:from="0"/>
+    <f:Query f:to="8" role="subset" title="5-8" totalResults="1" f:from="5"/>
+  </f:filter>
+  <f:filter name="segment" title="Tilstand" range="false">
+    <f:Query role="subset" totalResults="6" f:filter="120" title="Brukt båt"/>
+    <f:Query role="subset" totalResults="14" f:filter="121" title="Ny båt"/>
+  </f:filter>
+  <f:filter name="dealer_segment" title="Annonsør" range="false">
+    <f:Query role="subset" totalResults="20" f:filter="0" title="Forhandler"/>
+  </f:filter>
+  <f:filter name="class" title="Båttype" range="false">
+    <f:Query role="subset" totalResults="1" f:filter="2258" title="Andre"/>
+    <f:Query role="subset" totalResults="3" f:filter="6923" title="Cabincruiser"/>
+    <f:Query role="subset" totalResults="8" f:filter="2184" title="Daycruiser"/>
+    <f:Query role="subset" totalResults="8" f:filter="3827" title="Skjærgårdsjeep/Landstedsbåt"/>
+  </f:filter>
+  <f:filter name="motor_included" title="Motor inkludert" range="false">
+    <f:Query role="subset" totalResults="18" f:filter="1" title="Ja"/>
+    <f:Query role="subset" totalResults="2" f:filter="-1" title="Nei"/>
+  </f:filter>
+  <f:filter name="length_feet" title="Lengde" range="true">
+    <f:Query f:to="15" role="subset" title="0-15" totalResults="5" f:from="0"/>
+    <f:Query f:to="20" role="subset" title="16-20" totalResults="4" f:from="16"/>
+    <f:Query f:to="30" role="subset" title="21-30" totalResults="11" f:from="21"/>
+  </f:filter>
+  <f:filter name="make" title="Merke" range="false">
+    <f:Query role="subset" totalResults="4" f:filter="3832" title="Askeladden"/>
+    <f:Query role="subset" totalResults="1" f:filter="2607" title="Bella"/>
+    <f:Query role="subset" totalResults="2" f:filter="2634" title="Beneteau"/>
+    <f:Query role="subset" totalResults="2" f:filter="2640" title="Faster"/>
+    <f:Query role="subset" totalResults="1" f:filter="2593" title="Flipper"/>
+    <f:Query role="subset" totalResults="2" f:filter="7777" title="HR"/>
+    <f:Query role="subset" totalResults="3" f:filter="2582" title="Linder"/>
+    <f:Query role="subset" totalResults="3" f:filter="2512" title="Quicksilver"/>
+    <f:Query role="subset" totalResults="2" f:filter="1000415" title="XO"/>
+  </f:filter>
+  <f:filter name="no_of_seats" title="Sitteplasser" range="true">
+    <f:Query f:to="3" role="subset" title="0-3" totalResults="2" f:from="0"/>
+    <f:Query f:to="6" role="subset" title="4-6" totalResults="9" f:from="4"/>
+    <f:Query f:to="9" role="subset" title="7-9" totalResults="9" f:from="7"/>
+  </f:filter>
+  <f:filter name="year" title="Årsmodell" range="true">
+    <f:Query f:to="2007" role="subset" title="2004-2007" totalResults="1" f:from="2004"/>
+    <f:Query f:to="2013" role="subset" title="2011-2013" totalResults="12" f:from="2011"/>
+    <f:Query f:to="2014" role="subset" title="2014-2014" totalResults="7" f:from="2014"/>
+  </f:filter>
+  <f:sort template="https://cache.api.finn.no/iad/search/boat-sale?orgId=1234030440&amp;sort={f:sort?}&amp;lat={geo:lat?}&amp;lon={geo:lon?}">
+    <os:Query role="f:sort" f:sort="0" title="Mest relevant"/>
+    <os:Query role="f:sort" f:sort="1" title="Publisert" f:selected="true"/>
+    <os:Query role="f:sort" f:sort="2" title="Pris lav-høy"/>
+    <os:Query role="f:sort" f:sort="3" title="Pris høy-lav"/>
+    <os:Query role="f:sort" f:sort="4" title="Fot lav-høy"/>
+    <os:Query role="f:sort" f:sort="5" title="Fot høy-lav"/>
+    <os:Query role="f:sort" f:sort="99" title="Nærmest"/>
+    <os:Query role="f:sort" f:sort="6" title="År nyest-eldst"/>
+    <os:Query role="f:sort" f:sort="7" title="År eldst-nyest"/>
+    <os:Query role="f:sort" f:sort="9" title="Knop høy-lav"/>
+    <os:Query role="f:sort" f:sort="10" title="Knop lav-høy"/>
+  </f:sort>
+  <os:totalResults>20</os:totalResults>
+  <entry>
+    <id>urn:id:47235755</id>
+    <title>Flipper 515HT m/Mercury 90 Optimax</title>
+    <updated>2014-03-15T11:22:00.000Z</updated>
+    <published>2014-03-15T11:22:00.000Z</published>
+    <dc:identifier>47235755</dc:identifier>
+    <category scheme="urn:finn:ad:private" term="false"/>
+    <category scheme="urn:finn:ad:disposed" label="Solgt" term="false"/>
+    <category scheme="urn:finn:ad:type" label="Brukt båt til salgs" term="boat-used-sale"/>
+    <link href="https://cache.api.finn.no/iad/ad/boat-used-sale/47235755" rel="self"/>
+    <link href="http://www.finn.no/47235755" rel="alternate" type="text/html"/>
+    <georss:point finn:accuracy="9">69.67272 18.97668</georss:point>
+    <finn:location>
+      <finn:city>Tromsø</finn:city>
+    </finn:location>
+    <media:content height="1067" medium="image" width="1600" url="http://finncdn.no/mmo/2014/3/vertical-4/15/5/472/357/55_1061747847.jpg" type="image/jpeg"/>
+    <author>
+      <name>Maritim Center AS</name>
+    </author>
+    <finn:adata model="https://cache.api.finn.no/iad/ad/model/boat-used-sale">
+      <finn:field name="make" value="Flipper"/>
+      <finn:field name="model" value="515HT"/>
+      <finn:field name="length_feet" value="17"/>
+      <finn:field name="max_speed" value="35"/>
+      <finn:field name="dealer_segment" value="Annet bilutsalg"/>
+      <finn:field name="motor">
+        <finn:field name="included" value="1"/>
+        <finn:field name="size" value="90.0"/>
+        <finn:field name="type" value="Utenbords"/>
+        <finn:field name="fuel" value="Bensin"/>
+      </finn:field>
+      <finn:field name="year" value="2007"/>
+      <finn:price name="main" value="149000"/>
+    </finn:adata>
+  </entry>
+  <entry>
+    <id>urn:id:47154040</id>
+    <title>Quicksilver 675 Pilothouse m/Mercury F115</title>
+    <updated>2014-03-11T08:15:00.000Z</updated>
+    <published>2014-03-11T08:15:00.000Z</published>
+    <dc:identifier>47154040</dc:identifier>
+    <category scheme="urn:finn:ad:private" term="false"/>
+    <category scheme="urn:finn:ad:disposed" label="Solgt" term="false"/>
+    <category scheme="urn:finn:ad:type" label="Ny båt til salgs" term="boat-new-sale"/>
+    <link href="https://cache.api.finn.no/iad/ad/boat-new-sale/47154040" rel="self"/>
+    <link href="http://www.finn.no/47154040" rel="alternate" type="text/html"/>
+    <georss:point finn:accuracy="9">69.67272 18.97668</georss:point>
+    <finn:location>
+      <finn:city>Tromsø</finn:city>
+    </finn:location>
+    <media:content height="1067" medium="image" width="1600" url="http://finncdn.no/mmo/2014/3/vertical-4/11/0/471/540/40_2038993236.jpg" type="image/jpeg"/>
+    <author>
+      <name>Maritim Center AS</name>
+    </author>
+    <finn:adata model="https://cache.api.finn.no/iad/ad/model/boat-new-sale">
+      <finn:field name="make" value="Quicksilver"/>
+      <finn:field name="model" value="675 Pilothouse"/>
+      <finn:field name="length_feet" value="21"/>
+      <finn:field name="max_speed" value="25"/>
+      <finn:field name="dealer_segment" value="Annet bilutsalg"/>
+      <finn:field name="motor">
+        <finn:field name="included" value="1"/>
+        <finn:field name="size" value="115.0"/>
+        <finn:field name="type" value="Utenbords"/>
+        <finn:field name="fuel" value="Bensin"/>
+      </finn:field>
+      <finn:field name="width" value="254"/>
+      <finn:field name="year" value="2014"/>
+      <finn:price name="main" value="425900"/>
+    </finn:adata>
+  </entry>
+  <entry>
+    <id>urn:id:47081611</id>
+    <title>Beneteau 580 Antares m/ Suzuki DF80</title>
+    <updated>2014-03-07T07:10:00.000Z</updated>
+    <published>2014-03-07T07:10:00.000Z</published>
+    <dc:identifier>47081611</dc:identifier>
+    <category scheme="urn:finn:ad:private" term="false"/>
+    <category scheme="urn:finn:ad:disposed" label="Solgt" term="false"/>
+    <category scheme="urn:finn:ad:type" label="Ny båt til salgs" term="boat-new-sale"/>
+    <link href="https://cache.api.finn.no/iad/ad/boat-new-sale/47081611" rel="self"/>
+    <link href="http://www.finn.no/47081611" rel="alternate" type="text/html"/>
+    <georss:point finn:accuracy="9">69.67272 18.97668</georss:point>
+    <finn:location>
+      <finn:city>Tromsø</finn:city>
+    </finn:location>
+    <media:content height="1067" medium="image" width="1600" url="http://finncdn.no/mmo/2014/3/vertical-4/07/1/470/816/11_2028713420.jpg" type="image/jpeg"/>
+    <author>
+      <name>Maritim Center AS</name>
+    </author>
+    <finn:adata model="https://cache.api.finn.no/iad/ad/model/boat-new-sale">
+      <finn:field name="make" value="Beneteau"/>
+      <finn:field name="model" value="580 Antares"/>
+      <finn:field name="length_feet" value="19"/>
+      <finn:field name="max_speed" value="27"/>
+      <finn:field name="dealer_segment" value="Annet bilutsalg"/>
+      <finn:field name="motor">
+        <finn:field name="included" value="1"/>
+        <finn:field name="size" value="80.0"/>
+        <finn:field name="type" value="Utenbords"/>
+        <finn:field name="fuel" value="Bensin"/>
+      </finn:field>
+      <finn:field name="width" value="240"/>
+      <finn:field name="year" value="2014"/>
+      <finn:price name="main" value="298900"/>
+    </finn:adata>
+  </entry>
+  <entry>
+    <id>urn:id:47081513</id>
+    <title>Linder 440 Fishing m/Suzuki DF4</title>
+    <updated>2014-03-07T06:48:00.000Z</updated>
+    <published>2014-03-07T06:48:00.000Z</published>
+    <dc:identifier>47081513</dc:identifier>
+    <category scheme="urn:finn:ad:private" term="false"/>
+    <category scheme="urn:finn:ad:disposed" label="Solgt" term="false"/>
+    <category scheme="urn:finn:ad:type" label="Ny båt til salgs" term="boat-new-sale"/>
+    <link href="https://cache.api.finn.no/iad/ad/boat-new-sale/47081513" rel="self"/>
+    <link href="http://www.finn.no/47081513" rel="alternate" type="text/html"/>
+    <georss:point finn:accuracy="9">69.67272 18.97668</georss:point>
+    <finn:location>
+      <finn:city>Tromsø</finn:city>
+    </finn:location>
+    <media:content height="76" medium="image" width="300" url="http://finncdn.no/mmo/2014/3/vertical-4/07/9/435/241/59_897409475.jpg" type="image/jpeg"/>
+    <author>
+      <name>Maritim Center AS</name>
+    </author>
+    <finn:adata model="https://cache.api.finn.no/iad/ad/model/boat-new-sale">
+      <finn:field name="make" value="Linder"/>
+      <finn:field name="length_feet" value="14"/>
+      <finn:field name="max_speed" value="10"/>
+      <finn:field name="dealer_segment" value="Annet bilutsalg"/>
+      <finn:field name="motor">
+        <finn:field name="included" value="1"/>
+        <finn:field name="size" value="4.0"/>
+        <finn:field name="type" value="Utenbords"/>
+        <finn:field name="fuel" value="Bensin"/>
+      </finn:field>
+      <finn:field name="width" value="164"/>
+      <finn:field name="year" value="2013"/>
+      <finn:price name="main" value="31000"/>
+    </finn:adata>
+  </entry>
+  <entry>
+    <id>urn:id:47081509</id>
+    <title>Linder 410 Fishing m/Suzuki DF4</title>
+    <updated>2014-03-07T06:47:00.000Z</updated>
+    <published>2014-03-07T06:47:00.000Z</published>
+    <dc:identifier>47081509</dc:identifier>
+    <category scheme="urn:finn:ad:private" term="false"/>
+    <category scheme="urn:finn:ad:disposed" label="Solgt" term="false"/>
+    <category scheme="urn:finn:ad:type" label="Ny båt til salgs" term="boat-new-sale"/>
+    <link href="https://cache.api.finn.no/iad/ad/boat-new-sale/47081509" rel="self"/>
+    <link href="http://www.finn.no/47081509" rel="alternate" type="text/html"/>
+    <georss:point finn:accuracy="9">69.67272 18.97668</georss:point>
+    <finn:location>
+      <finn:city>Tromsø</finn:city>
+    </finn:location>
+    <media:content height="81" medium="image" width="300" url="http://finncdn.no/mmo/2014/3/vertical-4/07/7/435/252/07_1418163548.jpg" type="image/jpeg"/>
+    <author>
+      <name>Maritim Center AS</name>
+    </author>
+    <finn:adata model="https://cache.api.finn.no/iad/ad/model/boat-new-sale">
+      <finn:field name="make" value="Linder"/>
+      <finn:field name="model" value="410 Fishing"/>
+      <finn:field name="length_feet" value="13"/>
+      <finn:field name="max_speed" value="10"/>
+      <finn:field name="dealer_segment" value="Annet bilutsalg"/>
+      <finn:field name="motor">
+        <finn:field name="included" value="1"/>
+        <finn:field name="size" value="4.0"/>
+        <finn:field name="type" value="Utenbords"/>
+        <finn:field name="fuel" value="Diesel"/>
+      </finn:field>
+      <finn:field name="width" value="156"/>
+      <finn:field name="year" value="2013"/>
+      <finn:price name="main" value="26900"/>
+    </finn:adata>
+  </entry>
+  <entry>
+    <id>urn:id:47081505</id>
+    <title>Linder 445 Basic m/Suzuki DF9,9BL</title>
+    <updated>2014-03-07T06:46:00.000Z</updated>
+    <published>2014-03-07T06:46:00.000Z</published>
+    <dc:identifier>47081505</dc:identifier>
+    <category scheme="urn:finn:ad:private" term="false"/>
+    <category scheme="urn:finn:ad:disposed" label="Solgt" term="false"/>
+    <category scheme="urn:finn:ad:type" label="Ny båt til salgs" term="boat-new-sale"/>
+    <link href="https://cache.api.finn.no/iad/ad/boat-new-sale/47081505" rel="self"/>
+    <link href="http://www.finn.no/47081505" rel="alternate" type="text/html"/>
+    <georss:point finn:accuracy="9">69.67272 18.97668</georss:point>
+    <finn:location>
+      <finn:city>Tromsø</finn:city>
+    </finn:location>
+    <media:content height="70" medium="image" width="261" url="http://finncdn.no/mmo/2014/3/vertical-4/07/4/435/284/04_258160492.jpg" type="image/jpeg"/>
+    <author>
+      <name>Maritim Center AS</name>
+    </author>
+    <finn:adata model="https://cache.api.finn.no/iad/ad/model/boat-new-sale">
+      <finn:field name="make" value="Linder"/>
+      <finn:field name="model" value="445 Basic"/>
+      <finn:field name="length_feet" value="15"/>
+      <finn:field name="max_speed" value="20"/>
+      <finn:field name="dealer_segment" value="Annet bilutsalg"/>
+      <finn:field name="motor">
+        <finn:field name="included" value="1"/>
+        <finn:field name="size" value="10.0"/>
+        <finn:field name="type" value="Utenbords"/>
+        <finn:field name="fuel" value="Bensin"/>
+      </finn:field>
+      <finn:field name="width" value="175"/>
+      <finn:field name="year" value="2013"/>
+      <finn:price name="main" value="57900"/>
+    </finn:adata>
+  </entry>
+  <entry>
+    <id>urn:id:47081496</id>
+    <title>HR325</title>
+    <updated>2014-03-07T06:45:00.000Z</updated>
+    <published>2014-03-07T06:45:00.000Z</published>
+    <dc:identifier>47081496</dc:identifier>
+    <category scheme="urn:finn:ad:private" term="false"/>
+    <category scheme="urn:finn:ad:disposed" label="Solgt" term="false"/>
+    <category scheme="urn:finn:ad:type" label="Ny båt til salgs" term="boat-new-sale"/>
+    <link href="https://cache.api.finn.no/iad/ad/boat-new-sale/47081496" rel="self"/>
+    <link href="http://www.finn.no/47081496" rel="alternate" type="text/html"/>
+    <georss:point finn:accuracy="9">69.67272 18.97668</georss:point>
+    <finn:location>
+      <finn:city>Tromsø</finn:city>
+    </finn:location>
+    <media:content height="300" medium="image" width="426" url="http://finncdn.no/mmo/2014/3/vertical-4/07/6/435/443/56_46054939.jpg" type="image/jpeg"/>
+    <author>
+      <name>Maritim Center AS</name>
+    </author>
+    <finn:adata model="https://cache.api.finn.no/iad/ad/model/boat-new-sale">
+      <finn:field name="make" value="HR"/>
+      <finn:field name="model" value="325"/>
+      <finn:field name="length_feet" value="11"/>
+      <finn:field name="max_speed" value="1"/>
+      <finn:field name="dealer_segment" value="Annet bilutsalg"/>
+      <finn:field name="motor">
+        <finn:field name="included" value="-1"/>
+      </finn:field>
+      <finn:field name="width" value="135"/>
+      <finn:field name="year" value="2013"/>
+      <finn:price name="main" value="9800"/>
+    </finn:adata>
+  </entry>
+  <entry>
+    <id>urn:id:46743425</id>
+    <title>Beneteau 680 Antares m/ Suzuki DF100ATL</title>
+    <updated>2014-02-16T16:53:00.000Z</updated>
+    <published>2014-02-16T16:53:00.000Z</published>
+    <dc:identifier>46743425</dc:identifier>
+    <category scheme="urn:finn:ad:private" term="false"/>
+    <category scheme="urn:finn:ad:disposed" label="Solgt" term="false"/>
+    <category scheme="urn:finn:ad:type" label="Ny båt til salgs" term="boat-new-sale"/>
+    <link href="https://cache.api.finn.no/iad/ad/boat-new-sale/46743425" rel="self"/>
+    <link href="http://www.finn.no/46743425" rel="alternate" type="text/html"/>
+    <georss:point finn:accuracy="9">69.67272 18.97668</georss:point>
+    <finn:location>
+      <finn:city>Tromsø</finn:city>
+    </finn:location>
+    <media:content height="1067" medium="image" width="1600" url="http://finncdn.no/mmo/2014/2/vertical-4/16/5/467/434/25_1037659422.jpg" type="image/jpeg"/>
+    <author>
+      <name>Maritim Center AS</name>
+    </author>
+    <finn:adata model="https://cache.api.finn.no/iad/ad/model/boat-new-sale">
+      <finn:field name="make" value="Beneteau"/>
+      <finn:field name="model" value="680 Antares"/>
+      <finn:field name="length_feet" value="22"/>
+      <finn:field name="max_speed" value="27"/>
+      <finn:field name="dealer_segment" value="Annet bilutsalg"/>
+      <finn:field name="motor">
+        <finn:field name="included" value="1"/>
+        <finn:field name="size" value="100.0"/>
+        <finn:field name="type" value="Utenbords"/>
+        <finn:field name="fuel" value="Bensin"/>
+      </finn:field>
+      <finn:field name="width" value="254"/>
+      <finn:field name="year" value="2014"/>
+      <finn:price name="main" value="364900"/>
+    </finn:adata>
+  </entry>
+  <entry>
+    <id>urn:id:46546274</id>
+    <title>Quicksilver 605 Pilothouse m/Mercury F100</title>
+    <updated>2014-02-05T13:20:00.000Z</updated>
+    <published>2014-02-05T13:20:00.000Z</published>
+    <dc:identifier>46546274</dc:identifier>
+    <category scheme="urn:finn:ad:private" term="false"/>
+    <category scheme="urn:finn:ad:disposed" label="Solgt" term="false"/>
+    <category scheme="urn:finn:ad:type" label="Ny båt til salgs" term="boat-new-sale"/>
+    <link href="https://cache.api.finn.no/iad/ad/boat-new-sale/46546274" rel="self"/>
+    <link href="http://www.finn.no/46546274" rel="alternate" type="text/html"/>
+    <georss:point finn:accuracy="9">69.67272 18.97668</georss:point>
+    <finn:location>
+      <finn:city>Tromsø</finn:city>
+    </finn:location>
+    <media:content height="1067" medium="image" width="1600" url="http://finncdn.no/mmo/2014/2/vertical-4/05/4/465/462/74_1376409025.jpg" type="image/jpeg"/>
+    <author>
+      <name>Maritim Center AS</name>
+    </author>
+    <finn:adata model="https://cache.api.finn.no/iad/ad/model/boat-new-sale">
+      <finn:field name="make" value="Quicksilver"/>
+      <finn:field name="model" value="605 Pilothouse"/>
+      <finn:field name="length_feet" value="19"/>
+      <finn:field name="max_speed" value="1"/>
+      <finn:field name="dealer_segment" value="Annet bilutsalg"/>
+      <finn:field name="motor">
+        <finn:field name="included" value="1"/>
+        <finn:field name="size" value="100.0"/>
+        <finn:field name="type" value="Utenbords"/>
+        <finn:field name="fuel" value="Bensin"/>
+      </finn:field>
+      <finn:field name="width" value="254"/>
+      <finn:field name="year" value="2014"/>
+      <finn:price name="main" value="342800"/>
+    </finn:adata>
+  </entry>
+  <entry>
+    <id>urn:id:46453871</id>
+    <title>XO 240 Cabin m/Evinrude 300 E-Tec</title>
+    <updated>2014-01-31T07:35:00.000Z</updated>
+    <published>2014-01-31T07:35:00.000Z</published>
+    <dc:identifier>46453871</dc:identifier>
+    <category scheme="urn:finn:ad:private" term="false"/>
+    <category scheme="urn:finn:ad:disposed" label="Solgt" term="false"/>
+    <category scheme="urn:finn:ad:type" label="Brukt båt til salgs" term="boat-used-sale"/>
+    <link href="https://cache.api.finn.no/iad/ad/boat-used-sale/46453871" rel="self"/>
+    <link href="http://www.finn.no/46453871" rel="alternate" type="text/html"/>
+    <georss:point finn:accuracy="9">69.67272 18.97668</georss:point>
+    <finn:location>
+      <finn:city>Tromsø</finn:city>
+    </finn:location>
+    <media:content height="1067" medium="image" width="1600" url="http://finncdn.no/mmo/2014/1/vertical-4/31/2/435/237/52_1186153179.jpg" type="image/jpeg"/>
+    <author>
+      <name>Maritim Center AS</name>
+    </author>
+    <finn:adata model="https://cache.api.finn.no/iad/ad/model/boat-used-sale">
+      <finn:field name="make" value="XO"/>
+      <finn:field name="model" value="240 Cabin"/>
+      <finn:field name="length_feet" value="25"/>
+      <finn:field name="max_speed" value="45"/>
+      <finn:field name="dealer_segment" value="Annet bilutsalg"/>
+      <finn:field name="motor">
+        <finn:field name="included" value="1"/>
+        <finn:field name="size" value="300.0"/>
+        <finn:field name="type" value="Utenbords"/>
+        <finn:field name="fuel" value="Bensin"/>
+      </finn:field>
+      <finn:field name="width" value="228"/>
+      <finn:field name="year" value="2013"/>
+      <finn:price name="main" value="719000"/>
+    </finn:adata>
+  </entry>
+  <entry>
+    <id>urn:id:46439652</id>
+    <title>Askeladden P80 Weekend m/Volvo Penta</title>
+    <updated>2014-01-30T10:02:00.000Z</updated>
+    <published>2014-01-30T10:02:00.000Z</published>
+    <dc:identifier>46439652</dc:identifier>
+    <category scheme="urn:finn:ad:private" term="false"/>
+    <category scheme="urn:finn:ad:disposed" label="Solgt" term="false"/>
+    <category scheme="urn:finn:ad:type" label="Ny båt til salgs" term="boat-new-sale"/>
+    <link href="https://cache.api.finn.no/iad/ad/boat-new-sale/46439652" rel="self"/>
+    <link href="http://www.finn.no/46439652" rel="alternate" type="text/html"/>
+    <georss:point finn:accuracy="9">69.67272 18.97668</georss:point>
+    <finn:location>
+      <finn:city>Tromsø</finn:city>
+    </finn:location>
+    <media:content height="1067" medium="image" width="1600" url="http://finncdn.no/mmo/2014/1/vertical-4/30/6/422/373/16_657566183.jpg" type="image/jpeg"/>
+    <author>
+      <name>Maritim Center AS</name>
+    </author>
+    <finn:adata model="https://cache.api.finn.no/iad/ad/model/boat-new-sale">
+      <finn:field name="make" value="Askeladden"/>
+      <finn:field name="length_feet" value="26"/>
+      <finn:field name="max_speed" value="32"/>
+      <finn:field name="dealer_segment" value="Annet bilutsalg"/>
+      <finn:field name="motor">
+        <finn:field name="included" value="1"/>
+        <finn:field name="size" value="220.0"/>
+        <finn:field name="type" value="Innenbords"/>
+        <finn:field name="fuel" value="Bensin"/>
+      </finn:field>
+      <finn:field name="width" value="290"/>
+      <finn:field name="year" value="2013"/>
+      <finn:price name="main" value="1050000"/>
+    </finn:adata>
+  </entry>
+  <entry>
+    <id>urn:id:46439608</id>
+    <title>Faster 460I M/SUZUKI DF40ATL</title>
+    <updated>2014-01-30T10:00:00.000Z</updated>
+    <published>2014-01-30T10:00:00.000Z</published>
+    <dc:identifier>46439608</dc:identifier>
+    <category scheme="urn:finn:ad:private" term="false"/>
+    <category scheme="urn:finn:ad:disposed" label="Solgt" term="false"/>
+    <category scheme="urn:finn:ad:type" label="Ny båt til salgs" term="boat-new-sale"/>
+    <link href="https://cache.api.finn.no/iad/ad/boat-new-sale/46439608" rel="self"/>
+    <link href="http://www.finn.no/46439608" rel="alternate" type="text/html"/>
+    <georss:point finn:accuracy="9">69.67272 18.97668</georss:point>
+    <finn:location>
+      <finn:city>Tromsø</finn:city>
+    </finn:location>
+    <media:content height="462" medium="image" width="800" url="http://finncdn.no/mmo/2014/1/vertical-4/30/0/425/304/40_1645694835.jpg" type="image/jpeg"/>
+    <author>
+      <name>Maritim Center AS</name>
+    </author>
+    <finn:adata model="https://cache.api.finn.no/iad/ad/model/boat-new-sale">
+      <finn:field name="make" value="Faster"/>
+      <finn:field name="length_feet" value="15"/>
+      <finn:field name="max_speed" value="27"/>
+      <finn:field name="dealer_segment" value="Annet bilutsalg"/>
+      <finn:field name="motor">
+        <finn:field name="included" value="1"/>
+        <finn:field name="size" value="50.0"/>
+        <finn:field name="type" value="Utenbords"/>
+        <finn:field name="fuel" value="Bensin"/>
+      </finn:field>
+      <finn:field name="width" value="185"/>
+      <finn:field name="year" value="2013"/>
+      <finn:price name="main" value="139900"/>
+    </finn:adata>
+  </entry>
+  <entry>
+    <id>urn:id:46439552</id>
+    <title>XO 220 Open m/Evinrude DE150 E-Tec</title>
+    <updated>2014-01-30T10:03:00.000Z</updated>
+    <published>2014-01-30T09:58:00.000Z</published>
+    <dc:identifier>46439552</dc:identifier>
+    <category scheme="urn:finn:ad:private" term="false"/>
+    <category scheme="urn:finn:ad:disposed" label="Solgt" term="false"/>
+    <category scheme="urn:finn:ad:type" label="Ny båt til salgs" term="boat-new-sale"/>
+    <link href="https://cache.api.finn.no/iad/ad/boat-new-sale/46439552" rel="self"/>
+    <link href="http://www.finn.no/46439552" rel="alternate" type="text/html"/>
+    <georss:point finn:accuracy="9">69.67272 18.97668</georss:point>
+    <finn:location>
+      <finn:city>Tromsø</finn:city>
+    </finn:location>
+    <media:content height="1067" medium="image" width="1600" url="http://finncdn.no/mmo/2014/1/vertical-4/30/4/422/379/54_998668432.jpg" type="image/jpeg"/>
+    <author>
+      <name>Maritim Center AS</name>
+    </author>
+    <finn:adata model="https://cache.api.finn.no/iad/ad/model/boat-new-sale">
+      <finn:field name="make" value="XO"/>
+      <finn:field name="length_feet" value="22"/>
+      <finn:field name="max_speed" value="38"/>
+      <finn:field name="dealer_segment" value="Annet bilutsalg"/>
+      <finn:field name="motor">
+        <finn:field name="included" value="1"/>
+        <finn:field name="size" value="150.0"/>
+        <finn:field name="type" value="Utenbords"/>
+        <finn:field name="fuel" value="Bensin"/>
+      </finn:field>
+      <finn:field name="width" value="230"/>
+      <finn:field name="year" value="2012"/>
+      <finn:price name="main" value="449000"/>
+    </finn:adata>
+  </entry>
+  <entry>
+    <id>urn:id:46439515</id>
+    <title>Faster 560SC M/Suzuki DF70ATL</title>
+    <updated>2014-01-30T10:03:00.000Z</updated>
+    <published>2014-01-30T09:56:00.000Z</published>
+    <dc:identifier>46439515</dc:identifier>
+    <category scheme="urn:finn:ad:private" term="false"/>
+    <category scheme="urn:finn:ad:disposed" label="Solgt" term="false"/>
+    <category scheme="urn:finn:ad:type" label="Ny båt til salgs" term="boat-new-sale"/>
+    <link href="https://cache.api.finn.no/iad/ad/boat-new-sale/46439515" rel="self"/>
+    <link href="http://www.finn.no/46439515" rel="alternate" type="text/html"/>
+    <georss:point finn:accuracy="9">69.67272 18.97668</georss:point>
+    <finn:location>
+      <finn:city>Tromsø</finn:city>
+    </finn:location>
+    <media:content height="462" medium="image" width="800" url="http://finncdn.no/mmo/2014/1/vertical-4/30/6/425/311/26_43056782.jpg" type="image/jpeg"/>
+    <author>
+      <name>Maritim Center AS</name>
+    </author>
+    <finn:adata model="https://cache.api.finn.no/iad/ad/model/boat-new-sale">
+      <finn:field name="make" value="Faster"/>
+      <finn:field name="length_feet" value="18"/>
+      <finn:field name="max_speed" value="30"/>
+      <finn:field name="dealer_segment" value="Annet bilutsalg"/>
+      <finn:field name="motor">
+        <finn:field name="included" value="1"/>
+        <finn:field name="size" value="70.0"/>
+        <finn:field name="type" value="Utenbords"/>
+        <finn:field name="fuel" value="Bensin"/>
+      </finn:field>
+      <finn:field name="width" value="220"/>
+      <finn:field name="year" value="2013"/>
+      <finn:price name="main" value="249900"/>
+    </finn:adata>
+  </entry>
+  <entry>
+    <id>urn:id:46438183</id>
+    <title>Askeladden P77 Weekend</title>
+    <updated>2014-01-30T08:52:00.000Z</updated>
+    <published>2014-01-30T08:52:00.000Z</published>
+    <dc:identifier>46438183</dc:identifier>
+    <category scheme="urn:finn:ad:private" term="false"/>
+    <category scheme="urn:finn:ad:disposed" label="Solgt" term="false"/>
+    <category scheme="urn:finn:ad:type" label="Brukt båt til salgs" term="boat-used-sale"/>
+    <link href="https://cache.api.finn.no/iad/ad/boat-used-sale/46438183" rel="self"/>
+    <link href="http://www.finn.no/46438183" rel="alternate" type="text/html"/>
+    <georss:point finn:accuracy="9">69.67272 18.97668</georss:point>
+    <finn:location>
+      <finn:city>Tromsø</finn:city>
+    </finn:location>
+    <media:content height="467" medium="image" width="870" url="http://finncdn.no/mmo/2014/1/vertical-4/30/8/435/315/48_504893880.jpg" type="image/jpeg"/>
+    <author>
+      <name>Maritim Center AS</name>
+    </author>
+    <finn:adata model="https://cache.api.finn.no/iad/ad/model/boat-used-sale">
+      <finn:field name="make" value="Askeladden"/>
+      <finn:field name="length_feet" value="25"/>
+      <finn:field name="max_speed" value="25"/>
+      <finn:field name="dealer_segment" value="Annet bilutsalg"/>
+      <finn:field name="motor">
+        <finn:field name="included" value="1"/>
+        <finn:field name="size" value="145.0"/>
+        <finn:field name="type" value="Innenbords"/>
+        <finn:field name="fuel" value="Diesel"/>
+      </finn:field>
+      <finn:field name="width" value="250"/>
+      <finn:field name="year" value="2014"/>
+      <finn:price name="main" value="719000"/>
+    </finn:adata>
+  </entry>
+  <entry>
+    <id>urn:id:46438046</id>
+    <title>Askeladden P66 Pilothouse m/Suzuki DF115ATL</title>
+    <updated>2014-01-30T08:47:00.000Z</updated>
+    <published>2014-01-30T08:47:00.000Z</published>
+    <dc:identifier>46438046</dc:identifier>
+    <category scheme="urn:finn:ad:private" term="false"/>
+    <category scheme="urn:finn:ad:disposed" label="Solgt" term="false"/>
+    <category scheme="urn:finn:ad:type" label="Brukt båt til salgs" term="boat-used-sale"/>
+    <link href="https://cache.api.finn.no/iad/ad/boat-used-sale/46438046" rel="self"/>
+    <link href="http://www.finn.no/46438046" rel="alternate" type="text/html"/>
+    <georss:point finn:accuracy="9">69.67272 18.97668</georss:point>
+    <finn:location>
+      <finn:city>Tromsø</finn:city>
+    </finn:location>
+    <media:content height="1067" medium="image" width="1600" url="http://finncdn.no/mmo/2014/1/vertical-4/30/1/435/325/01_1973471031.jpg" type="image/jpeg"/>
+    <author>
+      <name>Maritim Center AS</name>
+    </author>
+    <finn:adata model="https://cache.api.finn.no/iad/ad/model/boat-used-sale">
+      <finn:field name="make" value="Askeladden"/>
+      <finn:field name="model" value="P66 Pilothouse"/>
+      <finn:field name="length_feet" value="22"/>
+      <finn:field name="max_speed" value="30"/>
+      <finn:field name="dealer_segment" value="Annet bilutsalg"/>
+      <finn:field name="motor">
+        <finn:field name="included" value="1"/>
+        <finn:field name="size" value="115.0"/>
+        <finn:field name="type" value="Utenbords"/>
+        <finn:field name="fuel" value="Bensin"/>
+      </finn:field>
+      <finn:field name="width" value="250"/>
+      <finn:field name="year" value="2014"/>
+      <finn:price name="main" value="489000"/>
+    </finn:adata>
+  </entry>
+  <entry>
+    <id>urn:id:46140104</id>
+    <title>Askeladden P66 Multi U/Motor</title>
+    <updated>2014-01-14T09:31:00.000Z</updated>
+    <published>2014-01-13T13:24:00.000Z</published>
+    <dc:identifier>46140104</dc:identifier>
+    <category scheme="urn:finn:ad:private" term="false"/>
+    <category scheme="urn:finn:ad:disposed" label="Solgt" term="false"/>
+    <category scheme="urn:finn:ad:type" label="Brukt båt til salgs" term="boat-used-sale"/>
+    <link href="https://cache.api.finn.no/iad/ad/boat-used-sale/46140104" rel="self"/>
+    <link href="http://www.finn.no/46140104" rel="alternate" type="text/html"/>
+    <georss:point finn:accuracy="9">69.67272 18.97668</georss:point>
+    <finn:location>
+      <finn:city>Tromsø</finn:city>
+    </finn:location>
+    <media:content height="467" medium="image" width="870" url="http://finncdn.no/mmo/2014/1/vertical-4/13/2/435/342/72_1641923831.jpg" type="image/jpeg"/>
+    <author>
+      <name>Maritim Center AS</name>
+    </author>
+    <finn:adata model="https://cache.api.finn.no/iad/ad/model/boat-used-sale">
+      <finn:field name="make" value="Askeladden"/>
+      <finn:field name="length_feet" value="22"/>
+      <finn:field name="max_speed" value="1"/>
+      <finn:field name="dealer_segment" value="Annet bilutsalg"/>
+      <finn:field name="motor">
+        <finn:field name="included" value="-1"/>
+        <finn:field name="size" value="70.0"/>
+        <finn:field name="type" value="Utenbords"/>
+        <finn:field name="fuel" value="Bensin"/>
+      </finn:field>
+      <finn:field name="width" value="250"/>
+      <finn:field name="year" value="2013"/>
+      <finn:price name="main" value="154900"/>
+    </finn:adata>
+  </entry>
+  <entry>
+    <id>urn:id:46139980</id>
+    <title>Bella 700 Patrol m/Mercury F150 Vinterkupp</title>
+    <updated>2014-01-13T13:20:00.000Z</updated>
+    <published>2014-01-13T13:20:00.000Z</published>
+    <dc:identifier>46139980</dc:identifier>
+    <category scheme="urn:finn:ad:private" term="false"/>
+    <category scheme="urn:finn:ad:disposed" label="Solgt" term="false"/>
+    <category scheme="urn:finn:ad:type" label="Brukt båt til salgs" term="boat-used-sale"/>
+    <link href="https://cache.api.finn.no/iad/ad/boat-used-sale/46139980" rel="self"/>
+    <link href="http://www.finn.no/46139980" rel="alternate" type="text/html"/>
+    <georss:point finn:accuracy="9">69.67272 18.97668</georss:point>
+    <finn:location>
+      <finn:city>Tromsø</finn:city>
+    </finn:location>
+    <media:content height="1067" medium="image" width="1600" url="http://finncdn.no/mmo/2014/1/vertical-4/13/5/435/986/05_557279192.jpg" type="image/jpeg"/>
+    <author>
+      <name>Maritim Center AS</name>
+    </author>
+    <finn:adata model="https://cache.api.finn.no/iad/ad/model/boat-used-sale">
+      <finn:field name="make" value="Bella"/>
+      <finn:field name="model" value="700 Patrol"/>
+      <finn:field name="length_feet" value="22"/>
+      <finn:field name="max_speed" value="1"/>
+      <finn:field name="dealer_segment" value="Annet bilutsalg"/>
+      <finn:field name="motor">
+        <finn:field name="included" value="1"/>
+        <finn:field name="size" value="150.0"/>
+        <finn:field name="type" value="Utenbords"/>
+        <finn:field name="fuel" value="Bensin"/>
+      </finn:field>
+      <finn:field name="width" value="260"/>
+      <finn:field name="year" value="2013"/>
+      <finn:price name="main" value="499000"/>
+    </finn:adata>
+  </entry>
+  <entry>
+    <id>urn:id:45268210</id>
+    <title>Quicksilver CAPTUR 755 PILOTHOUSE m/Merury 225 Verado</title>
+    <updated>2013-11-19T10:48:00.000Z</updated>
+    <published>2013-11-18T09:16:00.000Z</published>
+    <dc:identifier>45268210</dc:identifier>
+    <category scheme="urn:finn:ad:private" term="false"/>
+    <category scheme="urn:finn:ad:disposed" label="Solgt" term="false"/>
+    <category scheme="urn:finn:ad:type" label="Ny båt til salgs" term="boat-new-sale"/>
+    <link href="https://cache.api.finn.no/iad/ad/boat-new-sale/45268210" rel="self"/>
+    <link href="http://www.finn.no/45268210" rel="alternate" type="text/html"/>
+    <georss:point finn:accuracy="9">69.67272 18.97668</georss:point>
+    <finn:location>
+      <finn:city>Tromsø</finn:city>
+    </finn:location>
+    <media:content height="1067" medium="image" width="1600" url="http://finncdn.no/mmo/2013/11/vertical-4/22/0/452/682/10_1058826681.jpg" type="image/jpeg"/>
+    <author>
+      <name>Maritim Center AS</name>
+    </author>
+    <finn:adata model="https://cache.api.finn.no/iad/ad/model/boat-new-sale">
+      <finn:field name="make" value="Quicksilver"/>
+      <finn:field name="length_feet" value="23"/>
+      <finn:field name="max_speed" value="35"/>
+      <finn:field name="dealer_segment" value="Annet bilutsalg"/>
+      <finn:field name="motor">
+        <finn:field name="included" value="1"/>
+        <finn:field name="size" value="225.0"/>
+        <finn:field name="type" value="Utenbords"/>
+        <finn:field name="fuel" value="Bensin"/>
+      </finn:field>
+      <finn:field name="width" value="279"/>
+      <finn:field name="year" value="2014"/>
+      <finn:price name="main" value="659900"/>
+    </finn:adata>
+  </entry>
+  <entry>
+    <id>urn:id:43531155</id>
+    <title>HR 630WA m/Suzuki DF140ATL</title>
+    <updated>2014-01-30T11:18:00.000Z</updated>
+    <published>2013-08-22T12:11:00.000Z</published>
+    <dc:identifier>43531155</dc:identifier>
+    <category scheme="urn:finn:ad:private" term="false"/>
+    <category scheme="urn:finn:ad:disposed" label="Solgt" term="false"/>
+    <category scheme="urn:finn:ad:type" label="Ny båt til salgs" term="boat-new-sale"/>
+    <link href="https://cache.api.finn.no/iad/ad/boat-new-sale/43531155" rel="self"/>
+    <link href="http://www.finn.no/43531155" rel="alternate" type="text/html"/>
+    <georss:point finn:accuracy="9">69.67272 18.97668</georss:point>
+    <finn:location>
+      <finn:city>Tromsø</finn:city>
+    </finn:location>
+    <media:content height="284" medium="image" width="428" url="http://finncdn.no/mmo/2013/8/vertical-4/22/5/435/311/55_1811336179.jpg" type="image/jpeg"/>
+    <author>
+      <name>Maritim Center AS</name>
+    </author>
+    <finn:adata model="https://cache.api.finn.no/iad/ad/model/boat-new-sale">
+      <finn:field name="make" value="HR"/>
+      <finn:field name="length_feet" value="21"/>
+      <finn:field name="max_speed" value="35"/>
+      <finn:field name="dealer_segment" value="Annet bilutsalg"/>
+      <finn:field name="motor">
+        <finn:field name="included" value="1"/>
+        <finn:field name="size" value="140.0"/>
+        <finn:field name="type" value="Utenbords"/>
+        <finn:field name="fuel" value="Bensin"/>
+      </finn:field>
+      <finn:field name="width" value="240"/>
+      <finn:field name="year" value="2012"/>
+      <finn:price name="main" value="329000"/>
+    </finn:adata>
+  </entry>
+</feed>

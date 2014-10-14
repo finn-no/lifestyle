@@ -1,0 +1,242 @@
+[
+    {
+        "title": "agriculture-thresher",
+        "href": "https://cache.api.finn.no/iad/search/agriculture-thresher",
+        "description": "https://cache.api.finn.no/iad/search/agriculture-thresher/description"
+    },
+    {
+        "title": "agriculture-tools",
+        "href": "https://cache.api.finn.no/iad/search/agriculture-tools",
+        "description": "https://cache.api.finn.no/iad/search/agriculture-tools/description"
+    },
+    {
+        "title": "agriculture-tractor",
+        "href": "https://cache.api.finn.no/iad/search/agriculture-tractor",
+        "description": "https://cache.api.finn.no/iad/search/agriculture-tractor/description"
+    },
+    {
+        "title": "atv",
+        "href": "https://cache.api.finn.no/iad/search/atv",
+        "description": "https://cache.api.finn.no/iad/search/atv/description"
+    },
+    {
+        "title": "bap",
+        "href": "https://cache.api.finn.no/iad/search/bap",
+        "description": "https://cache.api.finn.no/iad/search/bap/description"
+    },
+    {
+        "title": "bap-free",
+        "href": "https://cache.api.finn.no/iad/search/bap-free",
+        "description": "https://cache.api.finn.no/iad/search/bap-free/description"
+    },
+    {
+        "title": "bap-sale",
+        "href": "https://cache.api.finn.no/iad/search/bap-sale",
+        "description": "https://cache.api.finn.no/iad/search/bap-sale/description"
+    },
+    {
+        "title": "bap-wanted",
+        "href": "https://cache.api.finn.no/iad/search/bap-wanted",
+        "description": "https://cache.api.finn.no/iad/search/bap-wanted/description"
+    },
+    {
+        "title": "boat-dock",
+        "href": "https://cache.api.finn.no/iad/search/boat-dock",
+        "description": "https://cache.api.finn.no/iad/search/boat-dock/description"
+    },
+    {
+        "title": "boat-dock-wanted",
+        "href": "https://cache.api.finn.no/iad/search/boat-dock-wanted",
+        "description": "https://cache.api.finn.no/iad/search/boat-dock-wanted/description"
+    },
+    {
+        "title": "boat-motor",
+        "href": "https://cache.api.finn.no/iad/search/boat-motor",
+        "description": "https://cache.api.finn.no/iad/search/boat-motor/description"
+    },
+    {
+        "title": "boat-parts",
+        "href": "https://cache.api.finn.no/iad/search/boat-parts",
+        "description": "https://cache.api.finn.no/iad/search/boat-parts/description"
+    },
+    {
+        "title": "boat-parts-motor-wanted",
+        "href": "https://cache.api.finn.no/iad/search/boat-parts-motor-wanted",
+        "description": "https://cache.api.finn.no/iad/search/boat-parts-motor-wanted/description"
+    },
+    {
+        "title": "boat-rent",
+        "href": "https://cache.api.finn.no/iad/search/boat-rent",
+        "description": "https://cache.api.finn.no/iad/search/boat-rent/description"
+    },
+    {
+        "title": "boat-rent-wanted",
+        "href": "https://cache.api.finn.no/iad/search/boat-rent-wanted",
+        "description": "https://cache.api.finn.no/iad/search/boat-rent-wanted/description"
+    },
+    {
+        "title": "boat-sale",
+        "href": "https://cache.api.finn.no/iad/search/boat-sale",
+        "description": "https://cache.api.finn.no/iad/search/boat-sale/description"
+    },
+    {
+        "title": "boat-used",
+        "href": "https://cache.api.finn.no/iad/search/boat-used",
+        "description": "https://cache.api.finn.no/iad/search/boat-used/description"
+    },
+    {
+        "title": "boat-used-wanted",
+        "href": "https://cache.api.finn.no/iad/search/boat-used-wanted",
+        "description": "https://cache.api.finn.no/iad/search/boat-used-wanted/description"
+    },
+    {
+        "title": "bus",
+        "href": "https://cache.api.finn.no/iad/search/bus",
+        "description": "https://cache.api.finn.no/iad/search/bus/description"
+    },
+    {
+        "title": "car-abroad",
+        "href": "https://cache.api.finn.no/iad/search/car-abroad",
+        "description": "https://cache.api.finn.no/iad/search/car-abroad/description"
+    },
+    {
+        "title": "car-norway",
+        "href": "https://cache.api.finn.no/iad/search/car-norway",
+        "description": "https://cache.api.finn.no/iad/search/car-norway/description"
+    },
+    {
+        "title": "caravan",
+        "href": "https://cache.api.finn.no/iad/search/caravan",
+        "description": "https://cache.api.finn.no/iad/search/caravan/description"
+    },
+    {
+        "title": "company-for-sale",
+        "href": "https://cache.api.finn.no/iad/search/company-for-sale",
+        "description": "https://cache.api.finn.no/iad/search/company-for-sale/description"
+    },
+    {
+        "title": "construction",
+        "href": "https://cache.api.finn.no/iad/search/construction",
+        "description": "https://cache.api.finn.no/iad/search/construction/description"
+    },
+    {
+        "title": "job-full-time",
+        "href": "https://cache.api.finn.no/iad/search/job-full-time",
+        "description": "https://cache.api.finn.no/iad/search/job-full-time/description"
+    },
+    {
+        "title": "job-management",
+        "href": "https://cache.api.finn.no/iad/search/job-management",
+        "description": "https://cache.api.finn.no/iad/search/job-management/description"
+    },
+    {
+        "title": "job-part-time",
+        "href": "https://cache.api.finn.no/iad/search/job-part-time",
+        "description": "https://cache.api.finn.no/iad/search/job-part-time/description"
+    },
+    {
+        "title": "mc",
+        "href": "https://cache.api.finn.no/iad/search/mc",
+        "description": "https://cache.api.finn.no/iad/search/mc/description"
+    },
+    {
+        "title": "mobile-home",
+        "href": "https://cache.api.finn.no/iad/search/mobile-home",
+        "description": "https://cache.api.finn.no/iad/search/mobile-home/description"
+    },
+    {
+        "title": "moped-scooter",
+        "href": "https://cache.api.finn.no/iad/search/moped-scooter",
+        "description": "https://cache.api.finn.no/iad/search/moped-scooter/description"
+    },
+    {
+        "title": "realestate-business-letting",
+        "href": "https://cache.api.finn.no/iad/search/realestate-business-letting",
+        "description": "https://cache.api.finn.no/iad/search/realestate-business-letting/description"
+    },
+    {
+        "title": "realestate-business-plot",
+        "href": "https://cache.api.finn.no/iad/search/realestate-business-plot",
+        "description": "https://cache.api.finn.no/iad/search/realestate-business-plot/description"
+    },
+    {
+        "title": "realestate-business-sale",
+        "href": "https://cache.api.finn.no/iad/search/realestate-business-sale",
+        "description": "https://cache.api.finn.no/iad/search/realestate-business-sale/description"
+    },
+    {
+        "title": "realestate-development",
+        "href": "https://cache.api.finn.no/iad/search/realestate-development",
+        "description": "https://cache.api.finn.no/iad/search/realestate-development/description"
+    },
+    {
+        "title": "realestate-homes",
+        "href": "https://cache.api.finn.no/iad/search/realestate-homes",
+        "description": "https://cache.api.finn.no/iad/search/realestate-homes/description"
+    },
+    {
+        "title": "realestate-leisure-plot",
+        "href": "https://cache.api.finn.no/iad/search/realestate-leisure-plot",
+        "description": "https://cache.api.finn.no/iad/search/realestate-leisure-plot/description"
+    },
+    {
+        "title": "realestate-leisure-sale",
+        "href": "https://cache.api.finn.no/iad/search/realestate-leisure-sale",
+        "description": "https://cache.api.finn.no/iad/search/realestate-leisure-sale/description"
+    },
+    {
+        "title": "realestate-leisure-sale-abroad",
+        "href": "https://cache.api.finn.no/iad/search/realestate-leisure-sale-abroad",
+        "description": "https://cache.api.finn.no/iad/search/realestate-leisure-sale-abroad/description"
+    },
+    {
+        "title": "realestate-letting",
+        "href": "https://cache.api.finn.no/iad/search/realestate-letting",
+        "description": "https://cache.api.finn.no/iad/search/realestate-letting/description"
+    },
+    {
+        "title": "realestate-letting-wanted",
+        "href": "https://cache.api.finn.no/iad/search/realestate-letting-wanted",
+        "description": "https://cache.api.finn.no/iad/search/realestate-letting-wanted/description"
+    },
+    {
+        "title": "realestate-plot",
+        "href": "https://cache.api.finn.no/iad/search/realestate-plot",
+        "description": "https://cache.api.finn.no/iad/search/realestate-plot/description"
+    },
+    {
+        "title": "realestate-prefabricated",
+        "href": "https://cache.api.finn.no/iad/search/realestate-prefabricated",
+        "description": "https://cache.api.finn.no/iad/search/realestate-prefabricated/description"
+    },
+    {
+        "title": "realestate-unit",
+        "href": "https://cache.api.finn.no/iad/search/realestate-unit",
+        "description": "https://cache.api.finn.no/iad/search/realestate-unit/description"
+    },
+    {
+        "title": "snowmobile",
+        "href": "https://cache.api.finn.no/iad/search/snowmobile",
+        "description": "https://cache.api.finn.no/iad/search/snowmobile/description"
+    },
+    {
+        "title": "truck",
+        "href": "https://cache.api.finn.no/iad/search/truck",
+        "description": "https://cache.api.finn.no/iad/search/truck/description"
+    },
+    {
+        "title": "truck-abroad",
+        "href": "https://cache.api.finn.no/iad/search/truck-abroad",
+        "description": "https://cache.api.finn.no/iad/search/truck-abroad/description"
+    },
+    {
+        "title": "van-abroad",
+        "href": "https://cache.api.finn.no/iad/search/van-abroad",
+        "description": "https://cache.api.finn.no/iad/search/van-abroad/description"
+    },
+    {
+        "title": "van-norway",
+        "href": "https://cache.api.finn.no/iad/search/van-norway",
+        "description": "https://cache.api.finn.no/iad/search/van-norway/description"
+    }
+]

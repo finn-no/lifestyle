@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href='static/xsl/service-to-html.xsl' type='text/xsl'?>
+<service xmlns:f="http://xmlns.finn.no/opensearch/1.0" xmlns="http://www.w3.org/2007/app" xmlns:atom="http://www.w3.org/2005/Atom">
+  <workspace>
+    <atom:title>search-suggestions</atom:title>
+    <atom:link href="https://cache.api.finn.no/iad/search" rel="suggestions" type="application/x-finn-suggestions+json"/>
+    <atom:link href="https://cache.api.finn.no/iad/search/description" rel="suggestions" type="application/opensearchdescription+xml"/>
+  </workspace>
+  <workspace>
+    <atom:title>searches</atom:title>
+    <collection href="https://cache.api.finn.no/iad/search/agriculture-thresher">
+      <atom:title>agriculture-thresher</atom:title>
+      <atom:link href="https://cache.api.finn.no/iad/search/agriculture-thresher/description" rel="search" type="application/opensearchdescription+xml" title="agriculture-thresher"/>
+      <categories>
+        <atom:category scheme="urn:finn:market" term="agriculture-thresher"/>
+      </categories>
+    </collection>
+    <collection href="https://cache.api.finn.no/iad/search/agriculture-tools">
+      <atom:title>agriculture-tools</atom:title>
+      <atom:link href="https://cache.api.finn.no/iad/search/agriculture-tools/description" rel="search" type="application/opensearchdescription+xml" title="agriculture-tools"/>
+      <categories>
+        <atom:category scheme="urn:finn:market" term="agriculture-tools"/>
+      </categories>
+    </collection>
+    <collection href="https://cache.api.finn.no/iad/search/agriculture-tractor">
+      <atom:title>agriculture-tractor</atom:title>
+      <atom:link href="https://cache.api.finn.no/iad/search/agriculture-tractor/description" rel="search" type="application/opensearchdescription+xml" title="agriculture-tractor"/>
+      <categories>
+        <atom:category scheme="urn:finn:market" term="agriculture-tractor"/>
+      </categories>
+    </collection>
+    <collection href="https://cache.api.finn.no/iad/search/atv">
+      <atom:title>atv</atom:title>
+      <atom:link href="https://cache.api.finn.no/iad/search/atv/description" rel="search" type="application/opensearchdescription+xml" title="atv"/>
+      <categories>
+        <atom:category scheme="urn:finn:market" term="atv"/>
+      </categories>
+    </collection>
+    <collection href="https://cache.api.finn.no/iad/search/bap">
+      <atom:title>bap</atom:title>
+      <atom:link href="https://cache.api.finn.no/iad/search/bap/description" rel="search" type="application/opensearchdescription+xml" title="bap"/>
+      <categories>
+        <atom:category scheme="urn:finn:market" term="bap"/>
+      </categories>
+    </collection>
+    <collection href="https://cache.api.finn.no/iad/search/bap-free">
+      <atom:title>bap-free</atom:title>
+      <atom:link href="https://cache.api.finn.no/iad/search/bap-free/description" rel="search" type="application/opensearchdescription+xml" title="bap-free"/>
+      <categories>
+        <atom:category scheme="urn:finn:market" term="bap-free"/>
+      </categories>
+    </collection>
+    <collection href="https://cache.api.finn.no/iad/search/bap-sale">
+      <atom:title>bap-sale</atom:title>
+      <atom:link href="https://cache.api.finn.no/iad/search/bap-sale/description" rel="search" type="application/opensearchdescription+xml" title="bap-sale"/>
+      <categories>
+        <atom:category scheme="urn:finn:market" term="bap-sale"/>
+      </categories>
+    </collection>
+    <collection href="https://cache.api.finn.no/iad/search/bap-wanted">
+      <atom:title>bap-wanted</atom:title>
+      <atom:link href="https://cache.api.finn.no/iad/search/bap-wanted/description" rel="search" type="application/opensearchdescription+xml" title="bap-wanted"/>
+      <categories>
+        <atom:category scheme="urn:finn:market" term="bap-wanted"/>
+      </categories>
+    </collection>
+    <collection href="https://cache.api.finn.no/iad/search/boat-dock">
+      <atom:title>boat-dock</atom:title>
+      <atom:link href="https://cache.api.finn.no/iad/search/boat-dock/description" rel="search" type="application/opensearchdescription+xml" title="boat-dock"/>
+      <categories>
+        <atom:category scheme="urn:finn:market" term="boat-dock"/>
+      </categories>
+    </collection>
+    <collection href="https://cache.api.finn.no/iad/search/boat-dock-wanted">
+      <atom:title>boat-dock-wanted</atom:title>
+      <atom:link href="https://cache.api.finn.no/iad/search/boat-dock-wanted/description" rel="search" type="application/opensearchdescription+xml" title="boat-dock-wanted"/>
+      <categories>
+        <atom:category scheme="urn:finn:market" term="boat-dock-wanted"/>
+      </categories>
+    </collection>
+    <collection href="https://cache.api.finn.no/iad/search/boat-motor">
+      <atom:title>boat-motor</atom:title>
+      <atom:link href="https://cache.api.finn.no/iad/search/boat-motor/description" rel="search" type="application/opensearchdescription+xml" title="boat-motor"/>
+      <categories>
+        <atom:category scheme="urn:finn:market" term="boat-motor"/>
+      </categories>
+    </collection>
+    <collection href="https://cache.api.finn.no/iad/search/boat-parts">
+      <atom:title>boat-parts</atom:title>
+      <atom:link href="https://cache.api.finn.no/iad/search/boat-parts/description" rel="search" type="application/opensearchdescription+xml" title="boat-parts"/>
+      <categories>
+        <atom:category scheme="urn:finn:market" term="boat-parts"/>
+      </categories>
+    </collection>
+    <collection href="https://cache.api.finn.no/iad/search/boat-parts-motor-wanted">
+      <atom:title>boat-parts-motor-wanted</atom:title>
+      <atom:link href="https://cache.api.finn.no/iad/search/boat-parts-motor-wanted/description" rel="search" type="application/opensearchdescription+xml" title="boat-parts-motor-wanted"/>
+      <categories>
+        <atom:category scheme="urn:finn:market" term="boat-parts-motor-wanted"/>
+      </categories>
+    </collection>
+    <collection href="https://cache.api.finn.no/iad/search/boat-rent">
+      <atom:title>boat-rent</atom:title>
+      <atom:link href="https://cache.api.finn.no/iad/search/boat-rent/description" rel="search" type="application/opensearchdescription+xml" title="boat-rent"/>
+      <categories>
+        <atom:category scheme="urn:finn:market" term="boat-rent"/>
+      </categories>
+    </collection>
+    <collection href="https://cache.api.finn.no/iad/search/boat-rent-wanted">
+      <atom:title>boat-rent-wanted</atom:title>
+      <atom:link href="https://cache.api.finn.no/iad/search/boat-rent-wanted/description" rel="search" type="application/opensearchdescription+xml" title="boat-rent-wanted"/>
+      <categories>
+        <atom:category scheme="urn:finn:market" term="boat-rent-wanted"/>
+      </categories>
+    </collection>
+    <collection href="https://cache.api.finn.no/iad/search/boat-sale">
+      <atom:title>boat-sale</atom:title>
+      <atom:link href="https://cache.api.finn.no/iad/search/boat-sale/description" rel="search" type="application/opensearchdescription+xml" title="boat-sale"/>
+      <categories>
+        <atom:category scheme="urn:finn:market" term="boat-sale"/>
+      </categories>
+    </collection>
+    <collection href="https://cache.api.finn.no/iad/search/boat-used">
+      <atom:title>boat-used</atom:title>
+      <atom:link href="https://cache.api.finn.no/iad/search/boat-used/description" rel="search" type="application/opensearchdescription+xml" title="boat-used"/>
+      <categories>
+        <atom:category scheme="urn:finn:market" term="boat-used"/>
+      </categories>
+    </collection>
+    <collection href="https://cache.api.finn.no/iad/search/boat-used-wanted">
+      <atom:title>boat-used-wanted</atom:title>
+      <atom:link href="https://cache.api.finn.no/iad/search/boat-used-wanted/description" rel="search" type="application/opensearchdescription+xml" title="boat-used-wanted"/>
+      <categories>
+        <atom:category scheme="urn:finn:market" term="boat-used-wanted"/>
+      </categories>
+    </collection>
+    <collection href="https://cache.api.finn.no/iad/search/bus">
+      <atom:title>bus</atom:title>
+      <atom:link href="https://cache.api.finn.no/iad/search/bus/description" rel="search" type="application/opensearchdescription+xml" title="bus"/>
+      <categories>
+        <atom:category scheme="urn:finn:market" term="bus"/>
+      </categories>
+    </collection>
+    <collection href="https://cache.api.finn.no/iad/search/car-abroad">
+      <atom:title>car-abroad</atom:title>
+      <atom:link href="https://cache.api.finn.no/iad/search/car-abroad/description" rel="search" type="application/opensearchdescription+xml" title="car-abroad"/>
+      <categories>
+        <atom:category scheme="urn:finn:market" term="car-abroad"/>
+      </categories>
+    </collection>
+    <collection href="https://cache.api.finn.no/iad/search/car-norway">
+      <atom:title>car-norway</atom:title>
+      <atom:link href="https://cache.api.finn.no/iad/search/car-norway/description" rel="search" type="application/opensearchdescription+xml" title="car-norway"/>
+      <categories>
+        <atom:category scheme="urn:finn:market" term="car-norway"/>
+      </categories>
+    </collection>
+    <collection href="https://cache.api.finn.no/iad/search/caravan">
+      <atom:title>caravan</atom:title>
+      <atom:link href="https://cache.api.finn.no/iad/search/caravan/description" rel="search" type="application/opensearchdescription+xml" title="caravan"/>
+      <categories>
+        <atom:category scheme="urn:finn:market" term="caravan"/>
+      </categories>
+    </collection>
+    <collection href="https://cache.api.finn.no/iad/search/company-for-sale">
+      <atom:title>company-for-sale</atom:title>
+      <atom:link href="https://cache.api.finn.no/iad/search/company-for-sale/description" rel="search" type="application/opensearchdescription+xml" title="company-for-sale"/>
+      <categories>
+        <atom:category scheme="urn:finn:market" term="company-for-sale"/>
+      </categories>
+    </collection>
+    <collection href="https://cache.api.finn.no/iad/search/construction">
+      <atom:title>construction</atom:title>
+      <atom:link href="https://cache.api.finn.no/iad/search/construction/description" rel="search" type="application/opensearchdescription+xml" title="construction"/>
+      <categories>
+        <atom:category scheme="urn:finn:market" term="construction"/>
+      </categories>
+    </collection>
+    <collection href="https://cache.api.finn.no/iad/search/job-full-time">
+      <atom:title>job-full-time</atom:title>
+      <atom:link href="https://cache.api.finn.no/iad/search/job-full-time/description" rel="search" type="application/opensearchdescription+xml" title="job-full-time"/>
+      <categories>
+        <atom:category scheme="urn:finn:market" term="job-full-time"/>
+      </categories>
+    </collection>
+    <collection href="https://cache.api.finn.no/iad/search/job-management">
+      <atom:title>job-management</atom:title>
+      <atom:link href="https://cache.api.finn.no/iad/search/job-management/description" rel="search" type="application/opensearchdescription+xml" title="job-management"/>
+      <categories>
+        <atom:category scheme="urn:finn:market" term="job-management"/>
+      </categories>
+    </collection>
+    <collection href="https://cache.api.finn.no/iad/search/job-part-time">
+      <atom:title>job-part-time</atom:title>
+      <atom:link href="https://cache.api.finn.no/iad/search/job-part-time/description" rel="search" type="application/opensearchdescription+xml" title="job-part-time"/>
+      <categories>
+        <atom:category scheme="urn:finn:market" term="job-part-time"/>
+      </categories>
+    </collection>
+    <collection href="https://cache.api.finn.no/iad/search/mc">
+      <atom:title>mc</atom:title>
+      <atom:link href="https://cache.api.finn.no/iad/search/mc/description" rel="search" type="application/opensearchdescription+xml" title="mc"/>
+      <categories>
+        <atom:category scheme="urn:finn:market" term="mc"/>
+      </categories>
+    </collection>
+    <collection href="https://cache.api.finn.no/iad/search/mobile-home">
+      <atom:title>mobile-home</atom:title>
+      <atom:link href="https://cache.api.finn.no/iad/search/mobile-home/description" rel="search" type="application/opensearchdescription+xml" title="mobile-home"/>
+      <categories>
+        <atom:category scheme="urn:finn:market" term="mobile-home"/>
+      </categories>
+    </collection>
+    <collection href="https://cache.api.finn.no/iad/search/moped-scooter">
+      <atom:title>moped-scooter</atom:title>
+      <atom:link href="https://cache.api.finn.no/iad/search/moped-scooter/description" rel="search" type="application/opensearchdescription+xml" title="moped-scooter"/>
+      <categories>
+        <atom:category scheme="urn:finn:market" term="moped-scooter"/>
+      </categories>
+    </collection>
+    <collection href="https://cache.api.finn.no/iad/search/realestate-business-letting">
+      <atom:title>realestate-business-letting</atom:title>
+      <atom:link href="https://cache.api.finn.no/iad/search/realestate-business-letting/description" rel="search" type="application/opensearchdescription+xml" title="realestate-business-letting"/>
+      <categories>
+        <atom:category scheme="urn:finn:market" term="realestate-business-letting"/>
+      </categories>
+    </collection>
+    <collection href="https://cache.api.finn.no/iad/search/realestate-business-plot">
+      <atom:title>realestate-business-plot</atom:title>
+      <atom:link href="https://cache.api.finn.no/iad/search/realestate-business-plot/description" rel="search" type="application/opensearchdescription+xml" title="realestate-business-plot"/>
+      <categories>
+        <atom:category scheme="urn:finn:market" term="realestate-business-plot"/>
+      </categories>
+    </collection>
+    <collection href="https://cache.api.finn.no/iad/search/realestate-business-sale">
+      <atom:title>realestate-business-sale</atom:title>
+      <atom:link href="https://cache.api.finn.no/iad/search/realestate-business-sale/description" rel="search" type="application/opensearchdescription+xml" title="realestate-business-sale"/>
+      <categories>
+        <atom:category scheme="urn:finn:market" term="realestate-business-sale"/>
+      </categories>
+    </collection>
+    <collection href="https://cache.api.finn.no/iad/search/realestate-development">
+      <atom:title>realestate-development</atom:title>
+      <atom:link href="https://cache.api.finn.no/iad/search/realestate-development/description" rel="search" type="application/opensearchdescription+xml" title="realestate-development"/>
+      <categories>
+        <atom:category scheme="urn:finn:market" term="realestate-development"/>
+      </categories>
+    </collection>
+    <collection href="https://cache.api.finn.no/iad/search/realestate-homes">
+      <atom:title>realestate-homes</atom:title>
+      <atom:link href="https://cache.api.finn.no/iad/search/realestate-homes/description" rel="search" type="application/opensearchdescription+xml" title="realestate-homes"/>
+      <categories>
+        <atom:category scheme="urn:finn:market" term="realestate-homes"/>
+      </categories>
+    </collection>
+    <collection href="https://cache.api.finn.no/iad/search/realestate-leisure-plot">
+      <atom:title>realestate-leisure-plot</atom:title>
+      <atom:link href="https://cache.api.finn.no/iad/search/realestate-leisure-plot/description" rel="search" type="application/opensearchdescription+xml" title="realestate-leisure-plot"/>
+      <categories>
+        <atom:category scheme="urn:finn:market" term="realestate-leisure-plot"/>
+      </categories>
+    </collection>
+    <collection href="https://cache.api.finn.no/iad/search/realestate-leisure-sale">
+      <atom:title>realestate-leisure-sale</atom:title>
+      <atom:link href="https://cache.api.finn.no/iad/search/realestate-leisure-sale/description" rel="search" type="application/opensearchdescription+xml" title="realestate-leisure-sale"/>
+      <categories>
+        <atom:category scheme="urn:finn:market" term="realestate-leisure-sale"/>
+      </categories>
+    </collection>
+    <collection href="https://cache.api.finn.no/iad/search/realestate-leisure-sale-abroad">
+      <atom:title>realestate-leisure-sale-abroad</atom:title>
+      <atom:link href="https://cache.api.finn.no/iad/search/realestate-leisure-sale-abroad/description" rel="search" type="application/opensearchdescription+xml" title="realestate-leisure-sale-abroad"/>
+      <categories>
+        <atom:category scheme="urn:finn:market" term="realestate-leisure-sale-abroad"/>
+      </categories>
+    </collection>
+    <collection href="https://cache.api.finn.no/iad/search/realestate-letting">
+      <atom:title>realestate-letting</atom:title>
+      <atom:link href="https://cache.api.finn.no/iad/search/realestate-letting/description" rel="search" type="application/opensearchdescription+xml" title="realestate-letting"/>
+      <categories>
+        <atom:category scheme="urn:finn:market" term="realestate-letting"/>
+      </categories>
+    </collection>
+    <collection href="https://cache.api.finn.no/iad/search/realestate-letting-wanted">
+      <atom:title>realestate-letting-wanted</atom:title>
+      <atom:link href="https://cache.api.finn.no/iad/search/realestate-letting-wanted/description" rel="search" type="application/opensearchdescription+xml" title="realestate-letting-wanted"/>
+      <categories>
+        <atom:category scheme="urn:finn:market" term="realestate-letting-wanted"/>
+      </categories>
+    </collection>
+    <collection href="https://cache.api.finn.no/iad/search/realestate-plot">
+      <atom:title>realestate-plot</atom:title>
+      <atom:link href="https://cache.api.finn.no/iad/search/realestate-plot/description" rel="search" type="application/opensearchdescription+xml" title="realestate-plot"/>
+      <categories>
+        <atom:category scheme="urn:finn:market" term="realestate-plot"/>
+      </categories>
+    </collection>
+    <collection href="https://cache.api.finn.no/iad/search/realestate-prefabricated">
+      <atom:title>realestate-prefabricated</atom:title>
+      <atom:link href="https://cache.api.finn.no/iad/search/realestate-prefabricated/description" rel="search" type="application/opensearchdescription+xml" title="realestate-prefabricated"/>
+      <categories>
+        <atom:category scheme="urn:finn:market" term="realestate-prefabricated"/>
+      </categories>
+    </collection>
+    <collection href="https://cache.api.finn.no/iad/search/snowmobile">
+      <atom:title>snowmobile</atom:title>
+      <atom:link href="https://cache.api.finn.no/iad/search/snowmobile/description" rel="search" type="application/opensearchdescription+xml" title="snowmobile"/>
+      <categories>
+        <atom:category scheme="urn:finn:market" term="snowmobile"/>
+      </categories>
+    </collection>
+    <collection href="https://cache.api.finn.no/iad/search/truck">
+      <atom:title>truck</atom:title>
+      <atom:link href="https://cache.api.finn.no/iad/search/truck/description" rel="search" type="application/opensearchdescription+xml" title="truck"/>
+      <categories>
+        <atom:category scheme="urn:finn:market" term="truck"/>
+      </categories>
+    </collection>
+    <collection href="https://cache.api.finn.no/iad/search/truck-abroad">
+      <atom:title>truck-abroad</atom:title>
+      <atom:link href="https://cache.api.finn.no/iad/search/truck-abroad/description" rel="search" type="application/opensearchdescription+xml" title="truck-abroad"/>
+      <categories>
+        <atom:category scheme="urn:finn:market" term="truck-abroad"/>
+      </categories>
+    </collection>
+    <collection href="https://cache.api.finn.no/iad/search/van-abroad">
+      <atom:title>van-abroad</atom:title>
+      <atom:link href="https://cache.api.finn.no/iad/search/van-abroad/description" rel="search" type="application/opensearchdescription+xml" title="van-abroad"/>
+      <categories>
+        <atom:category scheme="urn:finn:market" term="van-abroad"/>
+      </categories>
+    </collection>
+    <collection href="https://cache.api.finn.no/iad/search/van-norway">
+      <atom:title>van-norway</atom:title>
+      <atom:link href="https://cache.api.finn.no/iad/search/van-norway/description" rel="search" type="application/opensearchdescription+xml" title="van-norway"/>
+      <categories>
+        <atom:category scheme="urn:finn:market" term="van-norway"/>
+      </categories>
+    </collection>
+  </workspace>
+  <workspace>
+    <atom:title>geo-search</atom:title>
+    <f:template href="https://cache.api.finn.no/iad/search/{market}/geo" rel="urn:finn:search:geo"/>
+  </workspace>
+  <workspace>
+    <atom:title>models</atom:title>
+    <atom:link href="https://cache.api.finn.no/iad/ad/model/realestate-leisure-sale" rel="urn:finn:model" type="application/vnd.finn.adata.model+json" title="realestate-leisure-sale"/>
+    <atom:link href="https://cache.api.finn.no/iad/ad/model/boat-used-sale" rel="urn:finn:model" type="application/vnd.finn.adata.model+json" title="boat-used-sale"/>
+    <atom:link href="https://cache.api.finn.no/iad/ad/model/realestate-letting-wanted" rel="urn:finn:model" type="application/vnd.finn.adata.model+json" title="realestate-letting-wanted"/>
+    <atom:link href="https://cache.api.finn.no/iad/ad/model/mobile-home" rel="urn:finn:model" type="application/vnd.finn.adata.model+json" title="mobile-home"/>
+    <atom:link href="https://cache.api.finn.no/iad/ad/model/truck" rel="urn:finn:model" type="application/vnd.finn.adata.model+json" title="truck"/>
+    <atom:link href="https://cache.api.finn.no/iad/ad/model/car-used-sale" rel="urn:finn:model" type="application/vnd.finn.adata.model+json" title="car-used-sale"/>
+    <atom:link href="https://cache.api.finn.no/iad/ad/model/boat-dock" rel="urn:finn:model" type="application/vnd.finn.adata.model+json" title="boat-dock"/>
+    <atom:link href="https://cache.api.finn.no/iad/ad/model/agriculture-thresher" rel="urn:finn:model" type="application/vnd.finn.adata.model+json" title="agriculture-thresher"/>
+    <atom:link href="https://cache.api.finn.no/iad/ad/model/boat-new-sale" rel="urn:finn:model" type="application/vnd.finn.adata.model+json" title="boat-new-sale"/>
+    <atom:link href="https://cache.api.finn.no/iad/ad/model/realestate-homes" rel="urn:finn:model" type="application/vnd.finn.adata.model+json" title="realestate-homes"/>
+    <atom:link href="https://cache.api.finn.no/iad/ad/model/agriculture-tractor" rel="urn:finn:model" type="application/vnd.finn.adata.model+json" title="agriculture-tractor"/>
+    <atom:link href="https://cache.api.finn.no/iad/ad/model/mc" rel="urn:finn:model" type="application/vnd.finn.adata.model+json" title="mc"/>
+    <atom:link href="https://cache.api.finn.no/iad/ad/model/realestate-development" rel="urn:finn:model" type="application/vnd.finn.adata.model+json" title="realestate-development"/>
+    <atom:link href="https://cache.api.finn.no/iad/ad/model/boat-used-wanted" rel="urn:finn:model" type="application/vnd.finn.adata.model+json" title="boat-used-wanted"/>
+    <atom:link href="https://cache.api.finn.no/iad/ad/model/realestate-development-single" rel="urn:finn:model" type="application/vnd.finn.adata.model+json" title="realestate-development-single"/>
+    <atom:link href="https://cache.api.finn.no/iad/ad/model/realestate-letting" rel="urn:finn:model" type="application/vnd.finn.adata.model+json" title="realestate-letting"/>
+    <atom:link href="https://cache.api.finn.no/iad/ad/model/car-new-sale" rel="urn:finn:model" type="application/vnd.finn.adata.model+json" title="car-new-sale"/>
+    <atom:link href="https://cache.api.finn.no/iad/ad/model/job-management" rel="urn:finn:model" type="application/vnd.finn.adata.model+json" title="job-management"/>
+    <atom:link href="https://cache.api.finn.no/iad/ad/model/construction" rel="urn:finn:model" type="application/vnd.finn.adata.model+json" title="construction"/>
+    <atom:link href="https://cache.api.finn.no/iad/ad/model/realestate-project-unit" rel="urn:finn:model" type="application/vnd.finn.adata.model+json" title="realestate-project-unit"/>
+    <atom:link href="https://cache.api.finn.no/iad/ad/model/boat-motor" rel="urn:finn:model" type="application/vnd.finn.adata.model+json" title="boat-motor"/>
+    <atom:link href="https://cache.api.finn.no/iad/ad/model/realestate-prefabricated" rel="urn:finn:model" type="application/vnd.finn.adata.model+json" title="realestate-prefabricated"/>
+    <atom:link href="https://cache.api.finn.no/iad/ad/model/realestate-business-sale" rel="urn:finn:model" type="application/vnd.finn.adata.model+json" title="realestate-business-sale"/>
+    <atom:link href="https://cache.api.finn.no/iad/ad/model/bap" rel="urn:finn:model" type="application/vnd.finn.adata.model+json" title="bap"/>
+    <atom:link href="https://cache.api.finn.no/iad/ad/model/bus" rel="urn:finn:model" type="application/vnd.finn.adata.model+json" title="bus"/>
+    <atom:link href="https://cache.api.finn.no/iad/ad/model/realestate-business-plot" rel="urn:finn:model" type="application/vnd.finn.adata.model+json" title="realestate-business-plot"/>
+    <atom:link href="https://cache.api.finn.no/iad/ad/model/job-part-time" rel="urn:finn:model" type="application/vnd.finn.adata.model+json" title="job-part-time"/>
+    <atom:link href="https://cache.api.finn.no/iad/ad/model/job-full-time" rel="urn:finn:model" type="application/vnd.finn.adata.model+json" title="job-full-time"/>
+    <atom:link href="https://cache.api.finn.no/iad/ad/model/caravan" rel="urn:finn:model" type="application/vnd.finn.adata.model+json" title="caravan"/>
+    <atom:link href="https://cache.api.finn.no/iad/ad/model/mc" rel="urn:finn:model" type="application/vnd.finn.adata.model+json" title="mc"/>
+    <atom:link href="https://cache.api.finn.no/iad/ad/model/realestate-plot" rel="urn:finn:model" type="application/vnd.finn.adata.model+json" title="realestate-plot"/>
+    <atom:link href="https://cache.api.finn.no/iad/ad/model/agriculture-tools" rel="urn:finn:model" type="application/vnd.finn.adata.model+json" title="agriculture-tools"/>
+    <atom:link href="https://cache.api.finn.no/iad/ad/model/company-for-sale" rel="urn:finn:model" type="application/vnd.finn.adata.model+json" title="company-for-sale"/>
+    <atom:link href="https://cache.api.finn.no/iad/ad/model/realestate-business-letting" rel="urn:finn:model" type="application/vnd.finn.adata.model+json" title="realestate-business-letting"/>
+    <atom:link href="https://cache.api.finn.no/iad/ad/model/realestate-project" rel="urn:finn:model" type="application/vnd.finn.adata.model+json" title="realestate-project"/>
+    <atom:link href="https://cache.api.finn.no/iad/ad/model/car-leasing" rel="urn:finn:model" type="application/vnd.finn.adata.model+json" title="car-leasing"/>
+    <atom:link href="https://cache.api.finn.no/iad/ad/model/bap-webstore" rel="urn:finn:model" type="application/vnd.finn.adata.model+json" title="bap-webstore"/>
+    <atom:link href="https://cache.api.finn.no/iad/ad/model/boat-rent" rel="urn:finn:model" type="application/vnd.finn.adata.model+json" title="boat-rent"/>
+  </workspace>
+  <workspace>
+    <atom:title>ad</atom:title>
+    <f:template href="https://cache.api.finn.no/iad/ad/{id}" rel="f:ad"/>
+  </workspace>
+  <workspace>
+    <atom:title>organizations</atom:title>
+    <f:template href="https://cache.api.finn.no/iad/organization/{orgId}" rel="f:organization"/>
+  </workspace>
+  <workspace>
+    <atom:title>user</atom:title>
+    <atom:link href="https://cache.api.finn.no/iad/user" type="application/atomsvc+xml"/>
+  </workspace>
+  <workspace>
+    <atom:title>user-ads</atom:title>
+    <collection href="https://cache.api.finn.no/iad/user/ads/my">
+      <atom:title>users-ads</atom:title>
+    </collection>
+  </workspace>
+  <workspace>
+    <atom:title>favourites</atom:title>
+    <atom:link href="https://cache.api.finn.no/iad/user/ads/favourites" type="application/atomsvc+xml"/>
+  </workspace>
+  <workspace>
+    <atom:title>stored-searches</atom:title>
+    <atom:link href="https://cache.api.finn.no/iad/user/ads/stored" type="application/atomsvc+xml"/>
+    <f:template href="https://cache.api.finn.no/iad/user/{userId}/ads/stored/{searchId}" rel="search"/>
+  </workspace>
+  <workspace>
+    <atom:title>last-searches</atom:title>
+    <atom:link href="https://cache.api.finn.no/iad/user/ads/last-searches" type="application/atomsvc+xml"/>
+    <f:template href="https://cache.api.finn.no/iad/user/{userId}/ads/last-searches/{searchId}" rel="managed-search"/>
+  </workspace>
+  <workspace>
+    <atom:title>follow-area</atom:title>
+    <atom:link href="https://cache.api.finn.no/iad/user/subscriptions/areas" type="application/atomsvc+xml"/>
+    <f:template href="https://cache.api.finn.no/iad/user/{userId}/subscriptions/areas/{areaSubId}/{searchId}" rel="managed-search"/>
+  </workspace>
+  <workspace>
+    <atom:title>subscriptions</atom:title>
+    <atom:link href="https://cache.api.finn.no/iad/user/subscriptions/organizations" type="text/vcard" title="organizations"/>
+  </workspace>
+  <workspace>
+    <atom:title>profile</atom:title>
+    <atom:link href="https://cache.api.finn.no/iad/user/profile" type="text/vcard"/>
+  </workspace>
+  <workspace>
+    <atom:title>user-preferences</atom:title>
+    <atom:link href="https://cache.api.finn.no/iad/user/preferences" type="application/vnd.finn.user.preferences+json"/>
+  </workspace>
+  <workspace>
+    <atom:title>search-preferences</atom:title>
+    <atom:link href="https://cache.api.finn.no/iad/user/preferences/search" type="application/vnd.finn.user.preferences.search+json"/>
+  </workspace>
+  <workspace>
+    <atom:title>user-devices</atom:title>
+    <atom:link href="https://cache.api.finn.no/iad/user/devices" type="application/vnd.finn.user.devices+json"/>
+  </workspace>
+  <workspace>
+    <atom:title>auth</atom:title>
+    <f:template href="https://cache.api.finn.no/iad/user/authorization?{redirect_uri,code,state?}" rel="urn:finn:authorization"/>
+  </workspace>
+</service>

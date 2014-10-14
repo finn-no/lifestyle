@@ -1,0 +1,245 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://a9.com/-/opensearch/extensions/geo/1.0/" xmlns:f="http://xmlns.finn.no/opensearch/1.0" xmlns:os="http://a9.com/-/spec/opensearch/1.1/" xmlns:age="http://purl.org/atompub/age/1.0" xmlns:finn="http://xmlns.finn.no/atom-ad-extensions/1.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:app="http://www.w3.org/2007/app" xmlns:georss="http://www.georss.org/georss">
+<id>urn:id:47820950</id>
+<title>Vålerenga - Atraktiv 3-roms i bevaringsverdig bebyggelse | Sentralt i rolige omgivelser | Lave felleskost. 400,-</title>
+<updated>2014-04-14T15:39:00.000Z</updated>
+<published>2014-04-16T22:15:00.000Z</published>
+<age:expires>2014-10-14T21:59:00.000Z</age:expires>
+<app:edited>2014-04-14T15:39:00.000Z</app:edited>
+<dc:identifier>47820950</dc:identifier>
+<category scheme="urn:finn:ad:private" term="false" />
+<category scheme="urn:finn:ad:type" label="Bolig til salgs" term="realestate-homes" />
+<category scheme="urn:finn:search:type" label="Boliger" term="realestate-homes" />
+<category scheme="urn:finn:ad:status" label="Aktiv" term="activated" />
+<category scheme="urn:finn:ad:disposed" label="Solgt" term="false" />
+<link href="https://cache.api.finn.no/iad/ad/realestate-homes/47820950" rel="self" />
+<link href="http://www.finn.no/47820950" rel="alternate" />
+<link href="https://cache.api.finn.no/iad/ad/realestate-homes/47820950/statistics" rel="http://api.finn.no/relations/statistics" />
+<link href="https://www.dnb.no/privat/besok_kreditt/start_finn?WT.mc_id=fast_laan_fast_finn_lenke_prospekt_n_n-a_salg&amp;LA=NO&amp;finnkode=47820950&amp;pris=3190000" rel="urn:finn:cms:finance" type="text/html" title="Boliglån fra DNB" />
+<link href="http://www.finn.no/cms/page/view/realestate/homes/insurance/47820950" rel="urn:finn:cms:insurance" type="text/html" title="Boligforsikring" />
+<link href="http://bud.dnbeiendom.no/41314044" rel="urn:finn:bidding:bid" type="text/html" />
+<link href="http://www.finn.no/finn/article/Gi_bud_info?template=templates/static_template.jsp" rel="urn:finn:bidding:info" type="text/html" />
+<link href="http://www.dnbeiendom.no/drombolig/templates/autoprospect____2531.aspx?source=finn&amp;objectid=41314044" rel="related" title="Bestill prospekt fra tilbyder" />
+<link href="http://www.dnbeiendom.no/templates/objectviewsuper.aspx?objectid=41314044" rel="related" title="Supervisning" />
+<link href="http://web.inviso.no/viseno/plan_drawings/573973/redirect_to_interactive" rel="related" title="Boligplanlegger" />
+<link href="https://cache.api.finn.no/realestate/neighborhood/47820950" rel="urn:finn:realestate:neighborhood" />
+<georss:point finn:accuracy="9">59.90694 10.78523</georss:point>
+<finn:location>
+<finn:address>Opplandgata 11 A</finn:address>
+<finn:postal-code>0657</finn:postal-code>
+<finn:city>Oslo</finn:city>
+<finn:country>Norge</finn:country>
+</finn:location>
+<media:content height="1064" medium="image" width="1600" url="http://finncdn.no/mmo/2014/4/vertical-2/14/0/478/209/50_1540320224.jpg" type="image/jpeg">
+<media:description>Opplandsgata er en rolig gate med sjarmerende småhusbebyggelse.</media:description>
+</media:content>
+<media:content height="1064" medium="image" width="1600" url="http://finncdn.no/mmo/2014/4/vertical-2/14/0/478/209/50_1940564325.jpg" type="image/jpeg">
+<media:description>Lys og romslig stue med karakter.</media:description>
+</media:content>
+<media:content height="1064" medium="image" width="1600" url="http://finncdn.no/mmo/2014/4/vertical-2/14/0/478/209/50_1141809233.jpg" type="image/jpeg">
+<media:description>Store vinduesflater som slipper inn mye lys, og som reduserer direkte innsyn i dagslys.</media:description>
+</media:content>
+<media:content height="1600" medium="image" width="1065" url="http://finncdn.no/mmo/2014/4/vertical-2/14/0/478/209/50_991403930.jpg" type="image/jpeg">
+<media:description>Flott stue med pipeløp og moderne peisovn som varmer godt.</media:description>
+</media:content>
+<media:content height="1064" medium="image" width="1600" url="http://finncdn.no/mmo/2014/4/vertical-2/14/0/478/209/50_1473343340.jpg" type="image/jpeg">
+<media:description>Flott tregulv i stuen bidrar til en lun og hyggelig stemning.</media:description>
+</media:content>
+<media:content height="1064" medium="image" width="1600" url="http://finncdn.no/mmo/2014/4/vertical-2/14/0/478/209/50_1601697143.jpg" type="image/jpeg">
+<media:description>Lyst og åpent kjøkken med vindu ut mot bakgården.</media:description>
+</media:content>
+<media:content height="1064" medium="image" width="1600" url="http://finncdn.no/mmo/2014/4/vertical-2/14/0/478/209/50_2146276756.jpg" type="image/jpeg">
+<media:description>Stort kjøkken med god skap- og benkeplass.</media:description>
+</media:content>
+<media:content height="1064" medium="image" width="1600" url="http://finncdn.no/mmo/2014/4/vertical-2/14/0/478/209/50_1705523322.jpg" type="image/jpeg">
+<media:description>Hyggelig spiseplass på kjøkkenet.</media:description>
+</media:content>
+<media:content height="1600" medium="image" width="1065" url="http://finncdn.no/mmo/2014/4/vertical-2/14/0/478/209/50_838647938.jpg" type="image/jpeg">
+<media:description>Stort kjøkken med god plass til et stort spisebord.</media:description>
+</media:content>
+<media:content height="1064" medium="image" width="1600" url="http://finncdn.no/mmo/2014/4/vertical-2/14/0/478/209/50_855194327.jpg" type="image/jpeg">
+<media:description>Lyst og pent soverom med vindu ut mot rolig bakgård.</media:description>
+</media:content>
+<media:content height="1600" medium="image" width="1065" url="http://finncdn.no/mmo/2014/4/vertical-2/14/0/478/209/50_133234633.jpg" type="image/jpeg">
+<media:description>Soverom.</media:description>
+</media:content>
+<media:content height="1064" medium="image" width="1600" url="http://finncdn.no/mmo/2014/4/vertical-2/14/0/478/209/50_1179181094.jpg" type="image/jpeg">
+<media:description>Lyst og luftig soverom med god oppbevaringsplass i store garderobeskap.</media:description>
+</media:content>
+<media:content height="1064" medium="image" width="1600" url="http://finncdn.no/mmo/2014/4/vertical-2/14/0/478/209/50_1007102191.jpg" type="image/jpeg">
+<media:description>Flislagt bad med dusjkabinett, wc og servant.</media:description>
+</media:content>
+<media:content height="1600" medium="image" width="1065" url="http://finncdn.no/mmo/2014/4/vertical-2/14/0/478/209/50_413371752.jpg" type="image/jpeg">
+<media:description>Bad.</media:description>
+</media:content>
+<media:content height="1600" medium="image" width="1065" url="http://finncdn.no/mmo/2014/4/vertical-2/14/0/478/209/50_2048044144.jpg" type="image/jpeg">
+<media:description>Servant over hvit baderomsinnredning.</media:description>
+</media:content>
+<media:content height="1064" medium="image" width="1600" url="http://finncdn.no/mmo/2014/4/vertical-2/14/0/478/209/50_76767219.jpg" type="image/jpeg">
+<media:description>Flilagt entrè med god plass til å henge fra seg yttertøy. Adkomst til egen kjellerdel.</media:description>
+</media:content>
+<media:content height="1600" medium="image" width="1066" url="http://finncdn.no/mmo/2014/4/vertical-2/14/0/478/209/50_2135072574.jpg" type="image/jpeg">
+<media:description>Lys og romslig entrè med et koselig preg.</media:description>
+</media:content>
+<media:content height="1064" medium="image" width="1600" url="http://finncdn.no/mmo/2014/4/vertical-2/14/0/478/209/50_523269289.jpg" type="image/jpeg">
+<media:description>Inngangspartiet fra bakgården.</media:description>
+</media:content>
+<media:content height="1600" medium="image" width="1065" url="http://finncdn.no/mmo/2014/4/vertical-2/14/0/478/209/50_1736275374.jpg" type="image/jpeg">
+<media:description>Plass til en hyggelig sittegruppe i rolig bakgård.</media:description>
+</media:content>
+<media:content height="1064" medium="image" width="1600" url="http://finncdn.no/mmo/2014/4/vertical-2/14/0/478/209/50_1571263645.jpg" type="image/jpeg">
+<media:description>Hage i felles gårdsrom.</media:description>
+</media:content>
+<media:content height="1064" medium="image" width="1600" url="http://finncdn.no/mmo/2014/4/vertical-2/14/0/478/209/50_314740101.jpg" type="image/jpeg">
+<media:description>Hyggelig og rolig gårdsrom.</media:description>
+</media:content>
+<media:content height="1600" medium="image" width="1065" url="http://finncdn.no/mmo/2014/4/vertical-2/14/0/478/209/50_1575422505.jpg" type="image/jpeg">
+<media:description>Opplandsgata 11A</media:description>
+</media:content>
+<media:content height="1600" medium="image" width="1065" url="http://finncdn.no/mmo/2014/4/vertical-2/14/0/478/209/50_818206456.jpg" type="image/jpeg">
+<media:description></media:description>
+</media:content>
+<media:content height="1064" medium="image" width="1600" url="http://finncdn.no/mmo/2014/4/vertical-2/14/0/478/209/50_1645978904.jpg" type="image/jpeg">
+<media:description>Opplandsgata</media:description>
+</media:content>
+<media:content height="1064" medium="image" width="1600" url="http://finncdn.no/mmo/2014/4/vertical-2/14/0/478/209/50_1852998618.jpg" type="image/jpeg">
+<media:description>Vålerenga kirke ligger rett utenfor inngangsdøren.</media:description>
+</media:content>
+<media:content height="1064" medium="image" width="1600" url="http://finncdn.no/mmo/2014/4/vertical-2/14/0/478/209/50_385434110.jpg" type="image/jpeg">
+<media:description>Hygglige Smia Galleri ligger kun et steinkast lengre opp i gaten.</media:description>
+</media:content>
+<media:content height="1600" medium="image" width="1131" url="http://finncdn.no/mmo/2014/4/vertical-2/14/0/478/209/50_1283107396.jpg" type="image/jpeg">
+<media:description></media:description>
+</media:content>
+<media:content height="1600" medium="image" width="1131" url="http://finncdn.no/mmo/2014/4/vertical-2/14/0/478/209/50_195934131.jpg" type="image/jpeg">
+<media:description></media:description>
+</media:content>
+<media:content height="1600" medium="image" width="1131" url="http://finncdn.no/mmo/2014/4/vertical-2/14/0/478/209/50_1336696597.jpg" type="image/jpeg">
+<media:description></media:description>
+</media:content>
+<media:content height="1600" medium="image" width="1131" url="http://finncdn.no/mmo/2014/4/vertical-2/14/0/478/209/50_916817587.jpg" type="image/jpeg">
+<media:description></media:description>
+</media:content>
+<media:content url="http://finncdn.no/mmo/2014/4/vertical-2/14/0/478/209/50_741628642.jpg" type="image/jpeg" medium="document">
+<media:description></media:description>
+<media:category scheme="urn:finn:attachments">BUSINESSCARD_IMAGE</media:category>
+</media:content>
+<author>
+<name>DNB Eiendom</name>
+<uri>https://cache.api.finn.no/iad/organization/-3</uri>
+<link href="https://cache.api.finn.no/iad/search/realestate-homes?orgId=-3" rel="http://api.finn.no/relations/morefromthis" />
+<link href="http://www.dnbeiendom.no" rel="alternate" />
+<link href="https://cache.api.finn.no/iad/organization/-3/subscription" rel="subscription" />
+<media:content url="http://finncdn.no/mmo/logo/object/-3/iad_4078593280724764962dnblogo.png" type="image/png" medium="image">
+<media:category scheme="urn:finn:logo:type">MAIN</media:category>
+</media:content>
+<media:content url="http://finncdn.no/mmo/logo/result/-3/iad_2515220372887545613dnblogo.png" type="image/png" medium="image">
+<media:category scheme="urn:finn:logo:type">LIST</media:category>
+</media:content>
+</author>
+<finn:contact role="realestate:agent" title="Eiendomsmeglerfullmektig">
+<name>Thomas Andrè Hansen</name>
+<email>Thomas.Hansen@dnbeiendom.no</email>
+<uri>http://www.dnbeiendom.no/templates/objectviewsuper.aspx?objectid=41314044</uri>
+<finn:phone-number type="mobile">+47 976 23 351</finn:phone-number>
+<link href="https://cache.api.finn.no/iad/ad/realestate-homes/47820950/contact?index=0" rel="http://api.finn.no/relations/contact" />
+<link href="http://finncdn.no/mmo/2014/4/vertical-2/14/0/478/209/50_741628642.jpg" rel="image" type="image/jpeg" />
+</finn:contact>
+<finn:adata model="https://cache.api.finn.no/iad/ad/model/realestate-homes">
+<finn:field name="advertiser_reference" value="41314044" />
+<finn:field name="cadastres">
+<finn:value>
+<finn:field name="apartment_number" value="A" />
+<finn:field name="cadastral_unit_number" value="232" />
+<finn:field name="property_unit_number" value="234" />
+<finn:field name="section_number" value="1" />
+<finn:field name="county_number" value="301" />
+</finn:value>
+</finn:field>
+<finn:field name="construction_year" value="1877" />
+<finn:field name="energy_label" value="G" />
+<finn:field name="energy_label_color_code" value="oransje" />
+<finn:field name="facilities">
+<finn:value>Alarm</finn:value>
+<finn:value>Balkong/Terrasse</finn:value>
+<finn:value>Kabel-TV</finn:value>
+<finn:value>Rolig</finn:value>
+<finn:value>Sentralt</finn:value>
+<finn:value>Barnevennlig</finn:value>
+<finn:value>Peis/Ildsted</finn:value>
+<finn:value>Parkett</finn:value>
+<finn:value>Offentlig vann/kloakk</finn:value>
+</finn:field>
+<finn:field name="floor" value="1" />
+<finn:field name="general_text">
+<finn:value>
+<finn:field name="title" value="Innhold" />
+<finn:field name="value">Seksjonert del av horisontaldelt tomannsbolig på 2 etasjer med kjeller og loft. &lt;br />&lt;br />Leiligheten består av entrè/gang med adkomst til kjellerrom og vaskerom. Kjøkken med spiseplass, mellomgang, bad/wc, 2 soverom og stue.&lt;br />&lt;br />Godt med lagringsplass i leiligheten med garderobeskap på soverom og i mellomgang, ellers god oppbevaringsplass i egen kjellerdel. </finn:field>
+</finn:value>
+<finn:value>
+<finn:field name="title" value="Standard" />
+<finn:field name="value">Sjarmerende 3-roms leilighet i bevaringsverdig trehusbebyggelse, beliggende i 1. etasje med egen inngang og trappefri adkomst fra felles gårdsrom, pent opparbeidet med brostein, plen, blomster og busker. &lt;br />&lt;br />Med god plass til en hyggelig sittegruppe i bakgården, blir det et naturlig samlingspunkt for hyggelige måltider og sene sommerkvelder. &lt;br />&lt;br />Luftig og lys gang/entrè med god plass til å henge fra seg yttertøy og sko. Adkomst til kjeller.&lt;br />&lt;br />Pent flislagt bad, dusjkabinett med skyvedører. Servant over baderomsinnredning med hvite profilerte fronter. Speildel og wc. &lt;br />&lt;br />Sjarmerende og lys stue med karakter. Store vindusoverflater som slipper inn mye lys, med glass av typen som reduserer innsyn ved dagslys. Praktisk plassbygd hylleinnredning og moderne peisovn som varmer godt på kalde vinterdager.&lt;br />&lt;br />Lyse og pene soverom med flotte vinduer som slipper inn mye lys. God plass til praktiske garderobeløsninger og dobbeltseng.&lt;br />&lt;br />Romslig kjøkken med med god skap- og benkeplass. Nedfelt oppvaskkum, integrert kjøleskap og oppvaskmaskin, hvite fronter og fliser over benkeplater.&lt;br />&lt;br />Leiligheten disponerer egen kjellerdel som brukes til oppbevaring og et eget vaskerom.&lt;br />&lt;br />&lt;br />*Leilighetens gulv består av fliser på bad/wc og gang, vinyl på kjøkken og mellomgang, parkett på soverom og tregulv i stue.&lt;br />&lt;br />*Veggoverflater: Fliser på bad/wc, liggende panel og malte flater i stue og i hovedsoverom. Pussede murvegger og gipsplater i kjeller. Malte flater for øvrig. &lt;br />&lt;br />*Himlinger med malt panel på bad/wc. Malte flater for øvring.</finn:field>
+</finn:value>
+<finn:value>
+<finn:field name="title" value="Oppvarming" />
+<finn:field name="value">Peisovn i stue, elektrisk oppvarming for øvring. Termostatstyrt gulvvarme i entrè/gang og på bad/wc.</finn:field>
+</finn:value>
+<finn:value>
+<finn:field name="title" value="Beliggenhet" />
+<finn:field name="value">Velkommen til bydelens kanskje mest sjarmerende boligområde! Koselige og stille gater preger nærområdet med fredede fasader som gjør at området vil beholde sin trivelige atmosfære. Rett utenfor inngangspartiet ligger hyggelige grøntarealer i Vålerengaparken og Vålerenga Kirke. Vålerenga kombinerer nærhet til sentrum og alle servicetilbud med småhusbebyggelse i idylliske omgivelser. Gården ligger i rolig gate uten gjennomgangstrafikk. Det er kort vei til skoler, barnehager og mange av hovedstadens attraksjoner - eksempelvis Tøyenbadet, Botanisk Hage og Jordal Amfi. Det er svært god offentlig kommunikasjon i området med kort vei til busslinje 37 som går hele døgnet fra Nydalen via sentrum til Helsfyr. T-banestasjonene Helsfyr og Ensjø ligger henholdsvis 15 og 8 minutters gange unna leiligheten. Restauranten Smia galleri og den italienske pizzarestauranten Pizza la Pietra rett ved. Det er kort vei til Middelalderparken, Grønland og Oslo sentrum hvor man finner det meste av forretninger og servicetilbud. SATS på Kampen og Fresh Fitness på Ensjø rett i nærheten.</finn:field>
+</finn:value>
+<finn:value>
+<finn:field name="title" value="Adkomst" />
+<finn:field name="value">Se vedlagte kopi av kart.&lt;br />Det vil bli skiltet ved felles visninger.</finn:field>
+</finn:value>
+<finn:value>
+<finn:field name="title" value="Tomten" />
+<finn:field name="value">Det er adkomst fra gate, via overbygd portrom, til pent opparbeidet og beplantet felles gårdsrom, med brostein, plen prydbusker og sittegrupper.</finn:field>
+</finn:value>
+<finn:value>
+<finn:field name="title" value="Parkering" />
+<finn:field name="value">Gateparkering etter gjeldende bestemmelser.</finn:field>
+</finn:value>
+<finn:value>
+<finn:field name="title" value="Diverse" />
+<finn:field name="value">Huset står på byantikvarens gule liste over bevaringsverdig bebyggelse og har gjentatte ganger vært brukt som bagrunn i filmer, TV-serier og på plakter.&lt;br />&lt;br />&lt;strong>Større vedlikehold og rehabilitering:&lt;/strong>&lt;br />&lt;br />1987 Full renovering. Isolering og ny panel, nye vinduer, gulv, vegger og tak. Nytt kjøkken og bad. Utvidet kjeller med vaskekjeller.&lt;br />1993 Flislagt vegger på bad, nytt gulv med gulvvarme i gang.&lt;br />2006-2007 Malt yttervegger.&lt;br />2009 Skiftet fronter på kjøkkenskap. Ny avtrekksvifte, oppvaskmaskin og kjøleskap integrert i kjøkkenet.&lt;br />2010 Skiftet varmtvannsbereder.&lt;br />2012 Nytt sikringsskap, nylig utbedret merknader fra kontroll av godkjent innstallatør.</finn:field>
+</finn:value>
+</finn:field>
+<finn:field name="no_of_bedrooms" value="2" />
+<finn:field name="ownership_type" value="Eier (Selveier)" />
+<finn:field name="plot">
+<finn:field name="area" value="741" />
+<finn:field name="owned" value="true" />
+</finn:field>
+<finn:field name="property_type">
+<finn:value>Leilighet</finn:value>
+</finn:field>
+<finn:field name="size">
+<finn:field name="gross" value="103" />
+<finn:field name="primary" value="75" />
+<finn:field name="usable" value="91" />
+</finn:field>
+<finn:field name="viewings">
+<finn:value>
+<finn:field name="date">2014-04-24</finn:field>
+<finn:field name="from" value="1800" />
+<finn:field name="to" value="1900" />
+</finn:value>
+<finn:value>
+<finn:field name="date">2014-04-28</finn:field>
+<finn:field name="from" value="1730" />
+<finn:field name="to" value="1830" />
+</finn:value>
+<finn:value>
+<finn:field name="note">Velkommen til visning!</finn:field>
+</finn:value>
+</finn:field>
+<finn:price name="main" value="3190000" currency="NOK">
+<finn:field name="sales_cost">Dok.avg. til staten,2.5% av  kjøpesummen: kr 79.750,-&lt;br/>Tinglysning for hjemmelsdok.: kr 525,-&lt;br/>Tinglysning for pantedok.: kr 525,-&lt;br/>Attestgebyr: kr 172,-&lt;br/>Totalkostnad: kr 80.972,-</finn:field>
+</finn:price>
+<finn:price name="estimated_value" value="3200000" />
+<finn:price name="loan_fare" value="2720000" />
+<finn:price name="shared_cost" value="400" />
+<finn:price name="tax_value" value="1048506" />
+</finn:adata>
+</entry>

@@ -1,0 +1,67 @@
+{% macro filter(f) %}
+    <details>
+        <summary>{{ f.title }}</summary>
+        <div>
+            {% if f.type == 'range' %}
+                {{ rangeFilter(f) }}
+            {% elif (f.type == 'select') %}
+                {{ selectFilter(f) }}
+            {% else %}
+                {{ taxonomyFilter(f) }}
+            {% endif %}
+        </div>
+    </details>
+{% endmacro %}
+
+{% macro rangeFilter(f) %}
+    <div class="filter">
+        <input name="{{ f.definition.fromArgName }}" type="number">
+        -
+        <input name="{{ f.definition.toArgName }}" type="number">
+    </div>
+{% endmacro %}
+
+{% macro selectFilter(filter) %}
+    <div>
+        <ol class="checkboxlist">
+            {% for item in filter.definition.taxonomy.children %}
+                <li>
+                    <label> 
+                        <input name="{{ item.name }}" value="{{ item.value }}" type="checkbox">
+                        {{ item.title }}
+                    </label>
+                </li>
+            {% endfor %}
+        </ol>
+    </div>
+{% endmacro %}
+
+{% macro taxonomyFilter(filter) %}
+    <div>
+        {{ taxonomyLevel(filter.definition.taxonomy.children) }}
+    </div>
+{% endmacro %}
+
+{% macro taxonomyItem(branch) %}
+    {% if branch.children %}
+        <details>
+            <summary>{{ branch.title }}</summary>
+            {{ taxonomyLevel(branch.children) }}
+        </details>
+    {% else %}
+        <label>
+            <input type="checkbox" name="{{ branch.name }}" value="{{ branch.value }}">
+            {{ branch.title }}
+        </label>
+    {% endif %}
+{% endmacro %}
+
+{% macro taxonomyLevel(children) %}
+    <ol>
+        {% for child in children %}
+            <li>
+                {{ taxonomyItem(child) }}
+            </li>
+        {% endfor %}
+    </ol>
+{% endmacro %}

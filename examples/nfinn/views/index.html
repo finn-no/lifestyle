@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h2>Søk</h2>
+
+<ol>
+    {% for search in searches %}
+        <li class="marketlink">
+            <a href="/search/{{ search.id }}">{{ search.title }}</a>
+        </li>
+    {% endfor %}
+</ol>
+
+{% endblock %}

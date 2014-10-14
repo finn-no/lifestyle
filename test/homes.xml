@@ -1,0 +1,2036 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:geo="http://a9.com/-/opensearch/extensions/geo/1.0/" xmlns:f="http://xmlns.finn.no/opensearch/1.0" xmlns:os="http://a9.com/-/spec/opensearch/1.1/" xmlns:age="http://purl.org/atompub/age/1.0" xmlns:finn="http://xmlns.finn.no/atom-ad-extensions/1.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:app="http://www.w3.org/2007/app" xmlns:georss="http://www.georss.org/georss">
+  <id>urn:uuid:hrirgCY8lszUEnEv6QiHfvJpr5N1IZ9q</id>
+  <title>Boliger</title>
+  <subtitle>Bolig til salgs</subtitle>
+  <updated>2014-03-24T21:19:53.850Z</updated>
+  <author>
+    <name>FINN.no</name>
+  </author>
+  <link href="https://cache.api.finn.no/iad/search/realestate-homes?sort=1" rel="self"/>
+  <link href="https://cache.api.finn.no/iad/search/realestate-homes?sort=1" rel="first"/>
+  <link href="https://cache.api.finn.no/iad/search/realestate-homes?sort=1&amp;page=531" rel="last"/>
+  <link href="https://cache.api.finn.no/iad/search/realestate-homes?sort=1&amp;page=2" rel="next"/>
+  <link href="https://cache.api.finn.no/iad/search/realestate-homes/description" rel="search" type="application/opensearchdescription+xml"/>
+  <link href="https://cache.api.finn.no/iad/promoted/realestate-homes" rel="promoted"/>
+  <f:filter name="location" title="Område" range="false">
+    <f:Query role="subset" totalResults="2159" f:filter="0.20003" title="Akershus">
+      <f:filter name="location" title="Område" range="false">
+        <f:Query role="subset" totalResults="176" f:filter="1.20003.20046" title="Asker"/>
+        <f:Query role="subset" totalResults="74" f:filter="1.20003.20047" title="Aurskog Høland"/>
+        <f:Query role="subset" totalResults="428" f:filter="1.20003.20045" title="Bærum"/>
+        <f:Query role="subset" totalResults="122" f:filter="1.20003.20058" title="Eidsvoll"/>
+        <f:Query role="subset" totalResults="31" f:filter="1.20003.20051" title="Enebakk"/>
+        <f:Query role="subset" totalResults="16" f:filter="1.20003.20049" title="Fet"/>
+        <f:Query role="subset" totalResults="47" f:filter="1.20003.20042" title="Frogn - Drøbak"/>
+        <f:Query role="subset" totalResults="10" f:filter="1.20003.20055" title="Gjerdrum"/>
+        <f:Query role="subset" totalResults="1" f:filter="1.20003.20113" title="Hole"/>
+        <f:Query role="subset" totalResults="6" f:filter="1.20003.20060" title="Hurdal"/>
+        <f:Query role="subset" totalResults="154" f:filter="1.20003.20052" title="Lørenskog"/>
+        <f:Query role="subset" totalResults="136" f:filter="1.20003.20059" title="Nannestad"/>
+        <f:Query role="subset" totalResults="70" f:filter="1.20003.20057" title="Nes (Akershus)"/>
+        <f:Query role="subset" totalResults="30" f:filter="1.20003.20043" title="Nesodden"/>
+        <f:Query role="subset" totalResults="94" f:filter="1.20003.20054" title="Nittedal"/>
+        <f:Query role="subset" totalResults="80" f:filter="1.20003.20044" title="Oppegård"/>
+        <f:Query role="subset" totalResults="43" f:filter="1.20003.20050" title="Rælingen"/>
+        <f:Query role="subset" totalResults="209" f:filter="1.20003.20053" title="Skedsmo"/>
+        <f:Query role="subset" totalResults="88" f:filter="1.20003.20040" title="Ski"/>
+        <f:Query role="subset" totalResults="65" f:filter="1.20003.20048" title="Sørum"/>
+        <f:Query role="subset" totalResults="133" f:filter="1.20003.20056" title="Ullensaker"/>
+        <f:Query role="subset" totalResults="89" f:filter="1.20003.20039" title="Vestby - Son"/>
+        <f:Query role="subset" totalResults="58" f:filter="1.20003.20041" title="Ås"/>
+      </f:filter>
+    </f:Query>
+    <f:Query role="subset" totalResults="898" f:filter="0.20010" title="Aust-Agder">
+      <f:filter name="location" title="Område" range="false">
+        <f:Query role="subset" totalResults="411" f:filter="1.20010.20166" title="Arendal"/>
+        <f:Query role="subset" totalResults="45" f:filter="1.20010.20172" title="Birkenes"/>
+        <f:Query role="subset" totalResults="4" f:filter="1.20010.20176" title="Bygland"/>
+        <f:Query role="subset" totalResults="5" f:filter="1.20010.20178" title="Bykle"/>
+        <f:Query role="subset" totalResults="22" f:filter="1.20010.20175" title="Evje og Hornnes"/>
+        <f:Query role="subset" totalResults="34" f:filter="1.20010.20170" title="Froland"/>
+        <f:Query role="subset" totalResults="11" f:filter="1.20010.20167" title="Gjerstad"/>
+        <f:Query role="subset" totalResults="99" f:filter="1.20010.20165" title="Grimstad"/>
+        <f:Query role="subset" totalResults="10" f:filter="1.20010.20174" title="Iveland"/>
+        <f:Query role="subset" totalResults="108" f:filter="1.20010.20171" title="Lillesand"/>
+        <f:Query role="subset" totalResults="52" f:filter="1.20010.20164" title="Risør"/>
+        <f:Query role="subset" totalResults="68" f:filter="1.20010.20169" title="Tvedestrand"/>
+        <f:Query role="subset" totalResults="2" f:filter="1.20010.20177" title="Valle"/>
+        <f:Query role="subset" totalResults="21" f:filter="1.20010.20168" title="Vegårshei"/>
+        <f:Query role="subset" totalResults="6" f:filter="1.20010.20173" title="Åmli"/>
+      </f:filter>
+    </f:Query>
+    <f:Query role="subset" totalResults="923" f:filter="0.20007" title="Buskerud">
+      <f:filter name="location" title="Område" range="false">
+        <f:Query role="subset" totalResults="1" f:filter="1.20007.20045" title="Bærum"/>
+        <f:Query role="subset" totalResults="255" f:filter="1.20007.20110" title="Drammen"/>
+        <f:Query role="subset" totalResults="7" f:filter="1.20007.20128" title="Flesberg"/>
+        <f:Query role="subset" totalResults="6" f:filter="1.20007.20114" title="Flå"/>
+        <f:Query role="subset" totalResults="13" f:filter="1.20007.20116" title="Gol"/>
+        <f:Query role="subset" totalResults="8" f:filter="1.20007.20117" title="Hemsedal"/>
+        <f:Query role="subset" totalResults="27" f:filter="1.20007.20119" title="Hol"/>
+        <f:Query role="subset" totalResults="37" f:filter="1.20007.20113" title="Hole"/>
+        <f:Query role="subset" totalResults="30" f:filter="1.20007.20127" title="Hurum"/>
+        <f:Query role="subset" totalResults="94" f:filter="1.20007.20111" title="Kongsberg"/>
+        <f:Query role="subset" totalResults="6" f:filter="1.20007.20121" title="Krødsherad"/>
+        <f:Query role="subset" totalResults="71" f:filter="1.20007.20125" title="Lier"/>
+        <f:Query role="subset" totalResults="25" f:filter="1.20007.20122" title="Modum"/>
+        <f:Query role="subset" totalResults="76" f:filter="1.20007.20124" title="Nedre Eiker"/>
+        <f:Query role="subset" totalResults="16" f:filter="1.20007.20115" title="Nes (Buskerud)"/>
+        <f:Query role="subset" totalResults="4" f:filter="1.20007.20130" title="Nore og Uvdal"/>
+        <f:Query role="subset" totalResults="111" f:filter="1.20007.20112" title="Ringerike"/>
+        <f:Query role="subset" totalResults="1" f:filter="1.20007.20129" title="Rollag"/>
+        <f:Query role="subset" totalResults="97" f:filter="1.20007.20126" title="Røyken"/>
+        <f:Query role="subset" totalResults="5" f:filter="1.20007.20120" title="Sigdal"/>
+        <f:Query role="subset" totalResults="11" f:filter="1.20007.20118" title="Ål i Hallingdal"/>
+        <f:Query role="subset" totalResults="27" f:filter="1.20007.20123" title="Øvre Eiker"/>
+      </f:filter>
+    </f:Query>
+    <f:Query role="subset" totalResults="250" f:filter="0.20020" title="Finnmark">
+      <f:filter name="location" title="Område" range="false">
+        <f:Query role="subset" totalResults="119" f:filter="1.20020.20441" title="Alta"/>
+        <f:Query role="subset" totalResults="2" f:filter="1.20020.20451" title="Berlevåg"/>
+        <f:Query role="subset" totalResults="1" f:filter="1.20020.20450" title="Gamvik"/>
+        <f:Query role="subset" totalResults="44" f:filter="1.20020.20439" title="Hammerfest"/>
+        <f:Query role="subset" totalResults="4" f:filter="1.20020.20443" title="Hasvik"/>
+        <f:Query role="subset" totalResults="2" f:filter="1.20020.20448" title="Karasjok"/>
+        <f:Query role="subset" totalResults="3" f:filter="1.20020.20440" title="Kautokeino"/>
+        <f:Query role="subset" totalResults="4" f:filter="1.20020.20444" title="Kvalsund"/>
+        <f:Query role="subset" totalResults="1" f:filter="1.20020.20442" title="Loppa"/>
+        <f:Query role="subset" totalResults="1" f:filter="1.20020.20445" title="Måsøy"/>
+        <f:Query role="subset" totalResults="2" f:filter="1.20020.20453" title="Nesseby"/>
+        <f:Query role="subset" totalResults="6" f:filter="1.20020.20446" title="Nordkapp"/>
+        <f:Query role="subset" totalResults="8" f:filter="1.20020.20447" title="Porsanger"/>
+        <f:Query role="subset" totalResults="33" f:filter="1.20020.20455" title="Sør-Varanger"/>
+        <f:Query role="subset" totalResults="4" f:filter="1.20020.20452" title="Tana"/>
+        <f:Query role="subset" totalResults="13" f:filter="1.20020.20438" title="Vadsø"/>
+        <f:Query role="subset" totalResults="3" f:filter="1.20020.20437" title="Vardø"/>
+      </f:filter>
+    </f:Query>
+    <f:Query role="subset" totalResults="858" f:filter="0.20005" title="Hedmark">
+      <f:filter name="location" title="Område" range="false">
+        <f:Query role="subset" totalResults="5" f:filter="1.20005.20081" title="Alvdal"/>
+        <f:Query role="subset" totalResults="10" f:filter="1.20005.20069" title="Eidskog"/>
+        <f:Query role="subset" totalResults="136" f:filter="1.20005.20073" title="Elverum"/>
+        <f:Query role="subset" totalResults="3" f:filter="1.20005.20078" title="Engerdal"/>
+        <f:Query role="subset" totalResults="4" f:filter="1.20005.20082" title="Folldal"/>
+        <f:Query role="subset" totalResults="15" f:filter="1.20005.20070" title="Grue"/>
+        <f:Query role="subset" totalResults="146" f:filter="1.20005.20063" title="Hamar"/>
+        <f:Query role="subset" totalResults="62" f:filter="1.20005.20062" title="Kongsvinger"/>
+        <f:Query role="subset" totalResults="20" f:filter="1.20005.20065" title="Løten"/>
+        <f:Query role="subset" totalResults="13" f:filter="1.20005.20067" title="Nord-Odal"/>
+        <f:Query role="subset" totalResults="6" f:filter="1.20005.20083" title="Os (Hedmark)"/>
+        <f:Query role="subset" totalResults="12" f:filter="1.20005.20077" title="Rendalen"/>
+        <f:Query role="subset" totalResults="163" f:filter="1.20005.20064" title="Ringsaker"/>
+        <f:Query role="subset" totalResults="113" f:filter="1.20005.20066" title="Stange"/>
+        <f:Query role="subset" totalResults="8" f:filter="1.20005.20076" title="Stor-Elvdal"/>
+        <f:Query role="subset" totalResults="30" f:filter="1.20005.20068" title="Sør-Odal"/>
+        <f:Query role="subset" totalResults="3" f:filter="1.20005.20079" title="Tolga"/>
+        <f:Query role="subset" totalResults="35" f:filter="1.20005.20074" title="Trysil"/>
+        <f:Query role="subset" totalResults="24" f:filter="1.20005.20080" title="Tynset"/>
+        <f:Query role="subset" totalResults="7" f:filter="1.20005.20072" title="Våler (Hedmark)"/>
+        <f:Query role="subset" totalResults="22" f:filter="1.20005.20075" title="Åmot"/>
+        <f:Query role="subset" totalResults="21" f:filter="1.20005.20071" title="Åsnes"/>
+      </f:filter>
+    </f:Query>
+    <f:Query role="subset" totalResults="1639" f:filter="0.20013" title="Hordaland">
+      <f:filter name="location" title="Område" range="false">
+        <f:Query role="subset" totalResults="97" f:filter="1.20013.20243" title="Askøy"/>
+        <f:Query role="subset" totalResults="4" f:filter="1.20013.20240" title="Austevoll"/>
+        <f:Query role="subset" totalResults="9" f:filter="1.20013.20251" title="Austrheim"/>
+        <f:Query role="subset" totalResults="759" f:filter="1.20013.20220" title="Bergen">
+          <f:filter name="location" title="Område" range="false">
+            <f:Query role="subset" totalResults="21" f:filter="2.20013.20220.20537" title="Arna"/>
+            <f:Query role="subset" totalResults="231" f:filter="2.20013.20220.20465" title="Bergen Sentrum"/>
+            <f:Query role="subset" totalResults="50" f:filter="2.20013.20220.20479" title="Bergen Vest"/>
+            <f:Query role="subset" totalResults="132" f:filter="2.20013.20220.20473" title="Fana"/>
+            <f:Query role="subset" totalResults="34" f:filter="2.20013.20220.20475" title="Fyllingsdalen"/>
+            <f:Query role="subset" totalResults="78" f:filter="2.20013.20220.20471" title="Landås"/>
+            <f:Query role="subset" totalResults="213" f:filter="2.20013.20220.20470" title="Åsane"/>
+          </f:filter>
+        </f:Query>
+        <f:Query role="subset" totalResults="78" f:filter="1.20013.20224" title="Bømlo"/>
+        <f:Query role="subset" totalResults="1" f:filter="1.20013.20232" title="Eidfjord"/>
+        <f:Query role="subset" totalResults="10" f:filter="1.20013.20221" title="Etne"/>
+        <f:Query role="subset" totalResults="3" f:filter="1.20013.20252" title="Fedje"/>
+        <f:Query role="subset" totalResults="9" f:filter="1.20013.20226" title="Fitjar"/>
+        <f:Query role="subset" totalResults="164" f:filter="1.20013.20242" title="Fjell"/>
+        <f:Query role="subset" totalResults="1" f:filter="1.20013.20237" title="Fusa"/>
+        <f:Query role="subset" totalResults="2" f:filter="1.20013.20234" title="Granvin"/>
+        <f:Query role="subset" totalResults="1" f:filter="1.20013.20229" title="Jondal"/>
+        <f:Query role="subset" totalResults="5" f:filter="1.20013.20236" title="Kvam"/>
+        <f:Query role="subset" totalResults="55" f:filter="1.20013.20228" title="Kvinnherad"/>
+        <f:Query role="subset" totalResults="31" f:filter="1.20013.20250" title="Lindås"/>
+        <f:Query role="subset" totalResults="2" f:filter="1.20013.20253" title="Masfjorden"/>
+        <f:Query role="subset" totalResults="19" f:filter="1.20013.20247" title="Meland"/>
+        <f:Query role="subset" totalResults="21" f:filter="1.20013.20230" title="Odda"/>
+        <f:Query role="subset" totalResults="114" f:filter="1.20013.20239" title="Os (Hordaland)"/>
+        <f:Query role="subset" totalResults="11" f:filter="1.20013.20246" title="Osterøy"/>
+        <f:Query role="subset" totalResults="6" f:filter="1.20013.20249" title="Radøy"/>
+        <f:Query role="subset" totalResults="1" f:filter="1.20013.20238" title="Samnanger"/>
+        <f:Query role="subset" totalResults="79" f:filter="1.20013.20225" title="Stord"/>
+        <f:Query role="subset" totalResults="11" f:filter="1.20013.20241" title="Sund"/>
+        <f:Query role="subset" totalResults="29" f:filter="1.20013.20223" title="Sveio"/>
+        <f:Query role="subset" totalResults="7" f:filter="1.20013.20227" title="Tysnes"/>
+        <f:Query role="subset" totalResults="8" f:filter="1.20013.20231" title="Ullensvang"/>
+        <f:Query role="subset" totalResults="3" f:filter="1.20013.20233" title="Ulvik"/>
+        <f:Query role="subset" totalResults="10" f:filter="1.20013.20244" title="Vaksdal"/>
+        <f:Query role="subset" totalResults="64" f:filter="1.20013.20235" title="Voss"/>
+        <f:Query role="subset" totalResults="25" f:filter="1.20013.20248" title="Øygarden"/>
+      </f:filter>
+    </f:Query>
+    <f:Query role="subset" totalResults="1067" f:filter="0.20015" title="Møre og Romsdal">
+      <f:filter name="location" title="Område" range="false">
+        <f:Query role="subset" totalResults="17" f:filter="1.20015.20304" title="Aukra"/>
+        <f:Query role="subset" totalResults="8" f:filter="1.20015.20314" title="Aure"/>
+        <f:Query role="subset" totalResults="51" f:filter="1.20015.20307" title="Averøy"/>
+        <f:Query role="subset" totalResults="15" f:filter="1.20015.20306" title="Eide"/>
+        <f:Query role="subset" totalResults="20" f:filter="1.20015.20305" title="Fræna"/>
+        <f:Query role="subset" totalResults="45" f:filter="1.20015.20297" title="Giske"/>
+        <f:Query role="subset" totalResults="12" f:filter="1.20015.20309" title="Gjemnes"/>
+        <f:Query role="subset" totalResults="8" f:filter="1.20015.20315" title="Halsa"/>
+        <f:Query role="subset" totalResults="32" f:filter="1.20015.20298" title="Haram"/>
+        <f:Query role="subset" totalResults="22" f:filter="1.20015.20287" title="Hareid"/>
+        <f:Query role="subset" totalResults="27" f:filter="1.20015.20285" title="Herøy (M.R.)"/>
+        <f:Query role="subset" totalResults="186" f:filter="1.20015.20281" title="Kristiansund"/>
+        <f:Query role="subset" totalResults="3" f:filter="1.20015.20302" title="Midsund"/>
+        <f:Query role="subset" totalResults="118" f:filter="1.20015.20280" title="Molde"/>
+        <f:Query role="subset" totalResults="8" f:filter="1.20015.20301" title="Nesset"/>
+        <f:Query role="subset" totalResults="3" f:filter="1.20015.20291" title="Norddal"/>
+        <f:Query role="subset" totalResults="23" f:filter="1.20015.20300" title="Rauma"/>
+        <f:Query role="subset" totalResults="1" f:filter="1.20015.20313" title="Rindal"/>
+        <f:Query role="subset" totalResults="4" f:filter="1.20015.20284" title="Sande (M.R.)"/>
+        <f:Query role="subset" totalResults="18" f:filter="1.20015.20295" title="Skodje"/>
+        <f:Query role="subset" totalResults="7" f:filter="1.20015.20317" title="Smøla"/>
+        <f:Query role="subset" totalResults="3" f:filter="1.20015.20293" title="Stordal"/>
+        <f:Query role="subset" totalResults="17" f:filter="1.20015.20292" title="Stranda"/>
+        <f:Query role="subset" totalResults="34" f:filter="1.20015.20296" title="Sula"/>
+        <f:Query role="subset" totalResults="20" f:filter="1.20015.20311" title="Sunndal"/>
+        <f:Query role="subset" totalResults="23" f:filter="1.20015.20312" title="Surnadal"/>
+        <f:Query role="subset" totalResults="16" f:filter="1.20015.20294" title="Sykkylven"/>
+        <f:Query role="subset" totalResults="9" f:filter="1.20015.20310" title="Tingvoll"/>
+        <f:Query role="subset" totalResults="29" f:filter="1.20015.20286" title="Ulstein"/>
+        <f:Query role="subset" totalResults="6" f:filter="1.20015.20283" title="Vanylven"/>
+        <f:Query role="subset" totalResults="14" f:filter="1.20015.20299" title="Vestnes"/>
+        <f:Query role="subset" totalResults="25" f:filter="1.20015.20288" title="Volda"/>
+        <f:Query role="subset" totalResults="210" f:filter="1.20015.20282" title="Ålesund"/>
+        <f:Query role="subset" totalResults="5" f:filter="1.20015.20290" title="Ørskog"/>
+        <f:Query role="subset" totalResults="38" f:filter="1.20015.20289" title="Ørsta"/>
+      </f:filter>
+    </f:Query>
+    <f:Query role="subset" totalResults="556" f:filter="0.20017" title="Nord-Trøndelag">
+      <f:filter name="location" title="Område" range="false">
+        <f:Query role="subset" totalResults="3" f:filter="1.20017.20363" title="Flatanger"/>
+        <f:Query role="subset" totalResults="5" f:filter="1.20017.20347" title="Frosta"/>
+        <f:Query role="subset" totalResults="9" f:filter="1.20017.20359" title="Grong"/>
+        <f:Query role="subset" totalResults="1" f:filter="1.20017.20360" title="Høylandet"/>
+        <f:Query role="subset" totalResults="17" f:filter="1.20017.20354" title="Inderøy"/>
+        <f:Query role="subset" totalResults="1" f:filter="1.20017.20366" title="Leka"/>
+        <f:Query role="subset" totalResults="6" f:filter="1.20017.20348" title="Leksvik"/>
+        <f:Query role="subset" totalResults="121" f:filter="1.20017.20349" title="Levanger"/>
+        <f:Query role="subset" totalResults="3" f:filter="1.20017.20356" title="Lierne"/>
+        <f:Query role="subset" totalResults="5" f:filter="1.20017.20345" title="Meråker"/>
+        <f:Query role="subset" totalResults="6" f:filter="1.20017.20353" title="Namdalseid"/>
+        <f:Query role="subset" totalResults="39" f:filter="1.20017.20344" title="Namsos"/>
+        <f:Query role="subset" totalResults="1" f:filter="1.20017.20358" title="Namsskogan"/>
+        <f:Query role="subset" totalResults="12" f:filter="1.20017.20365" title="Nærøy"/>
+        <f:Query role="subset" totalResults="5" f:filter="1.20017.20361" title="Overhalla"/>
+        <f:Query role="subset" totalResults="2" f:filter="1.20017.20357" title="Røyrvik"/>
+        <f:Query role="subset" totalResults="3" f:filter="1.20017.20355" title="Snåsa"/>
+        <f:Query role="subset" totalResults="152" f:filter="1.20017.20343" title="Steinkjer"/>
+        <f:Query role="subset" totalResults="95" f:filter="1.20017.20346" title="Stjørdal"/>
+        <f:Query role="subset" totalResults="54" f:filter="1.20017.20350" title="Verdal"/>
+        <f:Query role="subset" totalResults="11" f:filter="1.20017.20352" title="Verran"/>
+        <f:Query role="subset" totalResults="5" f:filter="1.20017.20364" title="Vikna"/>
+      </f:filter>
+    </f:Query>
+    <f:Query role="subset" totalResults="639" f:filter="0.20018" title="Nordland">
+      <f:filter name="location" title="Område" range="false">
+        <f:Query role="subset" totalResults="32" f:filter="1.20018.20375" title="Alstahaug"/>
+        <f:Query role="subset" totalResults="15" f:filter="1.20018.20410" title="Andøy"/>
+        <f:Query role="subset" totalResults="8" f:filter="1.20018.20400" title="Ballangen"/>
+        <f:Query role="subset" totalResults="1" f:filter="1.20018.20389" title="Beiarn"/>
+        <f:Query role="subset" totalResults="128" f:filter="1.20018.20367" title="Bodø"/>
+        <f:Query role="subset" totalResults="24" f:filter="1.20018.20371" title="Brønnøy"/>
+        <f:Query role="subset" totalResults="7" f:filter="1.20018.20407" title="Bø (Nordland)"/>
+        <f:Query role="subset" totalResults="4" f:filter="1.20018.20380" title="Dønna"/>
+        <f:Query role="subset" totalResults="4" f:filter="1.20018.20399" title="Evenes"/>
+        <f:Query role="subset" totalResults="10" f:filter="1.20018.20391" title="Fauske"/>
+        <f:Query role="subset" totalResults="5" f:filter="1.20018.20403" title="Flakstad"/>
+        <f:Query role="subset" totalResults="3" f:filter="1.20018.20388" title="Gildeskål"/>
+        <f:Query role="subset" totalResults="2" f:filter="1.20018.20378" title="Grane"/>
+        <f:Query role="subset" totalResults="28" f:filter="1.20018.20406" title="Hadsel"/>
+        <f:Query role="subset" totalResults="1" f:filter="1.20018.20395" title="Hamarøy"/>
+        <f:Query role="subset" totalResults="1" f:filter="1.20018.20379" title="Hattfjelldal"/>
+        <f:Query role="subset" totalResults="9" f:filter="1.20018.20382" title="Hemnes"/>
+        <f:Query role="subset" totalResults="7" f:filter="1.20018.20374" title="Herøy (Nordland)"/>
+        <f:Query role="subset" totalResults="11" f:filter="1.20018.20376" title="Leirfjord"/>
+        <f:Query role="subset" totalResults="2" f:filter="1.20018.20384" title="Lurøy"/>
+        <f:Query role="subset" totalResults="8" f:filter="1.20018.20397" title="Lødingen"/>
+        <f:Query role="subset" totalResults="16" f:filter="1.20018.20387" title="Meløy"/>
+        <f:Query role="subset" totalResults="7" f:filter="1.20018.20411" title="Moskenes"/>
+        <f:Query role="subset" totalResults="69" f:filter="1.20018.20368" title="Narvik"/>
+        <f:Query role="subset" totalResults="6" f:filter="1.20018.20381" title="Nesna"/>
+        <f:Query role="subset" totalResults="29" f:filter="1.20018.20383" title="Rana"/>
+        <f:Query role="subset" totalResults="1" f:filter="1.20018.20386" title="Rødøy"/>
+        <f:Query role="subset" totalResults="1" f:filter="1.20018.20401" title="Røst"/>
+        <f:Query role="subset" totalResults="8" f:filter="1.20018.20390" title="Saltdal"/>
+        <f:Query role="subset" totalResults="45" f:filter="1.20018.20409" title="Sortland"/>
+        <f:Query role="subset" totalResults="4" f:filter="1.20018.20394" title="Steigen"/>
+        <f:Query role="subset" totalResults="2" f:filter="1.20018.20370" title="Sømna"/>
+        <f:Query role="subset" totalResults="4" f:filter="1.20018.20393" title="Sørfold"/>
+        <f:Query role="subset" totalResults="6" f:filter="1.20018.20398" title="Tjeldsund"/>
+        <f:Query role="subset" totalResults="2" f:filter="1.20018.20396" title="Tysfjord"/>
+        <f:Query role="subset" totalResults="35" f:filter="1.20018.20377" title="Vefsn"/>
+        <f:Query role="subset" totalResults="40" f:filter="1.20018.20404" title="Vestvågøy"/>
+        <f:Query role="subset" totalResults="1" f:filter="1.20018.20373" title="Vevelstad"/>
+        <f:Query role="subset" totalResults="43" f:filter="1.20018.20405" title="Vågan"/>
+        <f:Query role="subset" totalResults="10" f:filter="1.20018.20408" title="Øksnes"/>
+      </f:filter>
+    </f:Query>
+    <f:Query role="subset" totalResults="539" f:filter="0.20006" title="Oppland">
+      <f:filter name="location" title="Område" range="false">
+        <f:Query role="subset" totalResults="5" f:filter="1.20006.20086" title="Dovre"/>
+        <f:Query role="subset" totalResults="5" f:filter="1.20006.20105" title="Etnedal"/>
+        <f:Query role="subset" totalResults="25" f:filter="1.20006.20096" title="Gausdal"/>
+        <f:Query role="subset" totalResults="96" f:filter="1.20006.20085" title="Gjøvik"/>
+        <f:Query role="subset" totalResults="26" f:filter="1.20006.20101" title="Gran"/>
+        <f:Query role="subset" totalResults="17" f:filter="1.20006.20099" title="Jevnaker"/>
+        <f:Query role="subset" totalResults="2" f:filter="1.20006.20087" title="Lesja"/>
+        <f:Query role="subset" totalResults="134" f:filter="1.20006.20084" title="Lillehammer"/>
+        <f:Query role="subset" totalResults="2" f:filter="1.20006.20089" title="Lom"/>
+        <f:Query role="subset" totalResults="7" f:filter="1.20006.20100" title="Lunner"/>
+        <f:Query role="subset" totalResults="15" f:filter="1.20006.20106" title="Nord-Aurdal"/>
+        <f:Query role="subset" totalResults="18" f:filter="1.20006.20091" title="Nord-Fron"/>
+        <f:Query role="subset" totalResults="22" f:filter="1.20006.20103" title="Nordre Land"/>
+        <f:Query role="subset" totalResults="5" f:filter="1.20006.20094" title="Ringebu"/>
+        <f:Query role="subset" totalResults="7" f:filter="1.20006.20092" title="Sel"/>
+        <f:Query role="subset" totalResults="5" f:filter="1.20006.20088" title="Skjåk"/>
+        <f:Query role="subset" totalResults="21" f:filter="1.20006.20102" title="Søndre Land"/>
+        <f:Query role="subset" totalResults="2" f:filter="1.20006.20104" title="Sør-Aurdal"/>
+        <f:Query role="subset" totalResults="3" f:filter="1.20006.20093" title="Sør-Fron"/>
+        <f:Query role="subset" totalResults="3" f:filter="1.20006.20109" title="Vang"/>
+        <f:Query role="subset" totalResults="5" f:filter="1.20006.20107" title="Vestre Slidre"/>
+        <f:Query role="subset" totalResults="46" f:filter="1.20006.20098" title="Vestre Toten"/>
+        <f:Query role="subset" totalResults="14" f:filter="1.20006.20090" title="Vågå"/>
+        <f:Query role="subset" totalResults="34" f:filter="1.20006.20097" title="Østre Toten"/>
+        <f:Query role="subset" totalResults="16" f:filter="1.20006.20095" title="Øyer"/>
+        <f:Query role="subset" totalResults="4" f:filter="1.20006.20108" title="Øystre Slidre"/>
+      </f:filter>
+    </f:Query>
+    <f:Query role="subset" totalResults="2447" f:filter="0.20061" title="Oslo">
+      <f:filter name="location" title="Område" range="false">
+        <f:Query role="subset" totalResults="80" f:filter="1.20061.20528" title="Bjerke"/>
+        <f:Query role="subset" totalResults="148" f:filter="1.20061.20507" title="Bygdøy - Frogner"/>
+        <f:Query role="subset" totalResults="33" f:filter="1.20061.20519" title="Bøler"/>
+        <f:Query role="subset" totalResults="44" f:filter="1.20061.20515" title="Ekeberg - Bekkelaget"/>
+        <f:Query role="subset" totalResults="38" f:filter="1.20061.20524" title="Furuset"/>
+        <f:Query role="subset" totalResults="352" f:filter="1.20061.20512" title="Gamle Oslo"/>
+        <f:Query role="subset" totalResults="47" f:filter="1.20061.20529" title="Grefsen - Kjelsås"/>
+        <f:Query role="subset" totalResults="31" f:filter="1.20061.20527" title="Grorud"/>
+        <f:Query role="subset" totalResults="272" f:filter="1.20061.20511" title="Grünerløkka - Sofienberg"/>
+        <f:Query role="subset" totalResults="29" f:filter="1.20061.20523" title="Hellerud"/>
+        <f:Query role="subset" totalResults="269" f:filter="1.20061.20522" title="Helsfyr - Sinsen"/>
+        <f:Query role="subset" totalResults="23" f:filter="1.20061.20518" title="Lambertseter"/>
+        <f:Query role="subset" totalResults="15" f:filter="1.20061.20520" title="Manglerud"/>
+        <f:Query role="subset" totalResults="60" f:filter="1.20061.20516" title="Nordstrand"/>
+        <f:Query role="subset" totalResults="14" f:filter="1.20061.20526" title="Romsås"/>
+        <f:Query role="subset" totalResults="59" f:filter="1.20061.20532" title="Røa"/>
+        <f:Query role="subset" totalResults="189" f:filter="1.20061.20510" title="Sagene - Torshov"/>
+        <f:Query role="subset" totalResults="24" f:filter="1.20061.20513" title="Sentrum"/>
+        <f:Query role="subset" totalResults="24" f:filter="1.20061.20530" title="Sogn"/>
+        <f:Query role="subset" totalResults="147" f:filter="1.20061.20509" title="St.Hanshaugen - Ullevål"/>
+        <f:Query role="subset" totalResults="26" f:filter="1.20061.20525" title="Stovner"/>
+        <f:Query role="subset" totalResults="141" f:filter="1.20061.20517" title="Søndre Nordstrand"/>
+        <f:Query role="subset" totalResults="133" f:filter="1.20061.20533" title="Ullern"/>
+        <f:Query role="subset" totalResults="110" f:filter="1.20061.20508" title="Uranienborg - Majorstuen"/>
+        <f:Query role="subset" totalResults="79" f:filter="1.20061.20531" title="Vinderen"/>
+        <f:Query role="subset" totalResults="96" f:filter="1.20061.20521" title="Østensjø"/>
+      </f:filter>
+    </f:Query>
+    <f:Query role="subset" totalResults="2312" f:filter="0.20012" title="Rogaland">
+      <f:filter name="location" title="Område" range="false">
+        <f:Query role="subset" totalResults="8" f:filter="1.20012.20200" title="Bjerkreim"/>
+        <f:Query role="subset" totalResults="1" f:filter="1.20012.20215" title="Bokn"/>
+        <f:Query role="subset" totalResults="63" f:filter="1.20012.20194" title="Eigersund"/>
+        <f:Query role="subset" totalResults="31" f:filter="1.20012.20212" title="Finnøy"/>
+        <f:Query role="subset" totalResults="3" f:filter="1.20012.20207" title="Forsand"/>
+        <f:Query role="subset" totalResults="42" f:filter="1.20012.20204" title="Gjesdal"/>
+        <f:Query role="subset" totalResults="196" f:filter="1.20012.20197" title="Haugesund"/>
+        <f:Query role="subset" totalResults="6" f:filter="1.20012.20209" title="Hjelmeland"/>
+        <f:Query role="subset" totalResults="131" f:filter="1.20012.20201" title="Hå"/>
+        <f:Query role="subset" totalResults="165" f:filter="1.20012.20217" title="Karmøy"/>
+        <f:Query role="subset" totalResults="73" f:filter="1.20012.20202" title="Klepp"/>
+        <f:Query role="subset" totalResults="2" f:filter="1.20012.20214" title="Kvitsøy"/>
+        <f:Query role="subset" totalResults="16" f:filter="1.20012.20199" title="Lund"/>
+        <f:Query role="subset" totalResults="100" f:filter="1.20012.20206" title="Randaberg"/>
+        <f:Query role="subset" totalResults="36" f:filter="1.20012.20213" title="Rennesøy"/>
+        <f:Query role="subset" totalResults="426" f:filter="1.20012.20195" title="Sandnes"/>
+        <f:Query role="subset" totalResults="18" f:filter="1.20012.20211" title="Sauda"/>
+        <f:Query role="subset" totalResults="11" f:filter="1.20012.20198" title="Sokndal"/>
+        <f:Query role="subset" totalResults="159" f:filter="1.20012.20205" title="Sola"/>
+        <f:Query role="subset" totalResults="595" f:filter="1.20012.20196" title="Stavanger">
+          <f:filter name="location" title="Område" range="false">
+            <f:Query role="subset" totalResults="14" f:filter="2.20012.20196.20714" title="Bjergsted/Byhaugen/ Kalh/Kampen"/>
+            <f:Query role="subset" totalResults="1" f:filter="2.20012.20196.20715" title="Byøyer"/>
+            <f:Query role="subset" totalResults="54" f:filter="2.20012.20196.20716" title="Eiganes/Stokka/Sandal"/>
+            <f:Query role="subset" totalResults="13" f:filter="2.20012.20196.20718" title="Forus/Godeset"/>
+            <f:Query role="subset" totalResults="13" f:filter="2.20012.20196.20719" title="Gausel"/>
+            <f:Query role="subset" totalResults="54" f:filter="2.20012.20196.20720" title="Hinna"/>
+            <f:Query role="subset" totalResults="28" f:filter="2.20012.20196.20721" title="Hundvåg/Byøyer"/>
+            <f:Query role="subset" totalResults="6" f:filter="2.20012.20196.20722" title="Kvernevik"/>
+            <f:Query role="subset" totalResults="34" f:filter="2.20012.20196.20723" title="Madlamark/Gosen/Granneslia"/>
+            <f:Query role="subset" totalResults="18" f:filter="2.20012.20196.20724" title="Madlasandnes/Hafrsfjord/Sunde"/>
+            <f:Query role="subset" totalResults="17" f:filter="2.20012.20196.20712" title="Stavanger Sentrum/Vestre platå"/>
+            <f:Query role="subset" totalResults="143" f:filter="2.20012.20196.20713" title="Stavanger Øst"/>
+            <f:Query role="subset" totalResults="13" f:filter="2.20012.20196.20725" title="Storhaug vest"/>
+            <f:Query role="subset" totalResults="99" f:filter="2.20012.20196.20726" title="Tasta/Vardenes/ Dusavik"/>
+            <f:Query role="subset" totalResults="14" f:filter="2.20012.20196.20727" title="Tjensvoll/Ullandhaug"/>
+            <f:Query role="subset" totalResults="18" f:filter="2.20012.20196.20728" title="Vaulen"/>
+            <f:Query role="subset" totalResults="20" f:filter="2.20012.20196.20729" title="Våland/Bekkefaret"/>
+            <f:Query role="subset" totalResults="36" f:filter="2.20012.20196.20730" title="Åsen/Hillevåg/Auglend"/>
+          </f:filter>
+        </f:Query>
+        <f:Query role="subset" totalResults="42" f:filter="1.20012.20208" title="Strand"/>
+        <f:Query role="subset" totalResults="4" f:filter="1.20012.20210" title="Suldal"/>
+        <f:Query role="subset" totalResults="114" f:filter="1.20012.20203" title="Time"/>
+        <f:Query role="subset" totalResults="43" f:filter="1.20012.20216" title="Tysvær"/>
+        <f:Query role="subset" totalResults="27" f:filter="1.20012.20219" title="Vindafjord"/>
+      </f:filter>
+    </f:Query>
+    <f:Query role="subset" totalResults="329" f:filter="0.20014" title="Sogn og Fjordane">
+      <f:filter name="location" title="Område" range="false">
+        <f:Query role="subset" totalResults="6" f:filter="1.20014.20267" title="Askvoll"/>
+        <f:Query role="subset" totalResults="3" f:filter="1.20014.20260" title="Balestrand"/>
+        <f:Query role="subset" totalResults="9" f:filter="1.20014.20273" title="Bremanger"/>
+        <f:Query role="subset" totalResults="21" f:filter="1.20014.20276" title="Eid"/>
+        <f:Query role="subset" totalResults="4" f:filter="1.20014.20268" title="Fjaler"/>
+        <f:Query role="subset" totalResults="43" f:filter="1.20014.20254" title="Flora"/>
+        <f:Query role="subset" totalResults="36" f:filter="1.20014.20271" title="Førde"/>
+        <f:Query role="subset" totalResults="6" f:filter="1.20014.20269" title="Gaular"/>
+        <f:Query role="subset" totalResults="22" f:filter="1.20014.20278" title="Gloppen"/>
+        <f:Query role="subset" totalResults="1" f:filter="1.20014.20277" title="Hornindal"/>
+        <f:Query role="subset" totalResults="3" f:filter="1.20014.20257" title="Hyllestad"/>
+        <f:Query role="subset" totalResults="9" f:filter="1.20014.20258" title="Høyanger"/>
+        <f:Query role="subset" totalResults="4" f:filter="1.20014.20270" title="Jølster"/>
+        <f:Query role="subset" totalResults="10" f:filter="1.20014.20261" title="Leikanger"/>
+        <f:Query role="subset" totalResults="3" f:filter="1.20014.20266" title="Luster"/>
+        <f:Query role="subset" totalResults="7" f:filter="1.20014.20264" title="Lærdal"/>
+        <f:Query role="subset" totalResults="10" f:filter="1.20014.20272" title="Naustdal"/>
+        <f:Query role="subset" totalResults="13" f:filter="1.20014.20275" title="Selje"/>
+        <f:Query role="subset" totalResults="8" f:filter="1.20014.20262" title="Sogndal"/>
+        <f:Query role="subset" totalResults="1" f:filter="1.20014.20256" title="Solund"/>
+        <f:Query role="subset" totalResults="13" f:filter="1.20014.20279" title="Stryn"/>
+        <f:Query role="subset" totalResults="6" f:filter="1.20014.20259" title="Vik"/>
+        <f:Query role="subset" totalResults="33" f:filter="1.20014.20274" title="Vågsøy"/>
+        <f:Query role="subset" totalResults="58" f:filter="1.20014.20265" title="Årdal"/>
+      </f:filter>
+    </f:Query>
+    <f:Query role="subset" totalResults="3" f:filter="0.20506" title="Svalbard"/>
+    <f:Query role="subset" totalResults="1166" f:filter="0.20016" title="Sør-Trøndelag">
+      <f:filter name="location" title="Område" range="false">
+        <f:Query role="subset" totalResults="4" f:filter="1.20016.20324" title="Agdenes"/>
+        <f:Query role="subset" totalResults="11" f:filter="1.20016.20326" title="Bjugn"/>
+        <f:Query role="subset" totalResults="21" f:filter="1.20016.20322" title="Frøya"/>
+        <f:Query role="subset" totalResults="4" f:filter="1.20016.20319" title="Hemne"/>
+        <f:Query role="subset" totalResults="15" f:filter="1.20016.20321" title="Hitra"/>
+        <f:Query role="subset" totalResults="7" f:filter="1.20016.20335" title="Holtålen"/>
+        <f:Query role="subset" totalResults="44" f:filter="1.20016.20339" title="Klæbu"/>
+        <f:Query role="subset" totalResults="41" f:filter="1.20016.20340" title="Malvik"/>
+        <f:Query role="subset" totalResults="4" f:filter="1.20016.20332" title="Meldal"/>
+        <f:Query role="subset" totalResults="42" f:filter="1.20016.20337" title="Melhus"/>
+        <f:Query role="subset" totalResults="8" f:filter="1.20016.20336" title="Midtre Gauldal"/>
+        <f:Query role="subset" totalResults="17" f:filter="1.20016.20330" title="Oppdal"/>
+        <f:Query role="subset" totalResults="16" f:filter="1.20016.20333" title="Orkdal"/>
+        <f:Query role="subset" totalResults="16" f:filter="1.20016.20329" title="Osen"/>
+        <f:Query role="subset" totalResults="2" f:filter="1.20016.20331" title="Rennebu"/>
+        <f:Query role="subset" totalResults="19" f:filter="1.20016.20325" title="Rissa"/>
+        <f:Query role="subset" totalResults="1" f:filter="1.20016.20328" title="Roan"/>
+        <f:Query role="subset" totalResults="17" f:filter="1.20016.20334" title="Røros"/>
+        <f:Query role="subset" totalResults="11" f:filter="1.20016.20341" title="Selbu"/>
+        <f:Query role="subset" totalResults="35" f:filter="1.20016.20338" title="Skaun"/>
+        <f:Query role="subset" totalResults="2" f:filter="1.20016.20320" title="Snillfjord"/>
+        <f:Query role="subset" totalResults="781" f:filter="1.20016.20318" title="Trondheim">
+          <f:filter name="location" title="Område" range="false">
+            <f:Query role="subset" totalResults="80" f:filter="2.20016.20318.20505" title="Trondheim Sentrum"/>
+            <f:Query role="subset" totalResults="284" f:filter="2.20016.20318.20502" title="Trondheim Sør"/>
+            <f:Query role="subset" totalResults="45" f:filter="2.20016.20318.20501" title="Trondheim Vest"/>
+            <f:Query role="subset" totalResults="372" f:filter="2.20016.20318.20504" title="Trondheim Øst"/>
+          </f:filter>
+        </f:Query>
+        <f:Query role="subset" totalResults="14" f:filter="1.20016.20327" title="Åfjord"/>
+        <f:Query role="subset" totalResults="34" f:filter="1.20016.20323" title="Ørland"/>
+      </f:filter>
+    </f:Query>
+    <f:Query role="subset" totalResults="690" f:filter="0.20009" title="Telemark">
+      <f:filter name="location" title="Område" range="false">
+        <f:Query role="subset" totalResults="24" f:filter="1.20009.20150" title="Bamble"/>
+        <f:Query role="subset" totalResults="20" f:filter="1.20009.20154" title="Bø (Telemark)"/>
+        <f:Query role="subset" totalResults="8" f:filter="1.20009.20152" title="Drangedal"/>
+        <f:Query role="subset" totalResults="2" f:filter="1.20009.20161" title="Fyresdal"/>
+        <f:Query role="subset" totalResults="3" f:filter="1.20009.20157" title="Hjartdal"/>
+        <f:Query role="subset" totalResults="43" f:filter="1.20009.20151" title="Kragerø"/>
+        <f:Query role="subset" totalResults="6" f:filter="1.20009.20159" title="Kviteseid"/>
+        <f:Query role="subset" totalResults="3" f:filter="1.20009.20160" title="Nissedal"/>
+        <f:Query role="subset" totalResults="20" f:filter="1.20009.20153" title="Nome"/>
+        <f:Query role="subset" totalResults="36" f:filter="1.20009.20148" title="Notodden"/>
+        <f:Query role="subset" totalResults="160" f:filter="1.20009.20146" title="Porsgrunn"/>
+        <f:Query role="subset" totalResults="12" f:filter="1.20009.20155" title="Sauherad"/>
+        <f:Query role="subset" totalResults="6" f:filter="1.20009.20158" title="Seljord"/>
+        <f:Query role="subset" totalResults="25" f:filter="1.20009.20149" title="Siljan"/>
+        <f:Query role="subset" totalResults="271" f:filter="1.20009.20147" title="Skien"/>
+        <f:Query role="subset" totalResults="33" f:filter="1.20009.20156" title="Tinn"/>
+        <f:Query role="subset" totalResults="10" f:filter="1.20009.20162" title="Tokke"/>
+        <f:Query role="subset" totalResults="8" f:filter="1.20009.20163" title="Vinje"/>
+      </f:filter>
+    </f:Query>
+    <f:Query role="subset" totalResults="523" f:filter="0.20019" title="Troms">
+      <f:filter name="location" title="Område" range="false">
+        <f:Query role="subset" totalResults="19" f:filter="1.20019.20429" title="Balsfjord"/>
+        <f:Query role="subset" totalResults="12" f:filter="1.20019.20420" title="Bardu"/>
+        <f:Query role="subset" totalResults="3" f:filter="1.20019.20427" title="Berg"/>
+        <f:Query role="subset" totalResults="1" f:filter="1.20019.20424" title="Dyrøy"/>
+        <f:Query role="subset" totalResults="1" f:filter="1.20019.20418" title="Gratangen"/>
+        <f:Query role="subset" totalResults="55" f:filter="1.20019.20412" title="Harstad"/>
+        <f:Query role="subset" totalResults="4" f:filter="1.20019.20417" title="Ibestad"/>
+        <f:Query role="subset" totalResults="5" f:filter="1.20019.20430" title="Karlsøy"/>
+        <f:Query role="subset" totalResults="5" f:filter="1.20019.20414" title="Kvæfjord"/>
+        <f:Query role="subset" totalResults="1" f:filter="1.20019.20436" title="Kvænangen"/>
+        <f:Query role="subset" totalResults="3" f:filter="1.20019.20433" title="Kåfjord"/>
+        <f:Query role="subset" totalResults="2" f:filter="1.20019.20419" title="Lavangen"/>
+        <f:Query role="subset" totalResults="47" f:filter="1.20019.20428" title="Lenvik"/>
+        <f:Query role="subset" totalResults="3" f:filter="1.20019.20431" title="Lyngen"/>
+        <f:Query role="subset" totalResults="26" f:filter="1.20019.20422" title="Målselv"/>
+        <f:Query role="subset" totalResults="14" f:filter="1.20019.20435" title="Nordreisa"/>
+        <f:Query role="subset" totalResults="2" f:filter="1.20019.20421" title="Salangen"/>
+        <f:Query role="subset" totalResults="3" f:filter="1.20019.20434" title="Skjervøy"/>
+        <f:Query role="subset" totalResults="7" f:filter="1.20019.20415" title="Skånland"/>
+        <f:Query role="subset" totalResults="3" f:filter="1.20019.20432" title="Storfjord"/>
+        <f:Query role="subset" totalResults="14" f:filter="1.20019.20423" title="Sørreisa"/>
+        <f:Query role="subset" totalResults="4" f:filter="1.20019.20426" title="Torsken"/>
+        <f:Query role="subset" totalResults="7" f:filter="1.20019.20425" title="Tranøy"/>
+        <f:Query role="subset" totalResults="282" f:filter="1.20019.20413" title="Tromsø">
+          <f:filter name="location" title="Område" range="false">
+            <f:Query role="subset" totalResults="21" f:filter="2.20019.20413.20815" title="Kvaløya"/>
+            <f:Query role="subset" totalResults="84" f:filter="2.20019.20413.20814" title="Tromsdalen/Tomasjord/Kroken"/>
+            <f:Query role="subset" totalResults="43" f:filter="2.20019.20413.20817" title="Tromsøya, Midten"/>
+            <f:Query role="subset" totalResults="47" f:filter="2.20019.20413.20816" title="Tromsøya, Nord"/>
+            <f:Query role="subset" totalResults="83" f:filter="2.20019.20413.20818" title="Tromsøya, Sør"/>
+          </f:filter>
+        </f:Query>
+      </f:filter>
+    </f:Query>
+    <f:Query role="subset" totalResults="963" f:filter="0.20011" title="Vest-Agder">
+      <f:filter name="location" title="Område" range="false">
+        <f:Query role="subset" totalResults="3" f:filter="1.20011.20188" title="Audnedal"/>
+        <f:Query role="subset" totalResults="62" f:filter="1.20011.20181" title="Farsund"/>
+        <f:Query role="subset" totalResults="46" f:filter="1.20011.20182" title="Flekkefjord"/>
+        <f:Query role="subset" totalResults="3" f:filter="1.20011.20191" title="Hægebostad"/>
+        <f:Query role="subset" totalResults="481" f:filter="1.20011.20179" title="Kristiansand">
+          <f:filter name="location" title="Område" range="false">
+            <f:Query role="subset" totalResults="20" f:filter="2.20011.20179.20707" title="Kristiansand Nord"/>
+            <f:Query role="subset" totalResults="158" f:filter="2.20011.20179.20536" title="Kristiansand Sentrum"/>
+            <f:Query role="subset" totalResults="134" f:filter="2.20011.20179.20709" title="Kristiansand Vest"/>
+            <f:Query role="subset" totalResults="169" f:filter="2.20011.20179.20708" title="Kristiansand Øst"/>
+          </f:filter>
+        </f:Query>
+        <f:Query role="subset" totalResults="39" f:filter="1.20011.20192" title="Kvinesdal"/>
+        <f:Query role="subset" totalResults="29" f:filter="1.20011.20189" title="Lindesnes"/>
+        <f:Query role="subset" totalResults="40" f:filter="1.20011.20190" title="Lyngdal"/>
+        <f:Query role="subset" totalResults="67" f:filter="1.20011.20180" title="Mandal"/>
+        <f:Query role="subset" totalResults="5" f:filter="1.20011.20186" title="Marnardal"/>
+        <f:Query role="subset" totalResults="2" f:filter="1.20011.20193" title="Sirdal"/>
+        <f:Query role="subset" totalResults="25" f:filter="1.20011.20184" title="Songdalen"/>
+        <f:Query role="subset" totalResults="59" f:filter="1.20011.20185" title="Søgne"/>
+        <f:Query role="subset" totalResults="99" f:filter="1.20011.20183" title="Vennesla"/>
+        <f:Query role="subset" totalResults="3" f:filter="1.20011.20187" title="Åseral"/>
+      </f:filter>
+    </f:Query>
+    <f:Query role="subset" totalResults="1008" f:filter="0.20008" title="Vestfold">
+      <f:filter name="location" title="Område" range="false">
+        <f:Query role="subset" totalResults="25" f:filter="1.20008.20141" title="Andebu"/>
+        <f:Query role="subset" totalResults="18" f:filter="1.20008.20138" title="Hof"/>
+        <f:Query role="subset" totalResults="42" f:filter="1.20008.20132" title="Holmestrand"/>
+        <f:Query role="subset" totalResults="130" f:filter="1.20008.20131" title="Horten"/>
+        <f:Query role="subset" totalResults="7" f:filter="1.20008.20145" title="Lardal"/>
+        <f:Query role="subset" totalResults="185" f:filter="1.20008.20135" title="Larvik"/>
+        <f:Query role="subset" totalResults="92" f:filter="1.20008.20143" title="Nøtterøy"/>
+        <f:Query role="subset" totalResults="30" f:filter="1.20008.20139" title="Re"/>
+        <f:Query role="subset" totalResults="10" f:filter="1.20008.20137" title="Sande (Vestfold)"/>
+        <f:Query role="subset" totalResults="208" f:filter="1.20008.20134" title="Sandefjord"/>
+        <f:Query role="subset" totalResults="37" f:filter="1.20008.20142" title="Stokke"/>
+        <f:Query role="subset" totalResults="14" f:filter="1.20008.20136" title="Svelvik"/>
+        <f:Query role="subset" totalResults="20" f:filter="1.20008.20144" title="Tjøme"/>
+        <f:Query role="subset" totalResults="194" f:filter="1.20008.20133" title="Tønsberg"/>
+      </f:filter>
+    </f:Query>
+    <f:Query role="subset" totalResults="1009" f:filter="0.20002" title="Østfold">
+      <f:filter name="location" title="Område" range="false">
+        <f:Query role="subset" totalResults="3" f:filter="1.20002.20026" title="Aremark"/>
+        <f:Query role="subset" totalResults="25" f:filter="1.20002.20031" title="Askim"/>
+        <f:Query role="subset" totalResults="41" f:filter="1.20002.20032" title="Eidsberg"/>
+        <f:Query role="subset" totalResults="332" f:filter="1.20002.20024" title="Fredrikstad"/>
+        <f:Query role="subset" totalResults="83" f:filter="1.20002.20021" title="Halden"/>
+        <f:Query role="subset" totalResults="32" f:filter="1.20002.20038" title="Hobøl"/>
+        <f:Query role="subset" totalResults="30" f:filter="1.20002.20025" title="Hvaler"/>
+        <f:Query role="subset" totalResults="14" f:filter="1.20002.20027" title="Marker"/>
+        <f:Query role="subset" totalResults="174" f:filter="1.20002.20022" title="Moss"/>
+        <f:Query role="subset" totalResults="22" f:filter="1.20002.20034" title="Rakkestad"/>
+        <f:Query role="subset" totalResults="64" f:filter="1.20002.20036" title="Rygge"/>
+        <f:Query role="subset" totalResults="16" f:filter="1.20002.20035" title="Råde"/>
+        <f:Query role="subset" totalResults="7" f:filter="1.20002.20028" title="Rømskog"/>
+        <f:Query role="subset" totalResults="111" f:filter="1.20002.20023" title="Sarpsborg"/>
+        <f:Query role="subset" totalResults="4" f:filter="1.20002.20033" title="Skiptvet"/>
+        <f:Query role="subset" totalResults="13" f:filter="1.20002.20030" title="Spydeberg"/>
+        <f:Query role="subset" totalResults="15" f:filter="1.20002.20029" title="Trøgstad"/>
+        <f:Query role="subset" totalResults="23" f:filter="1.20002.20037" title="Våler (Østfold)"/>
+      </f:filter>
+    </f:Query>
+  </f:filter>
+  <f:filter name="school_catchment_area" title="Skolekretstilhørighet" range="false">
+    <f:Query role="subset" totalResults="1" f:filter="1" title="Abildsø"/>
+    <f:Query role="subset" totalResults="7" f:filter="2" title="Ammerud"/>
+    <f:Query role="subset" totalResults="3" f:filter="3" title="Bakås"/>
+    <f:Query role="subset" totalResults="10" f:filter="4" title="Bekkelaget"/>
+    <f:Query role="subset" totalResults="6" f:filter="5" title="Berg"/>
+    <f:Query role="subset" totalResults="8" f:filter="6" title="Bestum"/>
+    <f:Query role="subset" totalResults="33" f:filter="7" title="Bjølsen"/>
+    <f:Query role="subset" totalResults="7" f:filter="8" title="Bjørndal"/>
+    <f:Query role="subset" totalResults="20" f:filter="101" title="Bjørnsletta"/>
+    <f:Query role="subset" totalResults="5" f:filter="9" title="Bogstad"/>
+    <f:Query role="subset" totalResults="34" f:filter="10" title="Bolteløkka"/>
+    <f:Query role="subset" totalResults="10" f:filter="11" title="Bryn"/>
+    <f:Query role="subset" totalResults="7" f:filter="12" title="Bygdøy"/>
+    <f:Query role="subset" totalResults="6" f:filter="13" title="Bøler"/>
+    <f:Query role="subset" totalResults="8" f:filter="14" title="Disen"/>
+    <f:Query role="subset" totalResults="14" f:filter="15" title="Ekeberg"/>
+    <f:Query role="subset" totalResults="7" f:filter="16" title="Ellingsrudåsen"/>
+    <f:Query role="subset" totalResults="7" f:filter="17" title="Furuset"/>
+    <f:Query role="subset" totalResults="125" f:filter="18" title="Gamlebyen"/>
+    <f:Query role="subset" totalResults="6" f:filter="19" title="Godlia"/>
+    <f:Query role="subset" totalResults="5" f:filter="20" title="Gran"/>
+    <f:Query role="subset" totalResults="66" f:filter="21" title="Grefsen"/>
+    <f:Query role="subset" totalResults="23" f:filter="22" title="Grindbakken"/>
+    <f:Query role="subset" totalResults="4" f:filter="23" title="Grorud"/>
+    <f:Query role="subset" totalResults="144" f:filter="24" title="Grünerløkka"/>
+    <f:Query role="subset" totalResults="6" f:filter="25" title="Hallagerbakken"/>
+    <f:Query role="subset" totalResults="137" f:filter="26" title="Hasle"/>
+    <f:Query role="subset" totalResults="5" f:filter="27" title="Haugen"/>
+    <f:Query role="subset" totalResults="27" f:filter="28" title="Huseby"/>
+    <f:Query role="subset" totalResults="8" f:filter="29" title="Høybråten"/>
+    <f:Query role="subset" totalResults="9" f:filter="30" title="Høyenhall"/>
+    <f:Query role="subset" totalResults="36" f:filter="31" title="Ila"/>
+    <f:Query role="subset" totalResults="1" f:filter="32" title="Jeriko"/>
+    <f:Query role="subset" totalResults="29" f:filter="33" title="Kampen"/>
+    <f:Query role="subset" totalResults="10" f:filter="34" title="Karlsrud"/>
+    <f:Query role="subset" totalResults="13" f:filter="35" title="Kastellet"/>
+    <f:Query role="subset" totalResults="7" f:filter="36" title="Kjelsås"/>
+    <f:Query role="subset" totalResults="3" f:filter="37" title="Klemetsrud"/>
+    <f:Query role="subset" totalResults="6" f:filter="38" title="Korsvoll"/>
+    <f:Query role="subset" totalResults="5" f:filter="39" title="Kringsjå"/>
+    <f:Query role="subset" totalResults="43" f:filter="40" title="Lakkegata"/>
+    <f:Query role="subset" totalResults="19" f:filter="41" title="Lambertseter"/>
+    <f:Query role="subset" totalResults="40" f:filter="42" title="Lilleaker"/>
+    <f:Query role="subset" totalResults="9" f:filter="43" title="Lilleborg"/>
+    <f:Query role="subset" totalResults="2" f:filter="44" title="Lindeberg"/>
+    <f:Query role="subset" totalResults="7" f:filter="45" title="Linderud"/>
+    <f:Query role="subset" totalResults="7" f:filter="46" title="Ljan"/>
+    <f:Query role="subset" totalResults="10" f:filter="47" title="Lusetjern"/>
+    <f:Query role="subset" totalResults="4" f:filter="48" title="Lutvann"/>
+    <f:Query role="subset" totalResults="17" f:filter="49" title="Lysejordet"/>
+    <f:Query role="subset" totalResults="4" f:filter="50" title="Løren"/>
+    <f:Query role="subset" totalResults="61" f:filter="51" title="Majorstuen"/>
+    <f:Query role="subset" totalResults="7" f:filter="52" title="Manglerud"/>
+    <f:Query role="subset" totalResults="28" f:filter="54" title="Marienlyst"/>
+    <f:Query role="subset" totalResults="14" f:filter="55" title="Mortensrud"/>
+    <f:Query role="subset" totalResults="23" f:filter="56" title="Munkerud"/>
+    <f:Query role="subset" totalResults="44" f:filter="57" title="Møllergata"/>
+    <f:Query role="subset" totalResults="4" f:filter="58" title="Nedre-Bekkelaget"/>
+    <f:Query role="subset" totalResults="46" f:filter="59" title="Nordpolen"/>
+    <f:Query role="subset" totalResults="18" f:filter="60" title="Nordstrand"/>
+    <f:Query role="subset" totalResults="15" f:filter="61" title="Nordtvet"/>
+    <f:Query role="subset" totalResults="11" f:filter="62" title="Nøklevann"/>
+    <f:Query role="subset" totalResults="8" f:filter="63" title="Oppsal"/>
+    <f:Query role="subset" totalResults="13" f:filter="64" title="Prinsdal"/>
+    <f:Query role="subset" totalResults="4" f:filter="65" title="Rommen"/>
+    <f:Query role="subset" totalResults="3" f:filter="66" title="Rosenholm"/>
+    <f:Query role="subset" totalResults="100" f:filter="67" title="Ruseløkka"/>
+    <f:Query role="subset" totalResults="19" f:filter="68" title="Rustad"/>
+    <f:Query role="subset" totalResults="8" f:filter="69" title="Rødtvet"/>
+    <f:Query role="subset" totalResults="55" f:filter="70" title="Sagene"/>
+    <f:Query role="subset" totalResults="13" f:filter="71" title="Seterbråten"/>
+    <f:Query role="subset" totalResults="76" f:filter="72" title="Sinsen"/>
+    <f:Query role="subset" totalResults="5" f:filter="73" title="Skjønnhaug"/>
+    <f:Query role="subset" totalResults="44" f:filter="74" title="Skøyen"/>
+    <f:Query role="subset" totalResults="20" f:filter="75" title="Slemdal"/>
+    <f:Query role="subset" totalResults="23" f:filter="76" title="Smestad"/>
+    <f:Query role="subset" totalResults="38" f:filter="77" title="Stenbråten"/>
+    <f:Query role="subset" totalResults="6" f:filter="78" title="Stig"/>
+    <f:Query role="subset" totalResults="4" f:filter="79" title="Stovner"/>
+    <f:Query role="subset" totalResults="9" f:filter="80" title="Svarttjern"/>
+    <f:Query role="subset" totalResults="21" f:filter="81" title="Svendstuen"/>
+    <f:Query role="subset" totalResults="5" f:filter="83" title="Tiurleiken"/>
+    <f:Query role="subset" totalResults="11" f:filter="84" title="Tonsenhagen"/>
+    <f:Query role="subset" totalResults="8" f:filter="85" title="Toppåsen"/>
+    <f:Query role="subset" totalResults="68" f:filter="86" title="Trasop"/>
+    <f:Query role="subset" totalResults="11" f:filter="87" title="Trosterud"/>
+    <f:Query role="subset" totalResults="9" f:filter="88" title="Tveita"/>
+    <f:Query role="subset" totalResults="10" f:filter="90" title="Tåsen"/>
+    <f:Query role="subset" totalResults="29" f:filter="89" title="Tøyen"/>
+    <f:Query role="subset" totalResults="10" f:filter="91" title="Ullevål"/>
+    <f:Query role="subset" totalResults="52" f:filter="92" title="Uranienborg"/>
+    <f:Query role="subset" totalResults="22" f:filter="93" title="Vahl"/>
+    <f:Query role="subset" totalResults="8" f:filter="94" title="Veitvet"/>
+    <f:Query role="subset" totalResults="9" f:filter="95" title="Vestli"/>
+    <f:Query role="subset" totalResults="16" f:filter="96" title="Vinderen"/>
+    <f:Query role="subset" totalResults="19" f:filter="97" title="Voksen"/>
+    <f:Query role="subset" totalResults="50" f:filter="98" title="Vålerenga"/>
+    <f:Query role="subset" totalResults="11" f:filter="100" title="Årvoll"/>
+    <f:Query role="subset" totalResults="10" f:filter="102" title="Økern"/>
+    <f:Query role="subset" totalResults="10" f:filter="99" title="Østensjø"/>
+  </f:filter>
+  <f:filter name="energy_label" title="Energikarakter" range="false">
+    <f:Query role="subset" totalResults="223" f:filter="1" title="A"/>
+    <f:Query role="subset" totalResults="1162" f:filter="2" title="B"/>
+    <f:Query role="subset" totalResults="3840" f:filter="3" title="C"/>
+    <f:Query role="subset" totalResults="1713" f:filter="4" title="D"/>
+    <f:Query role="subset" totalResults="1375" f:filter="5" title="E"/>
+    <f:Query role="subset" totalResults="1690" f:filter="6" title="F"/>
+    <f:Query role="subset" totalResults="2540" f:filter="7" title="G"/>
+  </f:filter>
+  <f:filter name="ownership_type" title="Eierform" range="false">
+    <f:Query role="subset" totalResults="119" f:filter="2" title="Aksje"/>
+    <f:Query role="subset" totalResults="3467" f:filter="4" title="Andel"/>
+    <f:Query role="subset" totalResults="15" f:filter="255" title="Annet"/>
+    <f:Query role="subset" totalResults="16371" f:filter="3" title="Eier (Selveier)"/>
+    <f:Query role="subset" totalResults="3" f:filter="1" title="Obligasjon"/>
+  </f:filter>
+  <f:filter name="price" title="Prisantydning" range="true">
+    <f:Query f:to="1000000" role="subset" title="0-1000000" totalResults="1398" f:from="0"/>
+    <f:Query f:to="1500000" role="subset" title="1000001-1500000" totalResults="1615" f:from="1000001"/>
+    <f:Query f:to="2000000" role="subset" title="1500001-2000000" totalResults="2852" f:from="1500001"/>
+    <f:Query f:to="3000000" role="subset" title="2000001-3000000" totalResults="5878" f:from="2000001"/>
+    <f:Query f:to="4000000" role="subset" title="3000001-4000000" totalResults="3865" f:from="3000001"/>
+    <f:Query f:to="7000000" role="subset" title="4000001-7000000" totalResults="3596" f:from="4000001"/>
+    <f:Query role="subset" totalResults="728" f:from="7000001" title="7000001-"/>
+  </f:filter>
+  <f:filter name="area" title="Areal" range="true">
+    <f:Query f:to="40" role="subset" title="0-40" totalResults="625" f:from="0"/>
+    <f:Query f:to="50" role="subset" title="41-50" totalResults="992" f:from="41"/>
+    <f:Query f:to="60" role="subset" title="51-60" totalResults="1466" f:from="51"/>
+    <f:Query f:to="70" role="subset" title="61-70" totalResults="2176" f:from="61"/>
+    <f:Query f:to="80" role="subset" title="71-80" totalResults="2234" f:from="71"/>
+    <f:Query f:to="90" role="subset" title="81-90" totalResults="1715" f:from="81"/>
+    <f:Query f:to="150" role="subset" title="91-150" totalResults="6772" f:from="91"/>
+    <f:Query f:to="500" role="subset" title="151-500" totalResults="3741" f:from="151"/>
+    <f:Query role="subset" totalResults="47" f:from="501" title="501-"/>
+  </f:filter>
+  <f:filter name="plot_area" title="Tomtestørrelse" range="true">
+    <f:Query f:to="499" role="subset" title="1-499" totalResults="1672" f:from="1"/>
+    <f:Query f:to="999" role="subset" title="500-999" totalResults="3254" f:from="500"/>
+    <f:Query f:to="1999" role="subset" title="1000-1999" totalResults="2582" f:from="1000"/>
+    <f:Query f:to="4999" role="subset" title="2000-4999" totalResults="1761" f:from="2000"/>
+    <f:Query f:to="9999" role="subset" title="5000-9999" totalResults="859" f:from="5000"/>
+    <f:Query role="subset" totalResults="1347" f:from="10000" title="10000-"/>
+  </f:filter>
+  <f:filter name="viewing" title="Visningsdato" range="false">
+    <f:Query role="subset" totalResults="1193" f:filter="20140324" title="mandag 24. mars"/>
+    <f:Query role="subset" totalResults="1067" f:filter="20140325" title="tirsdag 25. mars"/>
+    <f:Query role="subset" totalResults="804" f:filter="20140326" title="onsdag 26. mars"/>
+    <f:Query role="subset" totalResults="766" f:filter="20140327" title="torsdag 27. mars"/>
+    <f:Query role="subset" totalResults="40" f:filter="20140328" title="fredag 28. mars"/>
+    <f:Query role="subset" totalResults="311" f:filter="20140329" title="lørdag 29. mars"/>
+    <f:Query role="subset" totalResults="1398" f:filter="20140330" title="søndag 30. mars"/>
+    <f:Query role="subset" totalResults="583" f:filter="20140331" title="mandag 31. mars"/>
+    <f:Query role="subset" totalResults="274" f:filter="20140401" title="tirsdag 01. april"/>
+    <f:Query role="subset" totalResults="122" f:filter="20140402" title="onsdag 02. april"/>
+    <f:Query role="subset" totalResults="78" f:filter="20140403" title="torsdag 03. april"/>
+    <f:Query role="subset" totalResults="5" f:filter="20140404" title="fredag 04. april"/>
+    <f:Query role="subset" totalResults="26" f:filter="20140405" title="lørdag 05. april"/>
+    <f:Query role="subset" totalResults="29" f:filter="20140406" title="søndag 06. april"/>
+    <f:Query role="subset" totalResults="19" f:filter="20140407" title="mandag 07. april"/>
+    <f:Query role="subset" totalResults="24" f:filter="20140408" title="tirsdag 08. april"/>
+    <f:Query role="subset" totalResults="41" f:filter="20140409" title="onsdag 09. april"/>
+    <f:Query role="subset" totalResults="3" f:filter="20140410" title="torsdag 10. april"/>
+    <f:Query role="subset" totalResults="1" f:filter="20140413" title="søndag 13. april"/>
+    <f:Query role="subset" totalResults="1" f:filter="20140415" title="tirsdag 15. april"/>
+    <f:Query role="subset" totalResults="2" f:filter="20140417" title="torsdag 17. april"/>
+  </f:filter>
+  <f:filter name="property_type" title="Boligtype" range="false">
+    <f:Query role="subset" totalResults="10800" f:filter="3" title="Leilighet"/>
+    <f:Query role="subset" totalResults="6303" f:filter="1" title="Enebolig"/>
+    <f:Query role="subset" totalResults="1282" f:filter="4" title="Rekkehus"/>
+    <f:Query role="subset" totalResults="1274" f:filter="2" title="Tomannsbolig"/>
+    <f:Query role="subset" totalResults="72" f:filter="11" title="Gårdsbruk/Småbruk"/>
+    <f:Query role="subset" totalResults="20" f:filter="13" title="Annet fritid"/>
+    <f:Query role="subset" totalResults="16" f:filter="6" title="Garasje/Parkering"/>
+    <f:Query role="subset" totalResults="9" f:filter="20" title="Bygård/Flermannsbolig"/>
+    <f:Query role="subset" totalResults="3" f:filter="24" title="Prosjekt"/>
+    <f:Query role="subset" totalResults="1" f:filter="5" title="Kontor"/>
+    <f:Query role="subset" totalResults="173" f:filter="18" title="Andre"/>
+  </f:filter>
+  <f:filter name="facilities" title="Fasiliteter" range="false">
+    <f:Query role="subset" totalResults="9764" f:filter="1" title="Balkong/Terrasse"/>
+    <f:Query role="subset" totalResults="9367" f:filter="23" title="Garasje/P-plass"/>
+    <f:Query role="subset" totalResults="4738" f:filter="4" title="Heis"/>
+    <f:Query role="subset" totalResults="1421" f:filter="5" title="Ingen gjenboere"/>
+    <f:Query role="subset" totalResults="5085" f:filter="2" title="Peis/Ildsted"/>
+    <f:Query role="subset" totalResults="1784" f:filter="17" title="Strandlinje"/>
+    <f:Query role="subset" totalResults="6842" f:filter="22" title="Turterreng"/>
+    <f:Query role="subset" totalResults="4144" f:filter="209" title="Utsikt"/>
+    <f:Query role="subset" totalResults="1456" f:filter="30" title="Vaktmester-/vektertjeneste"/>
+  </f:filter>
+  <f:filter name="no_of_bedrooms" title="Soverom" range="true">
+    <f:Query f:to="1" role="subset" title="1-1" totalResults="2328" f:from="1"/>
+    <f:Query f:to="2" role="subset" title="2-2" totalResults="5738" f:from="2"/>
+    <f:Query f:to="3" role="subset" title="3-3" totalResults="6051" f:from="3"/>
+    <f:Query f:to="4" role="subset" title="4-4" totalResults="2742" f:from="4"/>
+    <f:Query f:to="5" role="subset" title="5-5" totalResults="905" f:from="5"/>
+    <f:Query role="subset" totalResults="384" f:from="6" title="6-"/>
+  </f:filter>
+  <f:filter name="construction_year" title="Byggeår" range="true">
+    <f:Query f:to="1900" role="subset" title="0-1900" totalResults="611" f:from="0"/>
+    <f:Query f:to="1930" role="subset" title="1901-1930" totalResults="761" f:from="1901"/>
+    <f:Query f:to="1960" role="subset" title="1931-1960" totalResults="2324" f:from="1931"/>
+    <f:Query f:to="1990" role="subset" title="1961-1990" totalResults="3876" f:from="1961"/>
+    <f:Query f:to="2010" role="subset" title="1991-2010" totalResults="3057" f:from="1991"/>
+    <f:Query role="subset" totalResults="1742" f:from="2011" title="2011-"/>
+  </f:filter>
+  <f:filter name="floor_navigator" title="Etasje" range="false">
+    <f:Query role="subset" totalResults="5947" f:filter="NOTFIRST" title="Ikke 1. etasje"/>
+    <f:Query role="subset" totalResults="2037" f:filter="1" title="1. etasje"/>
+    <f:Query role="subset" totalResults="2588" f:filter="2" title="2. etasje"/>
+    <f:Query role="subset" totalResults="1457" f:filter="3" title="3. etasje"/>
+    <f:Query role="subset" totalResults="906" f:filter="4" title="4. etasje"/>
+    <f:Query role="subset" totalResults="453" f:filter="5" title="5. etasje"/>
+    <f:Query role="subset" totalResults="253" f:filter="6" title="6. etasje"/>
+    <f:Query role="subset" totalResults="290" f:filter="BIG" title="Over 6. etasje"/>
+  </f:filter>
+  <f:filter name="is_private_broker" title="Privat/Megler" range="false">
+    <f:Query role="subset" totalResults="19510" f:filter="0" title="Megler"/>
+    <f:Query role="subset" totalResults="467" f:filter="1" title="Privat"/>
+  </f:filter>
+  <f:sort template="https://cache.api.finn.no/iad/search/realestate-homes?sort={f:sort?}&amp;lat={geo:lat?}&amp;lon={geo:lon?}">
+    <os:Query role="f:sort" f:sort="0" title="Mest relevant"/>
+    <os:Query role="f:sort" f:sort="1" title="Publisert" f:selected="true"/>
+    <os:Query role="f:sort" f:sort="2" title="Prisant lav-høy"/>
+    <os:Query role="f:sort" f:sort="3" title="Prisant høy-lav"/>
+    <os:Query role="f:sort" f:sort="4" title="P-ROM Areal lav-høy"/>
+    <os:Query role="f:sort" f:sort="5" title="P-ROM Areal høy-lav"/>
+    <os:Query role="f:sort" f:sort="99" title="Nærmest"/>
+    <os:Query role="f:sort" f:sort="6" title="Tot pris lav-høy"/>
+    <os:Query role="f:sort" f:sort="7" title="Tot pris høy-lav"/>
+    <os:Query role="f:sort" f:sort="8" title="Kvmeterpris lav-høy"/>
+    <os:Query role="f:sort" f:sort="9" title="Kvmeterpris høy-lav"/>
+  </f:sort>
+  <os:totalResults>19977</os:totalResults>
+  <entry>
+    <id>urn:id:47420291</id>
+    <title>Sjarmerende enebolig med stor tomt Noresund</title>
+    <updated>2014-03-24T21:16:00.000Z</updated>
+    <published>2014-03-24T21:16:00.000Z</published>
+    <dc:identifier>47420291</dc:identifier>
+    <category scheme="urn:finn:ad:private" term="true"/>
+    <category scheme="urn:finn:ad:disposed" label="Solgt" term="false"/>
+    <category scheme="urn:finn:ad:type" label="Bolig til salgs" term="realestate-homes"/>
+    <link href="https://cache.api.finn.no/iad/ad/realestate-homes/47420291" rel="self"/>
+    <link href="http://www.finn.no/47420291" rel="alternate" type="text/html"/>
+    <georss:point finn:accuracy="9">60.16595 9.61547</georss:point>
+    <finn:location>
+      <finn:postal-code>3536</finn:postal-code>
+      <finn:city>Noresund</finn:city>
+    </finn:location>
+    <media:content height="1067" medium="image" width="1600" url="http://finncdn.no/mmo/2014/3/vertical-2/24/1/474/202/91_2077568095.jpg" type="image/jpeg"/>
+    <author>
+      <name>Privat</name>
+    </author>
+    <finn:adata model="https://cache.api.finn.no/iad/ad/model/realestate-homes">
+      <finn:field name="no_of_bedrooms" value="1"/>
+      <finn:field name="property_type">
+        <finn:value>Enebolig</finn:value>
+      </finn:field>
+      <finn:field name="ownership_type" value="Eier (Selveier)"/>
+      <finn:field name="size">
+        <finn:field name="usable" value="37"/>
+        <finn:field name="primary" value="37"/>
+      </finn:field>
+      <finn:price name="main" value="790000">
+        <finn:field name="changed" value="false"/>
+      </finn:price>
+      <finn:price name="total" value="790000"/>
+      <finn:price name="estimated_value" value="790000"/>
+      <finn:price name="square_meter" value="21351"/>
+    </finn:adata>
+  </entry>
+  <entry>
+    <id>urn:id:47420480</id>
+    <title>Grønland - Lys og gjennomgående 2-roms leilighet med god planløsning, brannbalkong og nyere bad. V.v/fyring inkl</title>
+    <updated>2014-03-24T21:16:00.000Z</updated>
+    <published>2014-03-24T21:16:00.000Z</published>
+    <dc:identifier>47420480</dc:identifier>
+    <category scheme="urn:finn:ad:private" term="false"/>
+    <category scheme="urn:finn:ad:disposed" label="Solgt" term="false"/>
+    <category scheme="urn:finn:ad:type" label="Bolig til salgs" term="realestate-homes"/>
+    <link href="https://cache.api.finn.no/iad/ad/realestate-homes/47420480" rel="self"/>
+    <link href="http://www.finn.no/47420480" rel="alternate" type="text/html"/>
+    <georss:point finn:accuracy="9">59.91071 10.76728</georss:point>
+    <finn:location>
+      <finn:address>Grønlandsleiret 47 A</finn:address>
+      <finn:postal-code>0190</finn:postal-code>
+      <finn:city-district>Gamle Oslo</finn:city-district>
+      <finn:city>Oslo</finn:city>
+    </finn:location>
+    <media:content height="600" medium="image" width="900" url="http://finncdn.no/mmo/2014/3/vertical-2/24/0/474/204/80_1360276415.jpg" type="image/jpeg"/>
+    <author>
+      <name>Krogsveen avd. Gamle Oslo</name>
+    </author>
+    <finn:adata model="https://cache.api.finn.no/iad/ad/model/realestate-homes">
+      <finn:field name="no_of_bedrooms" value="1"/>
+      <finn:field name="property_type">
+        <finn:value>Leilighet</finn:value>
+      </finn:field>
+      <finn:field name="ownership_type" value="Andel"/>
+      <finn:field name="size">
+        <finn:field name="usable" value="46"/>
+        <finn:field name="primary" value="46"/>
+      </finn:field>
+      <finn:price name="main" value="1950000">
+        <finn:field name="changed" value="false"/>
+      </finn:price>
+      <finn:price name="total" value="2124455"/>
+      <finn:price name="collective_debt" value="174455"/>
+      <finn:price name="shared_cost" value="3254.0"/>
+      <finn:price name="estimated_value" value="1950000"/>
+      <finn:price name="square_meter" value="45503"/>
+    </finn:adata>
+  </entry>
+  <entry>
+    <id>urn:id:42870892</id>
+    <title>Tønsberg/Bogen/Husvik - Unik eiendom i vannkanten med panorama, 25 m strandlinje, anneks og egen brygge.</title>
+    <updated>2014-03-24T21:15:00.000Z</updated>
+    <published>2014-03-24T21:15:00.000Z</published>
+    <dc:identifier>42870892</dc:identifier>
+    <category scheme="urn:finn:ad:private" term="false"/>
+    <category scheme="urn:finn:ad:disposed" label="Solgt" term="false"/>
+    <category scheme="urn:finn:ad:type" label="Bolig til salgs" term="realestate-homes"/>
+    <link href="https://cache.api.finn.no/iad/ad/realestate-homes/42870892" rel="self"/>
+    <link href="http://www.finn.no/42870892" rel="alternate" type="text/html"/>
+    <georss:point finn:accuracy="9">59.2629 10.4828</georss:point>
+    <finn:location>
+      <finn:address>Nedre Bogenvei 14</finn:address>
+      <finn:postal-code>3150</finn:postal-code>
+      <finn:city>Tolvsrød</finn:city>
+    </finn:location>
+    <media:content height="652" medium="image" width="1200" url="http://finncdn.no/mmo/2014/3/vertical-2/24/2/428/708/92_2000627248.jpg" type="image/jpeg"/>
+    <author>
+      <name>PRIVATmegleren Wilhelmsen &amp; Partnere AS</name>
+    </author>
+    <finn:adata model="https://cache.api.finn.no/iad/ad/model/realestate-homes">
+      <finn:field name="no_of_bedrooms" value="6"/>
+      <finn:field name="property_type">
+        <finn:value>Enebolig</finn:value>
+      </finn:field>
+      <finn:field name="ownership_type" value="Eier (Selveier)"/>
+      <finn:field name="size">
+        <finn:field name="usable" value="294"/>
+        <finn:field name="primary" value="277"/>
+      </finn:field>
+      <finn:price name="main" value="10900000">
+        <finn:field name="changed" value="true"/>
+      </finn:price>
+      <finn:price name="total" value="10900000"/>
+      <finn:price name="estimated_value" value="10900000"/>
+      <finn:price name="square_meter" value="39350"/>
+    </finn:adata>
+  </entry>
+  <entry>
+    <id>urn:id:47423475</id>
+    <title>Åbol - Moderne halvpart av vertikaldelt tomannsbolig - 3 Soverom - Solrikt - Barnevennlig</title>
+    <updated>2014-03-24T21:08:00.000Z</updated>
+    <published>2014-03-24T21:08:00.000Z</published>
+    <dc:identifier>47423475</dc:identifier>
+    <category scheme="urn:finn:ad:private" term="false"/>
+    <category scheme="urn:finn:ad:disposed" label="Solgt" term="false"/>
+    <category scheme="urn:finn:ad:type" label="Bolig til salgs" term="realestate-homes"/>
+    <link href="https://cache.api.finn.no/iad/ad/realestate-homes/47423475" rel="self"/>
+    <link href="http://www.finn.no/47423475" rel="alternate" type="text/html"/>
+    <georss:point finn:accuracy="9">59.15612 10.22125</georss:point>
+    <finn:location>
+      <finn:address>Lingelemveien 64 B</finn:address>
+      <finn:postal-code>3225</finn:postal-code>
+      <finn:city>Sandefjord</finn:city>
+    </finn:location>
+    <media:content height="1120" medium="image" width="1600" url="http://finncdn.no/mmo/2014/3/vertical-2/24/5/474/234/75_960628649.jpg" type="image/jpeg"/>
+    <author>
+      <name>Krogsveen avd. Sandefjord</name>
+    </author>
+    <finn:adata model="https://cache.api.finn.no/iad/ad/model/realestate-homes">
+      <finn:field name="no_of_bedrooms" value="3"/>
+      <finn:field name="property_type">
+        <finn:value>Tomannsbolig</finn:value>
+      </finn:field>
+      <finn:field name="ownership_type" value="Eier (Selveier)"/>
+      <finn:field name="size">
+        <finn:field name="usable" value="90"/>
+        <finn:field name="primary" value="87"/>
+      </finn:field>
+      <finn:price name="main" value="1990000">
+        <finn:field name="changed" value="false"/>
+      </finn:price>
+      <finn:price name="total" value="1990000"/>
+      <finn:price name="estimated_value" value="1990000"/>
+      <finn:price name="square_meter" value="22873"/>
+    </finn:adata>
+  </entry>
+  <entry>
+    <id>urn:id:47422744</id>
+    <title>Kulsås - Lekker 3-roms hjørneleilighet i terrassehus. Toppetasje. Garasjeplass. Heis. Helårs turterreng.</title>
+    <updated>2014-03-24T20:52:00.000Z</updated>
+    <published>2014-03-24T20:52:00.000Z</published>
+    <dc:identifier>47422744</dc:identifier>
+    <category scheme="urn:finn:ad:private" term="false"/>
+    <category scheme="urn:finn:ad:disposed" label="Solgt" term="false"/>
+    <category scheme="urn:finn:ad:type" label="Bolig til salgs" term="realestate-homes"/>
+    <link href="https://cache.api.finn.no/iad/ad/realestate-homes/47422744" rel="self"/>
+    <link href="http://www.finn.no/47422744" rel="alternate" type="text/html"/>
+    <georss:point finn:accuracy="9">63.37588 10.32804</georss:point>
+    <finn:location>
+      <finn:address>Brattreinflata 2 U</finn:address>
+      <finn:postal-code>7026</finn:postal-code>
+      <finn:city>Trondheim</finn:city>
+    </finn:location>
+    <media:content height="854" medium="image" width="1280" url="http://finncdn.no/mmo/2014/3/vertical-2/24/4/474/227/44_1200145408.jpg" type="image/jpeg"/>
+    <author>
+      <name>Heimdal Eiendomsmegling AS avd Heimdal</name>
+    </author>
+    <finn:adata model="https://cache.api.finn.no/iad/ad/model/realestate-homes">
+      <finn:field name="no_of_bedrooms" value="2"/>
+      <finn:field name="property_type">
+        <finn:value>Leilighet</finn:value>
+      </finn:field>
+      <finn:field name="ownership_type" value="Eier (Selveier)"/>
+      <finn:field name="size">
+        <finn:field name="usable" value="85"/>
+        <finn:field name="primary" value="85"/>
+      </finn:field>
+      <finn:price name="main" value="3950000">
+        <finn:field name="changed" value="false"/>
+      </finn:price>
+      <finn:price name="total" value="3960273"/>
+      <finn:price name="collective_debt" value="10273"/>
+      <finn:price name="shared_cost" value="1832.0"/>
+      <finn:price name="estimated_value" value="3950000"/>
+      <finn:price name="square_meter" value="46430"/>
+    </finn:adata>
+  </entry>
+  <entry>
+    <id>urn:id:47423144</id>
+    <title>Gjøvik - Redalen - Lekker nyoppusset enebolig i Redalen - høy standard!</title>
+    <updated>2014-03-24T20:53:00.000Z</updated>
+    <published>2014-03-24T20:51:00.000Z</published>
+    <dc:identifier>47423144</dc:identifier>
+    <category scheme="urn:finn:ad:private" term="false"/>
+    <category scheme="urn:finn:ad:disposed" label="Solgt" term="false"/>
+    <category scheme="urn:finn:ad:type" label="Bolig til salgs" term="realestate-homes"/>
+    <link href="https://cache.api.finn.no/iad/ad/realestate-homes/47423144" rel="self"/>
+    <link href="http://www.finn.no/47423144" rel="alternate" type="text/html"/>
+    <georss:point finn:accuracy="9">60.89081 10.63985</georss:point>
+    <finn:location>
+      <finn:address>Klundbyvegen 7</finn:address>
+      <finn:postal-code>2836</finn:postal-code>
+      <finn:city>Biri</finn:city>
+    </finn:location>
+    <media:content height="1600" medium="image" width="1065" url="http://finncdn.no/mmo/2014/3/vertical-2/24/4/474/231/44_1366518384.jpg" type="image/jpeg"/>
+    <author>
+      <name>DNB Eiendom Residens</name>
+    </author>
+    <finn:adata model="https://cache.api.finn.no/iad/ad/model/realestate-homes">
+      <finn:field name="no_of_bedrooms" value="4"/>
+      <finn:field name="property_type">
+        <finn:value>Enebolig</finn:value>
+      </finn:field>
+      <finn:field name="ownership_type" value="Eier (Selveier)"/>
+      <finn:field name="size">
+        <finn:field name="usable" value="408"/>
+        <finn:field name="primary" value="284"/>
+      </finn:field>
+      <finn:price name="main" value="3500000">
+        <finn:field name="changed" value="false"/>
+      </finn:price>
+      <finn:price name="total" value="3500000"/>
+      <finn:price name="estimated_value" value="3500000"/>
+      <finn:price name="square_meter" value="12323"/>
+    </finn:adata>
+  </entry>
+  <entry>
+    <id>urn:id:47415624</id>
+    <title>Grünerløkka - Lys, moderne og attraktiv 2-roms med balkong - Klassiske detaljer - Sentralt på &amp;quot; Løkka&amp;quot; -  Må sees!</title>
+    <updated>2014-03-24T20:58:00.000Z</updated>
+    <published>2014-03-24T20:41:00.000Z</published>
+    <dc:identifier>47415624</dc:identifier>
+    <category scheme="urn:finn:ad:private" term="false"/>
+    <category scheme="urn:finn:ad:disposed" label="Solgt" term="false"/>
+    <category scheme="urn:finn:ad:type" label="Bolig til salgs" term="realestate-homes"/>
+    <link href="https://cache.api.finn.no/iad/ad/realestate-homes/47415624" rel="self"/>
+    <link href="http://www.finn.no/47415624" rel="alternate" type="text/html"/>
+    <georss:point finn:accuracy="8">59.92761 10.76314</georss:point>
+    <finn:location>
+      <finn:address>Falsens gate 25 B</finn:address>
+      <finn:postal-code>0556</finn:postal-code>
+      <finn:city-district>Grünerløkka - Sofienberg</finn:city-district>
+      <finn:city>Oslo</finn:city>
+    </finn:location>
+    <media:content height="1067" medium="image" width="1600" url="http://finncdn.no/mmo/2014/3/vertical-2/24/4/474/156/24_913020668.jpg" type="image/jpeg"/>
+    <author>
+      <name>Krogsveen avd. Torshov</name>
+    </author>
+    <finn:adata model="https://cache.api.finn.no/iad/ad/model/realestate-homes">
+      <finn:field name="no_of_bedrooms" value="1"/>
+      <finn:field name="property_type">
+        <finn:value>Leilighet</finn:value>
+      </finn:field>
+      <finn:field name="ownership_type" value="Andel"/>
+      <finn:field name="size">
+        <finn:field name="usable" value="52"/>
+        <finn:field name="primary" value="52"/>
+      </finn:field>
+      <finn:price name="main" value="2500000">
+        <finn:field name="changed" value="false"/>
+      </finn:price>
+      <finn:price name="total" value="2717206"/>
+      <finn:price name="collective_debt" value="217206"/>
+      <finn:price name="shared_cost" value="3821.0"/>
+      <finn:price name="estimated_value" value="2500000"/>
+      <finn:price name="square_meter" value="51821"/>
+    </finn:adata>
+  </entry>
+  <entry>
+    <id>urn:id:47422892</id>
+    <title>SINSEN: TILTALENDE 2-ROMS MED DELIKAT NYERE BAD FRA 2012 - PENT KJØKKEN - V.V OG FYRING INKL. - ROLIG</title>
+    <updated>2014-03-24T21:16:00.000Z</updated>
+    <published>2014-03-24T20:40:00.000Z</published>
+    <dc:identifier>47422892</dc:identifier>
+    <category scheme="urn:finn:ad:private" term="false"/>
+    <category scheme="urn:finn:ad:disposed" label="Solgt" term="false"/>
+    <category scheme="urn:finn:ad:type" label="Bolig til salgs" term="realestate-homes"/>
+    <link href="https://cache.api.finn.no/iad/ad/realestate-homes/47422892" rel="self"/>
+    <link href="http://www.finn.no/47422892" rel="alternate" type="text/html"/>
+    <georss:point finn:accuracy="9">59.93267 10.78146</georss:point>
+    <finn:location>
+      <finn:address>Bjørn Stallares vei 23</finn:address>
+      <finn:postal-code>0574</finn:postal-code>
+      <finn:city-district>Helsfyr - Sinsen</finn:city-district>
+      <finn:city>Oslo</finn:city>
+    </finn:location>
+    <media:content height="800" medium="image" width="1200" url="http://finncdn.no/mmo/2014/3/vertical-2/24/2/474/228/92_859776935.jpg" type="image/jpeg"/>
+    <author>
+      <name>Aktiv Carl Berner</name>
+    </author>
+    <finn:adata model="https://cache.api.finn.no/iad/ad/model/realestate-homes">
+      <finn:field name="no_of_bedrooms" value="1"/>
+      <finn:field name="property_type">
+        <finn:value>Leilighet</finn:value>
+      </finn:field>
+      <finn:field name="ownership_type" value="Andel"/>
+      <finn:field name="size">
+        <finn:field name="usable" value="53"/>
+        <finn:field name="primary" value="53"/>
+      </finn:field>
+      <finn:price name="main" value="1900000">
+        <finn:field name="changed" value="false"/>
+      </finn:price>
+      <finn:price name="total" value="2062641"/>
+      <finn:price name="collective_debt" value="162641"/>
+      <finn:price name="shared_cost" value="3491.0"/>
+      <finn:price name="estimated_value" value="1900000"/>
+      <finn:price name="square_meter" value="38917"/>
+    </finn:adata>
+  </entry>
+  <entry>
+    <id>urn:id:47422763</id>
+    <title>Majorstuen - Lekker og lys 4-roms hjørneleilighet med peis, 2 stuer, moderne standard og &amp;quot; sjel&amp;quot; i rolig gate.</title>
+    <updated>2014-03-24T20:43:00.000Z</updated>
+    <published>2014-03-24T20:34:00.000Z</published>
+    <dc:identifier>47422763</dc:identifier>
+    <category scheme="urn:finn:ad:private" term="false"/>
+    <category scheme="urn:finn:ad:disposed" label="Solgt" term="false"/>
+    <category scheme="urn:finn:ad:type" label="Bolig til salgs" term="realestate-homes"/>
+    <link href="https://cache.api.finn.no/iad/ad/realestate-homes/47422763" rel="self"/>
+    <link href="http://www.finn.no/47422763" rel="alternate" type="text/html"/>
+    <georss:point finn:accuracy="9">59.92737 10.72541</georss:point>
+    <finn:location>
+      <finn:address>Vibes gate 21 A</finn:address>
+      <finn:postal-code>0356</finn:postal-code>
+      <finn:city-district>Uranienborg - Majorstuen</finn:city-district>
+      <finn:city>Oslo</finn:city>
+    </finn:location>
+    <media:content height="800" medium="image" width="1200" url="http://finncdn.no/mmo/2014/3/vertical-2/24/3/474/227/63_366019019.jpg" type="image/jpeg"/>
+    <author>
+      <name>Adv. Sem og Johnsen Eiendomsmegling, Vika</name>
+    </author>
+    <finn:adata model="https://cache.api.finn.no/iad/ad/model/realestate-homes">
+      <finn:field name="no_of_bedrooms" value="2"/>
+      <finn:field name="property_type">
+        <finn:value>Leilighet</finn:value>
+      </finn:field>
+      <finn:field name="ownership_type" value="Eier (Selveier)"/>
+      <finn:field name="size">
+        <finn:field name="usable" value="105"/>
+        <finn:field name="primary" value="105"/>
+      </finn:field>
+      <finn:price name="main" value="5200000">
+        <finn:field name="changed" value="false"/>
+      </finn:price>
+      <finn:price name="total" value="5272136"/>
+      <finn:price name="collective_debt" value="72136"/>
+      <finn:price name="shared_cost" value="3571.0"/>
+      <finn:price name="estimated_value" value="5200000"/>
+      <finn:price name="square_meter" value="50128"/>
+    </finn:adata>
+  </entry>
+  <entry>
+    <id>urn:id:47422746</id>
+    <title>Lekker 3-roms selveier med heis, peis og balkong. Flott utsyn. Meget sentralt og rolig.</title>
+    <updated>2014-03-24T20:43:00.000Z</updated>
+    <published>2014-03-24T20:33:00.000Z</published>
+    <dc:identifier>47422746</dc:identifier>
+    <category scheme="urn:finn:ad:private" term="false"/>
+    <category scheme="urn:finn:ad:disposed" label="Solgt" term="false"/>
+    <category scheme="urn:finn:ad:type" label="Bolig til salgs" term="realestate-homes"/>
+    <link href="https://cache.api.finn.no/iad/ad/realestate-homes/47422746" rel="self"/>
+    <link href="http://www.finn.no/47422746" rel="alternate" type="text/html"/>
+    <georss:point finn:accuracy="5">59.9265 10.71601</georss:point>
+    <finn:location>
+      <finn:address>Majorstueveien 17 B</finn:address>
+      <finn:postal-code>0367</finn:postal-code>
+      <finn:city-district>Uranienborg - Majorstuen</finn:city-district>
+      <finn:city>Oslo</finn:city>
+    </finn:location>
+    <media:content height="800" medium="image" width="1200" url="http://finncdn.no/mmo/2014/3/vertical-2/24/6/474/227/46_2142899323.jpg" type="image/jpeg"/>
+    <author>
+      <name>Adv. Sem &amp; Johnsen Eiendomsmegling, Frogner</name>
+    </author>
+    <finn:adata model="https://cache.api.finn.no/iad/ad/model/realestate-homes">
+      <finn:field name="no_of_bedrooms" value="2"/>
+      <finn:field name="property_type">
+        <finn:value>Leilighet</finn:value>
+      </finn:field>
+      <finn:field name="ownership_type" value="Eier (Selveier)"/>
+      <finn:field name="size">
+        <finn:field name="usable" value="71"/>
+        <finn:field name="primary" value="71"/>
+      </finn:field>
+      <finn:price name="main" value="4690000">
+        <finn:field name="changed" value="false"/>
+      </finn:price>
+      <finn:price name="total" value="4690000"/>
+      <finn:price name="shared_cost" value="3494.0"/>
+      <finn:price name="estimated_value" value="4690000"/>
+      <finn:price name="square_meter" value="65517"/>
+    </finn:adata>
+  </entry>
+  <entry>
+    <id>urn:id:45327999</id>
+    <title>YSTENESET - Stor 3-roms leilighet med praktfull utsikt, balkong, heis og garasje. Fjernvarme.</title>
+    <updated>2014-03-24T19:32:00.000Z</updated>
+    <published>2014-03-24T19:32:00.000Z</published>
+    <dc:identifier>45327999</dc:identifier>
+    <category scheme="urn:finn:ad:private" term="false"/>
+    <category scheme="urn:finn:ad:disposed" label="Solgt" term="false"/>
+    <category scheme="urn:finn:ad:type" label="Bolig til salgs" term="realestate-homes"/>
+    <link href="https://cache.api.finn.no/iad/ad/realestate-homes/45327999" rel="self"/>
+    <link href="http://www.finn.no/45327999" rel="alternate" type="text/html"/>
+    <georss:point finn:accuracy="9">62.47103 6.17961</georss:point>
+    <finn:location>
+      <finn:address>Ystenesgata 39</finn:address>
+      <finn:postal-code>6007</finn:postal-code>
+      <finn:city>Ålesund</finn:city>
+    </finn:location>
+    <media:content height="800" medium="image" width="1200" url="http://finncdn.no/mmo/2014/1/vertical-2/14/9/453/279/99_454166458.jpg" type="image/jpeg"/>
+    <author>
+      <name>Notar Ålesund</name>
+    </author>
+    <finn:adata model="https://cache.api.finn.no/iad/ad/model/realestate-homes">
+      <finn:field name="no_of_bedrooms" value="2"/>
+      <finn:field name="property_type">
+        <finn:value>Leilighet</finn:value>
+      </finn:field>
+      <finn:field name="ownership_type" value="Eier (Selveier)"/>
+      <finn:field name="size">
+        <finn:field name="usable" value="100"/>
+        <finn:field name="primary" value="97"/>
+      </finn:field>
+      <finn:price name="main" value="3400000">
+        <finn:field name="changed" value="true"/>
+      </finn:price>
+      <finn:price name="total" value="3400000"/>
+      <finn:price name="shared_cost" value="2540.0"/>
+      <finn:price name="estimated_value" value="3400000"/>
+      <finn:price name="square_meter" value="35051"/>
+    </finn:adata>
+  </entry>
+  <entry>
+    <id>urn:id:47422484</id>
+    <title>Meget pen og velholdt enebolig i naturskjønne omgivelser nær Hamar</title>
+    <updated>2014-03-24T20:27:00.000Z</updated>
+    <published>2014-03-24T20:22:00.000Z</published>
+    <dc:identifier>47422484</dc:identifier>
+    <category scheme="urn:finn:ad:private" term="false"/>
+    <category scheme="urn:finn:ad:disposed" label="Solgt" term="false"/>
+    <category scheme="urn:finn:ad:type" label="Bolig til salgs" term="realestate-homes"/>
+    <link href="https://cache.api.finn.no/iad/ad/realestate-homes/47422484" rel="self"/>
+    <link href="http://www.finn.no/47422484" rel="alternate" type="text/html"/>
+    <georss:point finn:accuracy="9">60.79749 11.21804</georss:point>
+    <finn:location>
+      <finn:address>Kongsvegen 459</finn:address>
+      <finn:postal-code>2322</finn:postal-code>
+      <finn:city>Ridabu</finn:city>
+    </finn:location>
+    <media:content height="1067" medium="image" width="1600" url="http://finncdn.no/mmo/2014/3/vertical-2/24/4/474/224/84_345127308.jpg" type="image/jpeg"/>
+    <author>
+      <name>EiendomsMegler 1 - Stange</name>
+    </author>
+    <finn:adata model="https://cache.api.finn.no/iad/ad/model/realestate-homes">
+      <finn:field name="no_of_bedrooms" value="4"/>
+      <finn:field name="property_type">
+        <finn:value>Enebolig</finn:value>
+      </finn:field>
+      <finn:field name="ownership_type" value="Eier (Selveier)"/>
+      <finn:field name="size">
+        <finn:field name="usable" value="186"/>
+        <finn:field name="primary" value="153"/>
+      </finn:field>
+      <finn:price name="main" value="2850000">
+        <finn:field name="changed" value="false"/>
+      </finn:price>
+      <finn:price name="total" value="2850000"/>
+      <finn:price name="estimated_value" value="2850000"/>
+      <finn:price name="square_meter" value="18627"/>
+    </finn:adata>
+  </entry>
+  <entry>
+    <id>urn:id:47422495</id>
+    <title>ST.HANSHAUGEN: Lys og pent oppusset 3-roms leil. - Peisovn - Prisbelønt bakgård  - Ingen forkjøpsrett - Lave omkostn.</title>
+    <updated>2014-03-24T20:43:00.000Z</updated>
+    <published>2014-03-24T20:22:00.000Z</published>
+    <dc:identifier>47422495</dc:identifier>
+    <category scheme="urn:finn:ad:private" term="false"/>
+    <category scheme="urn:finn:ad:disposed" label="Solgt" term="false"/>
+    <category scheme="urn:finn:ad:type" label="Bolig til salgs" term="realestate-homes"/>
+    <link href="https://cache.api.finn.no/iad/ad/realestate-homes/47422495" rel="self"/>
+    <link href="http://www.finn.no/47422495" rel="alternate" type="text/html"/>
+    <georss:point finn:accuracy="9">59.93149 10.74818</georss:point>
+    <finn:location>
+      <finn:address>Colletts gate 60 C</finn:address>
+      <finn:postal-code>0456</finn:postal-code>
+      <finn:city-district>St.Hanshaugen - Ullevål</finn:city-district>
+      <finn:city>Oslo</finn:city>
+    </finn:location>
+    <media:content height="800" medium="image" width="1200" url="http://finncdn.no/mmo/2014/3/vertical-2/24/5/474/224/95_853422215.jpg" type="image/jpeg"/>
+    <author>
+      <name>Aktiv St. Hanshaugen</name>
+    </author>
+    <finn:adata model="https://cache.api.finn.no/iad/ad/model/realestate-homes">
+      <finn:field name="no_of_bedrooms" value="2"/>
+      <finn:field name="property_type">
+        <finn:value>Leilighet</finn:value>
+      </finn:field>
+      <finn:field name="ownership_type" value="Andel"/>
+      <finn:field name="size">
+        <finn:field name="usable" value="70"/>
+        <finn:field name="primary" value="70"/>
+      </finn:field>
+      <finn:price name="main" value="3390000">
+        <finn:field name="changed" value="false"/>
+      </finn:price>
+      <finn:price name="total" value="3520000"/>
+      <finn:price name="collective_debt" value="130000"/>
+      <finn:price name="shared_cost" value="2986.0"/>
+      <finn:price name="estimated_value" value="3390000"/>
+      <finn:price name="square_meter" value="50129"/>
+    </finn:adata>
+  </entry>
+  <entry>
+    <id>urn:id:47413907</id>
+    <title>Moi- Fin, moderne leilighet med garasje</title>
+    <updated>2014-03-24T20:20:00.000Z</updated>
+    <published>2014-03-24T20:20:00.000Z</published>
+    <dc:identifier>47413907</dc:identifier>
+    <category scheme="urn:finn:ad:private" term="true"/>
+    <category scheme="urn:finn:ad:disposed" label="Solgt" term="false"/>
+    <category scheme="urn:finn:ad:type" label="Bolig til salgs" term="realestate-homes"/>
+    <link href="https://cache.api.finn.no/iad/ad/realestate-homes/47413907" rel="self"/>
+    <link href="http://www.finn.no/47413907" rel="alternate" type="text/html"/>
+    <georss:point finn:accuracy="9">58.462 6.55015</georss:point>
+    <finn:location>
+      <finn:address>Dyrhammeren 2D</finn:address>
+      <finn:postal-code>4460</finn:postal-code>
+      <finn:city>Moi</finn:city>
+    </finn:location>
+    <media:content height="1067" medium="image" width="1600" url="http://finncdn.no/mmo/2014/3/vertical-2/24/7/474/139/07_1112128518.jpg" type="image/jpeg"/>
+    <author>
+      <name>Privat</name>
+    </author>
+    <finn:adata model="https://cache.api.finn.no/iad/ad/model/realestate-homes">
+      <finn:field name="no_of_bedrooms" value="1"/>
+      <finn:field name="property_type">
+        <finn:value>Leilighet</finn:value>
+      </finn:field>
+      <finn:field name="ownership_type" value="Eier (Selveier)"/>
+      <finn:field name="size">
+        <finn:field name="usable" value="57"/>
+        <finn:field name="primary" value="51"/>
+      </finn:field>
+      <finn:price name="main" value="1560000">
+        <finn:field name="changed" value="false"/>
+      </finn:price>
+      <finn:price name="total" value="1560000"/>
+      <finn:price name="shared_cost" value="1.0"/>
+      <finn:price name="estimated_value" value="1560000"/>
+      <finn:price name="square_meter" value="30588"/>
+    </finn:adata>
+  </entry>
+  <entry>
+    <id>urn:id:47422429</id>
+    <title>Pen 2 roms andelsleilighet i høy 1.etg. i Myra. Visning tors. 27.03 kl. 17.00</title>
+    <updated>2014-03-24T20:19:00.000Z</updated>
+    <published>2014-03-24T20:19:00.000Z</published>
+    <dc:identifier>47422429</dc:identifier>
+    <category scheme="urn:finn:ad:private" term="false"/>
+    <category scheme="urn:finn:ad:disposed" label="Solgt" term="false"/>
+    <category scheme="urn:finn:ad:type" label="Bolig til salgs" term="realestate-homes"/>
+    <link href="https://cache.api.finn.no/iad/ad/realestate-homes/47422429" rel="self"/>
+    <link href="http://www.finn.no/47422429" rel="alternate" type="text/html"/>
+    <georss:point finn:accuracy="9">63.11952 7.70711</georss:point>
+    <finn:location>
+      <finn:address>Margrethes Fryd 15 B</finn:address>
+      <finn:postal-code>6514</finn:postal-code>
+      <finn:city>Kristiansund N</finn:city>
+    </finn:location>
+    <media:content height="853" medium="image" width="1280" url="http://finncdn.no/mmo/2014/3/vertical-2/24/9/474/224/29_2128511719.jpg" type="image/jpeg"/>
+    <author>
+      <name>KBBL eiendomsmegling</name>
+    </author>
+    <finn:adata model="https://cache.api.finn.no/iad/ad/model/realestate-homes">
+      <finn:field name="no_of_bedrooms" value="1"/>
+      <finn:field name="property_type">
+        <finn:value>Leilighet</finn:value>
+      </finn:field>
+      <finn:field name="ownership_type" value="Andel"/>
+      <finn:field name="size">
+        <finn:field name="usable" value="47"/>
+        <finn:field name="primary" value="47"/>
+      </finn:field>
+      <finn:price name="main" value="800000">
+        <finn:field name="changed" value="false"/>
+      </finn:price>
+      <finn:price name="total" value="861478"/>
+      <finn:price name="collective_debt" value="61478"/>
+      <finn:price name="shared_cost" value="3358.0"/>
+      <finn:price name="estimated_value" value="800000"/>
+      <finn:price name="square_meter" value="18032"/>
+    </finn:adata>
+  </entry>
+  <entry>
+    <id>urn:id:47422324</id>
+    <title>Haugesund - Sjelden mulighet! Lekker funkisbolig med populær beliggenhet!</title>
+    <updated>2014-03-24T20:15:00.000Z</updated>
+    <published>2014-03-24T20:15:00.000Z</published>
+    <dc:identifier>47422324</dc:identifier>
+    <category scheme="urn:finn:ad:private" term="false"/>
+    <category scheme="urn:finn:ad:disposed" label="Solgt" term="false"/>
+    <category scheme="urn:finn:ad:type" label="Bolig til salgs" term="realestate-homes"/>
+    <link href="https://cache.api.finn.no/iad/ad/realestate-homes/47422324" rel="self"/>
+    <link href="http://www.finn.no/47422324" rel="alternate" type="text/html"/>
+    <georss:point finn:accuracy="9">59.42677 5.27143</georss:point>
+    <finn:location>
+      <finn:address>Gunnlaugs veg 3</finn:address>
+      <finn:postal-code>5518</finn:postal-code>
+      <finn:city>Haugesund</finn:city>
+    </finn:location>
+    <media:content height="1066" medium="image" width="1600" url="http://finncdn.no/mmo/2014/3/vertical-2/24/4/474/223/24_278562452.jpg" type="image/jpeg"/>
+    <author>
+      <name>DNB Eiendom Residens</name>
+    </author>
+    <finn:adata model="https://cache.api.finn.no/iad/ad/model/realestate-homes">
+      <finn:field name="no_of_bedrooms" value="4"/>
+      <finn:field name="property_type">
+        <finn:value>Enebolig</finn:value>
+      </finn:field>
+      <finn:field name="ownership_type" value="Eier (Selveier)"/>
+      <finn:field name="size">
+        <finn:field name="usable" value="202"/>
+        <finn:field name="primary" value="173"/>
+      </finn:field>
+      <finn:price name="main" value="5490000">
+        <finn:field name="changed" value="false"/>
+      </finn:price>
+      <finn:price name="total" value="5490000"/>
+      <finn:price name="estimated_value" value="5490000"/>
+      <finn:price name="square_meter" value="31734"/>
+    </finn:adata>
+  </entry>
+  <entry>
+    <id>urn:id:47421991</id>
+    <title>Pen selveierleilighet på Disen. Bedre å eie enn å leie! Rolig og sentrumsnært område</title>
+    <updated>2014-03-24T20:31:00.000Z</updated>
+    <published>2014-03-24T20:02:00.000Z</published>
+    <dc:identifier>47421991</dc:identifier>
+    <category scheme="urn:finn:ad:private" term="false"/>
+    <category scheme="urn:finn:ad:disposed" label="Solgt" term="false"/>
+    <category scheme="urn:finn:ad:type" label="Bolig til salgs" term="realestate-homes"/>
+    <link href="https://cache.api.finn.no/iad/ad/realestate-homes/47421991" rel="self"/>
+    <link href="http://www.finn.no/47421991" rel="alternate" type="text/html"/>
+    <georss:point finn:accuracy="9">60.79875 11.0998</georss:point>
+    <finn:location>
+      <finn:address>Just Brochs Gate 12 b</finn:address>
+      <finn:postal-code>2321</finn:postal-code>
+      <finn:city>Hamar</finn:city>
+    </finn:location>
+    <media:content height="1067" medium="image" width="1600" url="http://finncdn.no/mmo/2014/3/vertical-2/24/1/474/219/91_1446552507.jpg" type="image/jpeg"/>
+    <author>
+      <name>EiendomsMegler 1 - Stange</name>
+    </author>
+    <finn:adata model="https://cache.api.finn.no/iad/ad/model/realestate-homes">
+      <finn:field name="no_of_bedrooms" value="1"/>
+      <finn:field name="property_type">
+        <finn:value>Leilighet</finn:value>
+      </finn:field>
+      <finn:field name="ownership_type" value="Eier (Selveier)"/>
+      <finn:field name="size">
+        <finn:field name="usable" value="27"/>
+        <finn:field name="primary" value="27"/>
+      </finn:field>
+      <finn:price name="main" value="790000">
+        <finn:field name="changed" value="false"/>
+      </finn:price>
+      <finn:price name="total" value="790000"/>
+      <finn:price name="estimated_value" value="790000"/>
+      <finn:price name="square_meter" value="29259"/>
+    </finn:adata>
+  </entry>
+  <entry>
+    <id>urn:id:47421940</id>
+    <title>Haslum - Innholdsrik og koselig enebolig med stor hage - solrikt og usjenert - garasje og dobbelgarasje - 4-5 soverom</title>
+    <updated>2014-03-24T20:11:00.000Z</updated>
+    <published>2014-03-24T20:00:00.000Z</published>
+    <dc:identifier>47421940</dc:identifier>
+    <category scheme="urn:finn:ad:private" term="false"/>
+    <category scheme="urn:finn:ad:disposed" label="Solgt" term="false"/>
+    <category scheme="urn:finn:ad:type" label="Bolig til salgs" term="realestate-homes"/>
+    <link href="https://cache.api.finn.no/iad/ad/realestate-homes/47421940" rel="self"/>
+    <link href="http://www.finn.no/47421940" rel="alternate" type="text/html"/>
+    <georss:point finn:accuracy="9">59.91419 10.56156</georss:point>
+    <finn:location>
+      <finn:address>Kirkeveien 72</finn:address>
+      <finn:postal-code>1344</finn:postal-code>
+      <finn:city>Haslum</finn:city>
+    </finn:location>
+    <media:content height="800" medium="image" width="1200" url="http://finncdn.no/mmo/2014/3/vertical-2/24/0/474/219/40_881090348.jpg" type="image/jpeg"/>
+    <author>
+      <name>PRIVATmegleren Thøgersen &amp; Partnere</name>
+    </author>
+    <finn:adata model="https://cache.api.finn.no/iad/ad/model/realestate-homes">
+      <finn:field name="no_of_bedrooms" value="5"/>
+      <finn:field name="property_type">
+        <finn:value>Enebolig</finn:value>
+      </finn:field>
+      <finn:field name="ownership_type" value="Eier (Selveier)"/>
+      <finn:field name="size">
+        <finn:field name="usable" value="223"/>
+        <finn:field name="primary" value="182"/>
+      </finn:field>
+      <finn:price name="main" value="5990000">
+        <finn:field name="changed" value="false"/>
+      </finn:price>
+      <finn:price name="total" value="5990000"/>
+      <finn:price name="estimated_value" value="5990000"/>
+      <finn:price name="square_meter" value="32912"/>
+    </finn:adata>
+  </entry>
+  <entry>
+    <id>urn:id:47421720</id>
+    <title>TØYEN/KAMPEN: TOTALRENOVERT GJENNOMGÅENDE 3 ROMS MED BALKONG OG SUPER BAKGÅRD. GOD PLANLØSNING.  UBEBODD SIDEN FERDIGSTILLELSE.</title>
+    <updated>2014-03-24T20:38:00.000Z</updated>
+    <published>2014-03-24T19:52:00.000Z</published>
+    <dc:identifier>47421720</dc:identifier>
+    <category scheme="urn:finn:ad:private" term="false"/>
+    <category scheme="urn:finn:ad:disposed" label="Solgt" term="false"/>
+    <category scheme="urn:finn:ad:type" label="Bolig til salgs" term="realestate-homes"/>
+    <link href="https://cache.api.finn.no/iad/ad/realestate-homes/47421720" rel="self"/>
+    <link href="http://www.finn.no/47421720" rel="alternate" type="text/html"/>
+    <georss:point finn:accuracy="9">59.91288 10.77558</georss:point>
+    <finn:location>
+      <finn:address>Hertug Skules Gate 2</finn:address>
+      <finn:postal-code>0652</finn:postal-code>
+      <finn:city-district>Gamle Oslo</finn:city-district>
+      <finn:city>Oslo</finn:city>
+    </finn:location>
+    <media:content height="891" medium="image" width="1600" url="http://finncdn.no/mmo/2014/3/vertical-2/24/0/474/217/20_1551768987.jpg" type="image/jpeg"/>
+    <author>
+      <name>AdvokatOppgjør AS</name>
+    </author>
+    <finn:adata model="https://cache.api.finn.no/iad/ad/model/realestate-homes">
+      <finn:field name="no_of_bedrooms" value="2"/>
+      <finn:field name="property_type">
+        <finn:value>Enebolig</finn:value>
+      </finn:field>
+      <finn:field name="ownership_type" value="Eier (Selveier)"/>
+      <finn:field name="size">
+        <finn:field name="usable" value="59"/>
+        <finn:field name="primary" value="59"/>
+      </finn:field>
+      <finn:price name="main" value="2600000">
+        <finn:field name="changed" value="false"/>
+      </finn:price>
+      <finn:price name="total" value="2600000"/>
+      <finn:price name="estimated_value" value="2600000"/>
+      <finn:price name="square_meter" value="44067"/>
+    </finn:adata>
+  </entry>
+  <entry>
+    <id>urn:id:47421526</id>
+    <title>Koselig liten leilighet med terrasse. </title>
+    <updated>2014-03-24T19:50:00.000Z</updated>
+    <published>2014-03-24T19:46:00.000Z</published>
+    <dc:identifier>47421526</dc:identifier>
+    <category scheme="urn:finn:ad:private" term="false"/>
+    <category scheme="urn:finn:ad:disposed" label="Solgt" term="false"/>
+    <category scheme="urn:finn:ad:type" label="Bolig til salgs" term="realestate-homes"/>
+    <link href="https://cache.api.finn.no/iad/ad/realestate-homes/47421526" rel="self"/>
+    <link href="http://www.finn.no/47421526" rel="alternate" type="text/html"/>
+    <georss:point finn:accuracy="8">58.84874 5.73469</georss:point>
+    <finn:location>
+      <finn:address>Haakon VIIs gt. 4</finn:address>
+      <finn:postal-code>4306</finn:postal-code>
+      <finn:city>Sandnes</finn:city>
+    </finn:location>
+    <media:content height="682" medium="image" width="1024" url="http://finncdn.no/mmo/2014/3/vertical-2/24/6/474/215/26_1200785050.jpg" type="image/jpeg"/>
+    <author>
+      <name>Sandnes Sparebank Eiendomsmegling AS</name>
+    </author>
+    <finn:adata model="https://cache.api.finn.no/iad/ad/model/realestate-homes">
+      <finn:field name="no_of_bedrooms" value="1"/>
+      <finn:field name="property_type">
+        <finn:value>Leilighet</finn:value>
+      </finn:field>
+      <finn:field name="ownership_type" value="Andel"/>
+      <finn:field name="size">
+        <finn:field name="usable" value="35"/>
+        <finn:field name="primary" value="35"/>
+      </finn:field>
+      <finn:price name="main" value="1950000">
+        <finn:field name="changed" value="false"/>
+      </finn:price>
+      <finn:price name="total" value="1986945"/>
+      <finn:price name="collective_debt" value="36945"/>
+      <finn:price name="shared_cost" value="1821.0"/>
+      <finn:price name="estimated_value" value="1950000"/>
+      <finn:price name="square_meter" value="56501"/>
+    </finn:adata>
+  </entry>
+  <entry>
+    <id>urn:id:47421473</id>
+    <title>Lysaker/Fornebu: Lekker 4-roms eierleilighet under oppføring!  Balkong, heis, multiparking! -Resalg kontraktsposisjon.</title>
+    <updated>2014-03-24T20:42:00.000Z</updated>
+    <published>2014-03-24T19:44:00.000Z</published>
+    <dc:identifier>47421473</dc:identifier>
+    <category scheme="urn:finn:ad:private" term="false"/>
+    <category scheme="urn:finn:ad:disposed" label="Solgt" term="false"/>
+    <category scheme="urn:finn:ad:type" label="Bolig til salgs" term="realestate-homes"/>
+    <link href="https://cache.api.finn.no/iad/ad/realestate-homes/47421473" rel="self"/>
+    <link href="http://www.finn.no/47421473" rel="alternate" type="text/html"/>
+    <georss:point finn:accuracy="9">59.90788 10.62391</georss:point>
+    <finn:location>
+      <finn:address>Kilenveien 7</finn:address>
+      <finn:postal-code>1366</finn:postal-code>
+      <finn:city>Lysaker</finn:city>
+    </finn:location>
+    <media:content height="360" medium="image" width="728" url="http://finncdn.no/mmo/2014/3/vertical-2/24/3/474/214/73_1957726944.jpg" type="image/jpeg"/>
+    <author>
+      <name>PRIVATmegleren Børke &amp; Partners AS</name>
+    </author>
+    <finn:adata model="https://cache.api.finn.no/iad/ad/model/realestate-homes">
+      <finn:field name="property_type">
+        <finn:value>Leilighet</finn:value>
+      </finn:field>
+      <finn:field name="ownership_type" value="Eier (Selveier)"/>
+      <finn:field name="size">
+        <finn:field name="usable" value="112.9"/>
+        <finn:field name="primary" value="105"/>
+      </finn:field>
+      <finn:price name="main" value="6850000">
+        <finn:field name="changed" value="false"/>
+      </finn:price>
+      <finn:price name="total" value="6850000"/>
+      <finn:price name="shared_cost" value="3250.0"/>
+      <finn:price name="estimated_value" value="6850000"/>
+      <finn:price name="square_meter" value="65238"/>
+    </finn:adata>
+  </entry>
+  <entry>
+    <id>urn:id:47421433</id>
+    <title>Valen - Lys og flott enebolig med fine kvaliteter i et rolig og familievennlig område. Mange oppgraderinger i senere tid</title>
+    <updated>2014-03-24T20:11:00.000Z</updated>
+    <published>2014-03-24T19:43:00.000Z</published>
+    <dc:identifier>47421433</dc:identifier>
+    <category scheme="urn:finn:ad:private" term="false"/>
+    <category scheme="urn:finn:ad:disposed" label="Solgt" term="false"/>
+    <category scheme="urn:finn:ad:type" label="Bolig til salgs" term="realestate-homes"/>
+    <link href="https://cache.api.finn.no/iad/ad/realestate-homes/47421433" rel="self"/>
+    <link href="http://www.finn.no/47421433" rel="alternate" type="text/html"/>
+    <georss:point finn:accuracy="9">60.3637 5.15549</georss:point>
+    <finn:location>
+      <finn:address>Solhaugvegen 7</finn:address>
+      <finn:postal-code>5355</finn:postal-code>
+      <finn:city>Knarrevik</finn:city>
+    </finn:location>
+    <media:content height="800" medium="image" width="1200" url="http://finncdn.no/mmo/2014/3/vertical-2/24/3/474/214/33_1982970098.jpg" type="image/jpeg"/>
+    <author>
+      <name>PRIVATmegleren Vikebø &amp; Jørgensen</name>
+    </author>
+    <finn:adata model="https://cache.api.finn.no/iad/ad/model/realestate-homes">
+      <finn:field name="no_of_bedrooms" value="3"/>
+      <finn:field name="property_type">
+        <finn:value>Enebolig</finn:value>
+      </finn:field>
+      <finn:field name="ownership_type" value="Eier (Selveier)"/>
+      <finn:field name="size">
+        <finn:field name="usable" value="163"/>
+        <finn:field name="primary" value="152"/>
+      </finn:field>
+      <finn:price name="main" value="3990000">
+        <finn:field name="changed" value="false"/>
+      </finn:price>
+      <finn:price name="total" value="3990000"/>
+      <finn:price name="estimated_value" value="3990000"/>
+      <finn:price name="square_meter" value="26250"/>
+    </finn:adata>
+  </entry>
+  <entry>
+    <id>urn:id:47396668</id>
+    <title>HØYBRÅTEN - POPULÆRT 4R REKKEHUS O/2 PLAN-GARASJEPLASS-SOLRIK TERRASSE 29 KVM-LITE INNSYN-BARNEVENNLIG-PUSSET OPP I 2008/13!</title>
+    <updated>2014-03-24T19:51:00.000Z</updated>
+    <published>2014-03-24T19:43:00.000Z</published>
+    <dc:identifier>47396668</dc:identifier>
+    <category scheme="urn:finn:ad:private" term="false"/>
+    <category scheme="urn:finn:ad:disposed" label="Solgt" term="false"/>
+    <category scheme="urn:finn:ad:type" label="Bolig til salgs" term="realestate-homes"/>
+    <link href="https://cache.api.finn.no/iad/ad/realestate-homes/47396668" rel="self"/>
+    <link href="http://www.finn.no/47396668" rel="alternate" type="text/html"/>
+    <georss:point finn:accuracy="9">59.94932 10.93315</georss:point>
+    <finn:location>
+      <finn:address>Hagaveien 12 H</finn:address>
+      <finn:postal-code>0980</finn:postal-code>
+      <finn:city-district>Stovner</finn:city-district>
+      <finn:city>Oslo</finn:city>
+    </finn:location>
+    <media:content height="1066" medium="image" width="1600" url="http://finncdn.no/mmo/2014/3/vertical-2/24/8/473/966/68_792778656.jpg" type="image/jpeg"/>
+    <author>
+      <name>DNB Eiendom</name>
+    </author>
+    <finn:adata model="https://cache.api.finn.no/iad/ad/model/realestate-homes">
+      <finn:field name="no_of_bedrooms" value="3"/>
+      <finn:field name="property_type">
+        <finn:value>Rekkehus</finn:value>
+      </finn:field>
+      <finn:field name="ownership_type" value="Andel"/>
+      <finn:field name="size">
+        <finn:field name="usable" value="91"/>
+        <finn:field name="primary" value="89"/>
+      </finn:field>
+      <finn:price name="main" value="3000000">
+        <finn:field name="changed" value="false"/>
+      </finn:price>
+      <finn:price name="total" value="3029553"/>
+      <finn:price name="collective_debt" value="29553"/>
+      <finn:price name="shared_cost" value="3052.0"/>
+      <finn:price name="estimated_value" value="3000000"/>
+      <finn:price name="square_meter" value="33820"/>
+    </finn:adata>
+  </entry>
+  <entry>
+    <id>urn:id:47421405</id>
+    <title>KROKEIDE - Enebolig i landlige omgivelser med gode solforhold - barnevennlig  - 5 soverom - dobbel garasje</title>
+    <updated>2014-03-24T20:01:00.000Z</updated>
+    <published>2014-03-24T19:42:00.000Z</published>
+    <dc:identifier>47421405</dc:identifier>
+    <category scheme="urn:finn:ad:private" term="false"/>
+    <category scheme="urn:finn:ad:disposed" label="Solgt" term="false"/>
+    <category scheme="urn:finn:ad:type" label="Bolig til salgs" term="realestate-homes"/>
+    <link href="https://cache.api.finn.no/iad/ad/realestate-homes/47421405" rel="self"/>
+    <link href="http://www.finn.no/47421405" rel="alternate" type="text/html"/>
+    <georss:point finn:accuracy="9">60.22993 5.29805</georss:point>
+    <finn:location>
+      <finn:address>Krokeidluren 12</finn:address>
+      <finn:postal-code>5244</finn:postal-code>
+      <finn:city>Fana</finn:city>
+    </finn:location>
+    <media:content height="853" medium="image" width="1280" url="http://finncdn.no/mmo/2014/3/vertical-2/24/5/474/214/05_1295593611.jpg" type="image/jpeg"/>
+    <author>
+      <name>GARANTI eiendomsmegling Bergen</name>
+    </author>
+    <finn:adata model="https://cache.api.finn.no/iad/ad/model/realestate-homes">
+      <finn:field name="no_of_bedrooms" value="5"/>
+      <finn:field name="property_type">
+        <finn:value>Enebolig</finn:value>
+      </finn:field>
+      <finn:field name="ownership_type" value="Eier (Selveier)"/>
+      <finn:field name="size">
+        <finn:field name="usable" value="288"/>
+        <finn:field name="primary" value="184"/>
+      </finn:field>
+      <finn:price name="main" value="2990000">
+        <finn:field name="changed" value="false"/>
+      </finn:price>
+      <finn:price name="total" value="2990000"/>
+      <finn:price name="estimated_value" value="2990000"/>
+      <finn:price name="square_meter" value="16250"/>
+    </finn:adata>
+  </entry>
+  <entry>
+    <id>urn:id:47421395</id>
+    <title>Horten/Lillås - Lys og pen 3 (4)-roms enderekkehus i barnevennlige omgivelser - solrikt - garasje</title>
+    <updated>2014-03-24T21:11:00.000Z</updated>
+    <published>2014-03-24T19:42:00.000Z</published>
+    <dc:identifier>47421395</dc:identifier>
+    <category scheme="urn:finn:ad:private" term="false"/>
+    <category scheme="urn:finn:ad:disposed" label="Solgt" term="false"/>
+    <category scheme="urn:finn:ad:type" label="Bolig til salgs" term="realestate-homes"/>
+    <link href="https://cache.api.finn.no/iad/ad/realestate-homes/47421395" rel="self"/>
+    <link href="http://www.finn.no/47421395" rel="alternate" type="text/html"/>
+    <georss:point finn:accuracy="9">59.41898 10.46015</georss:point>
+    <finn:location>
+      <finn:address>Lilaasveien 15 A</finn:address>
+      <finn:postal-code>3188</finn:postal-code>
+      <finn:city>Horten</finn:city>
+    </finn:location>
+    <media:content height="1067" medium="image" width="1600" url="http://finncdn.no/mmo/2014/3/vertical-2/24/5/474/213/95_722801300.jpg" type="image/jpeg"/>
+    <author>
+      <name>Usbl GARANTI Eiendomsmegling AS</name>
+    </author>
+    <finn:adata model="https://cache.api.finn.no/iad/ad/model/realestate-homes">
+      <finn:field name="no_of_bedrooms" value="2"/>
+      <finn:field name="property_type">
+        <finn:value>Leilighet</finn:value>
+      </finn:field>
+      <finn:field name="ownership_type" value="Andel"/>
+      <finn:field name="size">
+        <finn:field name="usable" value="109"/>
+        <finn:field name="primary" value="100"/>
+      </finn:field>
+      <finn:price name="main" value="1890000">
+        <finn:field name="changed" value="false"/>
+      </finn:price>
+      <finn:price name="total" value="2109098"/>
+      <finn:price name="collective_debt" value="219098"/>
+      <finn:price name="shared_cost" value="4150.0"/>
+      <finn:price name="estimated_value" value="1890000"/>
+      <finn:price name="square_meter" value="20926"/>
+    </finn:adata>
+  </entry>
+  <entry>
+    <id>urn:id:47421251</id>
+    <title>Ytre Sandviken - Lys og romslig 3-roms leilighet med fantastisk utsikt og terrassen. Varmtvann og varme (akonto) inkl.</title>
+    <updated>2014-03-24T19:38:00.000Z</updated>
+    <published>2014-03-24T19:36:00.000Z</published>
+    <dc:identifier>47421251</dc:identifier>
+    <category scheme="urn:finn:ad:private" term="false"/>
+    <category scheme="urn:finn:ad:disposed" label="Solgt" term="false"/>
+    <category scheme="urn:finn:ad:type" label="Bolig til salgs" term="realestate-homes"/>
+    <link href="https://cache.api.finn.no/iad/ad/realestate-homes/47421251" rel="self"/>
+    <link href="http://www.finn.no/47421251" rel="alternate" type="text/html"/>
+    <georss:point finn:accuracy="9">60.43673 5.28651</georss:point>
+    <finn:location>
+      <finn:address>Helleveien 263</finn:address>
+      <finn:postal-code>5039</finn:postal-code>
+      <finn:city>Bergen</finn:city>
+    </finn:location>
+    <media:content height="800" medium="image" width="1200" url="http://finncdn.no/mmo/2014/3/vertical-2/24/1/474/212/51_2108734937.jpg" type="image/jpeg"/>
+    <author>
+      <name>PRIVATmegleren Vikebø &amp; Jørgensen</name>
+    </author>
+    <finn:adata model="https://cache.api.finn.no/iad/ad/model/realestate-homes">
+      <finn:field name="no_of_bedrooms" value="2"/>
+      <finn:field name="property_type">
+        <finn:value>Leilighet</finn:value>
+      </finn:field>
+      <finn:field name="ownership_type" value="Andel"/>
+      <finn:field name="size">
+        <finn:field name="usable" value="68"/>
+        <finn:field name="primary" value="68"/>
+      </finn:field>
+      <finn:price name="main" value="2490000">
+        <finn:field name="changed" value="false"/>
+      </finn:price>
+      <finn:price name="total" value="3026563"/>
+      <finn:price name="collective_debt" value="536563"/>
+      <finn:price name="shared_cost" value="4703.0"/>
+      <finn:price name="estimated_value" value="2490000"/>
+      <finn:price name="square_meter" value="44508"/>
+    </finn:adata>
+  </entry>
+  <entry>
+    <id>urn:id:47421199</id>
+    <title>Lørenskog/Skårer: *Lys, attraktiv 3- roms leil. - Innglasset balkong - Gode solforhold - IN-ordning - INGEN FORKJØPSRETT</title>
+    <updated>2014-03-24T19:39:00.000Z</updated>
+    <published>2014-03-24T19:33:00.000Z</published>
+    <dc:identifier>47421199</dc:identifier>
+    <category scheme="urn:finn:ad:private" term="false"/>
+    <category scheme="urn:finn:ad:disposed" label="Solgt" term="false"/>
+    <category scheme="urn:finn:ad:type" label="Bolig til salgs" term="realestate-homes"/>
+    <link href="https://cache.api.finn.no/iad/ad/realestate-homes/47421199" rel="self"/>
+    <link href="http://www.finn.no/47421199" rel="alternate" type="text/html"/>
+    <georss:point finn:accuracy="9">59.92392 10.95942</georss:point>
+    <finn:location>
+      <finn:address>Skårer Terrasse 18</finn:address>
+      <finn:postal-code>1473</finn:postal-code>
+      <finn:city>Lørenskog</finn:city>
+    </finn:location>
+    <media:content height="800" medium="image" width="1200" url="http://finncdn.no/mmo/2014/3/vertical-2/24/9/474/211/99_422219828.jpg" type="image/jpeg"/>
+    <author>
+      <name>HOME Eiendomsmegler</name>
+    </author>
+    <finn:adata model="https://cache.api.finn.no/iad/ad/model/realestate-homes">
+      <finn:field name="no_of_bedrooms" value="2"/>
+      <finn:field name="property_type">
+        <finn:value>Leilighet</finn:value>
+      </finn:field>
+      <finn:field name="ownership_type" value="Andel"/>
+      <finn:field name="size">
+        <finn:field name="usable" value="67"/>
+        <finn:field name="primary" value="67"/>
+      </finn:field>
+      <finn:price name="main" value="2100000">
+        <finn:field name="changed" value="false"/>
+      </finn:price>
+      <finn:price name="total" value="2213641"/>
+      <finn:price name="collective_debt" value="113641"/>
+      <finn:price name="shared_cost" value="3119.0"/>
+      <finn:price name="estimated_value" value="2100000"/>
+      <finn:price name="square_meter" value="33039"/>
+    </finn:adata>
+  </entry>
+  <entry>
+    <id>urn:id:46833044</id>
+    <title>Ballstad - Romslig enebolig med 5 soverom og 2 stuer. </title>
+    <updated>2014-03-24T19:55:00.000Z</updated>
+    <published>2014-03-24T19:30:00.000Z</published>
+    <dc:identifier>46833044</dc:identifier>
+    <category scheme="urn:finn:ad:private" term="false"/>
+    <category scheme="urn:finn:ad:disposed" label="Solgt" term="false"/>
+    <category scheme="urn:finn:ad:type" label="Bolig til salgs" term="realestate-homes"/>
+    <link href="https://cache.api.finn.no/iad/ad/realestate-homes/46833044" rel="self"/>
+    <link href="http://www.finn.no/46833044" rel="alternate" type="text/html"/>
+    <georss:point finn:accuracy="9">68.06868 13.53439</georss:point>
+    <finn:location>
+      <finn:address>Kræmmervikveien 7</finn:address>
+      <finn:postal-code>8373</finn:postal-code>
+      <finn:city>Ballstad</finn:city>
+    </finn:location>
+    <media:content height="682" medium="image" width="1024" url="http://finncdn.no/mmo/2014/3/vertical-2/24/4/468/330/44_910108727.jpg" type="image/jpeg"/>
+    <author>
+      <name>DNB Eiendom Svolvær - Lofoten Eiendomsmegling AS</name>
+    </author>
+    <finn:adata model="https://cache.api.finn.no/iad/ad/model/realestate-homes">
+      <finn:field name="no_of_bedrooms" value="5"/>
+      <finn:field name="property_type">
+        <finn:value>Enebolig</finn:value>
+      </finn:field>
+      <finn:field name="ownership_type" value="Eier (Selveier)"/>
+      <finn:field name="size">
+        <finn:field name="usable" value="166"/>
+        <finn:field name="primary" value="156"/>
+      </finn:field>
+      <finn:price name="main" value="1990000">
+        <finn:field name="changed" value="false"/>
+      </finn:price>
+      <finn:price name="total" value="1990000"/>
+      <finn:price name="estimated_value" value="1990000"/>
+      <finn:price name="square_meter" value="12756"/>
+    </finn:adata>
+  </entry>
+  <entry>
+    <id>urn:id:47148847</id>
+    <title>Funkisgården på Torshov - Lys og lekker 3-roms med flott planløsning. V.v og fyring inkl. Renovert i 2005!</title>
+    <updated>2014-03-24T19:37:00.000Z</updated>
+    <published>2014-03-24T19:16:00.000Z</published>
+    <dc:identifier>47148847</dc:identifier>
+    <category scheme="urn:finn:ad:private" term="false"/>
+    <category scheme="urn:finn:ad:disposed" label="Solgt" term="false"/>
+    <category scheme="urn:finn:ad:type" label="Bolig til salgs" term="realestate-homes"/>
+    <link href="https://cache.api.finn.no/iad/ad/realestate-homes/47148847" rel="self"/>
+    <link href="http://www.finn.no/47148847" rel="alternate" type="text/html"/>
+    <georss:point finn:accuracy="9">59.93904 10.77289</georss:point>
+    <finn:location>
+      <finn:address>Åsengata 34</finn:address>
+      <finn:postal-code>0480</finn:postal-code>
+      <finn:city-district>Sagene - Torshov</finn:city-district>
+      <finn:city>Oslo</finn:city>
+    </finn:location>
+    <media:content height="1067" medium="image" width="1600" url="http://finncdn.no/mmo/2014/3/vertical-2/10/7/471/488/47_1140822081.jpg" type="image/jpeg"/>
+    <author>
+      <name>Krogsveen avd. Torshov</name>
+    </author>
+    <finn:adata model="https://cache.api.finn.no/iad/ad/model/realestate-homes">
+      <finn:field name="no_of_bedrooms" value="2"/>
+      <finn:field name="property_type">
+        <finn:value>Leilighet</finn:value>
+      </finn:field>
+      <finn:field name="ownership_type" value="Andel"/>
+      <finn:field name="size">
+        <finn:field name="usable" value="52"/>
+        <finn:field name="primary" value="52"/>
+      </finn:field>
+      <finn:price name="main" value="2470000">
+        <finn:field name="changed" value="true"/>
+      </finn:price>
+      <finn:price name="total" value="2470000"/>
+      <finn:price name="shared_cost" value="2745.0"/>
+      <finn:price name="estimated_value" value="2470000"/>
+      <finn:price name="square_meter" value="47417"/>
+    </finn:adata>
+  </entry>
+  <entry>
+    <id>urn:id:47361692</id>
+    <title>Hellerud - Nyere 2-roms selveier med innglasset balkong, heis og garasjeplass.</title>
+    <updated>2014-03-24T19:13:00.000Z</updated>
+    <published>2014-03-24T19:12:00.000Z</published>
+    <dc:identifier>47361692</dc:identifier>
+    <category scheme="urn:finn:ad:private" term="false"/>
+    <category scheme="urn:finn:ad:disposed" label="Solgt" term="false"/>
+    <category scheme="urn:finn:ad:type" label="Bolig til salgs" term="realestate-homes"/>
+    <link href="https://cache.api.finn.no/iad/ad/realestate-homes/47361692" rel="self"/>
+    <link href="http://www.finn.no/47361692" rel="alternate" type="text/html"/>
+    <georss:point finn:accuracy="9">59.91742 10.84871</georss:point>
+    <finn:location>
+      <finn:address>Hellerudstubben 34 B</finn:address>
+      <finn:postal-code>0671</finn:postal-code>
+      <finn:city-district>Hellerud</finn:city-district>
+      <finn:city>Oslo</finn:city>
+    </finn:location>
+    <media:content height="1067" medium="image" width="1600" url="http://finncdn.no/mmo/2014/3/vertical-2/24/2/473/616/92_586870926.jpg" type="image/jpeg"/>
+    <author>
+      <name>Krogsveen avd. Løren</name>
+    </author>
+    <finn:adata model="https://cache.api.finn.no/iad/ad/model/realestate-homes">
+      <finn:field name="no_of_bedrooms" value="1"/>
+      <finn:field name="property_type">
+        <finn:value>Leilighet</finn:value>
+      </finn:field>
+      <finn:field name="ownership_type" value="Eier (Selveier)"/>
+      <finn:field name="size">
+        <finn:field name="usable" value="61"/>
+        <finn:field name="primary" value="53"/>
+      </finn:field>
+      <finn:price name="main" value="2150000">
+        <finn:field name="changed" value="false"/>
+      </finn:price>
+      <finn:price name="total" value="2152633"/>
+      <finn:price name="collective_debt" value="2633"/>
+      <finn:price name="shared_cost" value="1426.0"/>
+      <finn:price name="estimated_value" value="2150000"/>
+      <finn:price name="square_meter" value="40249"/>
+    </finn:adata>
+  </entry>
+</feed>

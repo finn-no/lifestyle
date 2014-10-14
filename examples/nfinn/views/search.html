@@ -1,0 +1,19 @@
+{% import './macros.html' as macros %}
+{% extends 'base.html' %}
+
+{% block title %}{{ title }}{% endblock %}
+
+{% block content %}
+<h2>{{ title }}</h2>
+
+<form method="get" action="/result/{{ searchId }}">
+    <button type="submit">Search</button>
+        {% for filter in filters %}
+                {{ macros.filter(filter) }}
+                {{ filter|jsonSummary|safe }}
+            <hr>
+        {% endfor %}
+    <button type="submit">Search</button>
+</form>
+
+{% endblock %}

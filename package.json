@@ -1,0 +1,17 @@
+{
+  "name": "lifestyle",
+  "version": "0.0.1",
+  "description": "FINN REST API client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rune Halvorsen <runefh@gmail.com>",
+  "license": "Apache License, Version 2.0",
+  "dependencies": {
+    "xmldom": "^0.1.19",
+    "bluebird": "^2.3.4",
+    "request": "git://github.com/mikeal/request.git#master",
+    "ramda": "^0.6.0"
+  }
+}

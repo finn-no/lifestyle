@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+
+{% block title %}{{ ad.title }}{% endblock %}
+
+{% block content %}
+<h2>{{ ad.title }}</h2>
+<img src="{{ ad.images[0].url }}">
+
+{{ ad|jsonSummary|safe }}
+
+{% endblock %}

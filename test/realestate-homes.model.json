@@ -1,0 +1,668 @@
+{
+  "href": "https://cache.api.finn.no/iad/ad/model/realestate-homes",
+  "title": "realestate-homes",
+  "field-definitions": [
+    {
+      "name": "access",
+      "description": "Adkomst",
+      "mandatory": false,
+      "multi-value": false,
+      "searchable": false,
+      "type": "string"
+    },
+    {
+      "name": "acquisition",
+      "description": "Overtagelse",
+      "mandatory": false,
+      "multi-value": false,
+      "searchable": false,
+      "type": "string"
+    },
+    {
+      "name": "advertiser_reference",
+      "description": "Annonsørens referanse",
+      "mandatory": false,
+      "multi-value": false,
+      "searchable": false,
+      "type": "string"
+    },
+    {
+      "name": "cadastre",
+      "description": "Property info, like cadastral number, property number etc.",
+      "mandatory": false,
+      "multi-value": false,
+      "searchable": false,
+      "type": "complex",
+      "children": [
+        {
+          "name": "apartment_number",
+          "description": "Apartment number",
+          "mandatory": false,
+          "multi-value": true,
+          "searchable": false,
+          "type": "string"
+        },
+        {
+          "name": "cadastral_unit_number",
+          "description": "The cadastral unit number of the property",
+          "mandatory": false,
+          "multi-value": true,
+          "searchable": false,
+          "type": "string"
+        },
+        {
+          "name": "leasehold_unit_number",
+          "description": "The lease hold unit number of the property",
+          "mandatory": false,
+          "multi-value": true,
+          "searchable": false,
+          "type": "string"
+        },
+        {
+          "name": "property_unit_number",
+          "description": "The property unit number",
+          "mandatory": false,
+          "multi-value": true,
+          "searchable": false,
+          "type": "string"
+        },
+        {
+          "name": "section_number",
+          "description": "The section unit number",
+          "mandatory": false,
+          "multi-value": true,
+          "searchable": false,
+          "type": "string"
+        },
+        {
+          "name": "county_number",
+          "description": "The county number of the property",
+          "mandatory": false,
+          "multi-value": true,
+          "searchable": false,
+          "type": "string"
+        }
+      ]
+    },
+    {
+      "name": "cadastres",
+      "description": "Property info, like cadastral number, property number etc.",
+      "mandatory": false,
+      "multi-value": true,
+      "searchable": false,
+      "type": "complex",
+      "children": [
+        {
+          "name": "apartment_number",
+          "description": "Apartment number",
+          "mandatory": false,
+          "multi-value": false,
+          "searchable": false,
+          "type": "string"
+        },
+        {
+          "name": "cadastral_unit_number",
+          "description": "The cadastral unit number of the property",
+          "mandatory": false,
+          "multi-value": false,
+          "searchable": false,
+          "type": "string"
+        },
+        {
+          "name": "leasehold_unit_number",
+          "description": "The lease hold unit number of the property",
+          "mandatory": false,
+          "multi-value": false,
+          "searchable": false,
+          "type": "string"
+        },
+        {
+          "name": "property_unit_number",
+          "description": "The property unit number",
+          "mandatory": false,
+          "multi-value": false,
+          "searchable": false,
+          "type": "string"
+        },
+        {
+          "name": "section_number",
+          "description": "The section unit number",
+          "mandatory": false,
+          "multi-value": false,
+          "searchable": false,
+          "type": "string"
+        },
+        {
+          "name": "county_number",
+          "description": "The county number of the property",
+          "mandatory": false,
+          "multi-value": false,
+          "searchable": false,
+          "type": "string"
+        }
+      ]
+    },
+    {
+      "name": "change_of_ownership_insurance",
+      "description": "Eierskifteforsikring",
+      "mandatory": false,
+      "multi-value": false,
+      "searchable": false,
+      "type": "string"
+    },
+    {
+      "name": "comment",
+      "description": "Kommentar",
+      "mandatory": false,
+      "multi-value": false,
+      "searchable": false,
+      "type": "string"
+    },
+    {
+      "name": "condition",
+      "description": "Standard/tekniske opplysninger",
+      "mandatory": false,
+      "multi-value": false,
+      "searchable": false,
+      "type": "string"
+    },
+    {
+      "name": "construction_year",
+      "description": "Byggeår",
+      "mandatory": false,
+      "multi-value": false,
+      "searchable": false,
+      "type": "number"
+    },
+    {
+      "name": "content",
+      "description": "Lokalene/innhold",
+      "mandatory": false,
+      "multi-value": false,
+      "searchable": false,
+      "type": "string"
+    },
+    {
+      "name": "description",
+      "description": "Beskrivelse",
+      "mandatory": false,
+      "multi-value": false,
+      "searchable": false,
+      "type": "string"
+    },
+    {
+      "name": "energy_label",
+      "description": "Energimerking",
+      "mandatory": false,
+      "multi-value": false,
+      "searchable": false,
+      "type": "string"
+    },
+    {
+      "name": "energy_label_color_code",
+      "description": "Energimerking",
+      "mandatory": false,
+      "multi-value": false,
+      "searchable": false,
+      "type": "string"
+    },
+    {
+      "name": "facilities",
+      "description": "Fasiliteter",
+      "mandatory": false,
+      "multi-value": true,
+      "searchable": false,
+      "type": "string"
+    },
+    {
+      "name": "finance",
+      "description": "Finansiering",
+      "mandatory": false,
+      "multi-value": false,
+      "searchable": false,
+      "type": "string"
+    },
+    {
+      "name": "floor",
+      "description": "Etasje",
+      "mandatory": false,
+      "multi-value": false,
+      "searchable": false,
+      "type": "number"
+    },
+    {
+      "name": "general_text",
+      "description": "General text",
+      "mandatory": false,
+      "multi-value": true,
+      "searchable": false,
+      "type": "complex",
+      "children": [
+        {
+          "name": "title",
+          "description": "Title",
+          "mandatory": false,
+          "multi-value": false,
+          "searchable": false,
+          "type": "string"
+        },
+        {
+          "name": "value",
+          "description": "Value",
+          "mandatory": false,
+          "multi-value": false,
+          "searchable": false,
+          "type": "string"
+        }
+      ]
+    },
+    {
+      "name": "letting_unit",
+      "description": "Utleiedel",
+      "mandatory": false,
+      "multi-value": false,
+      "searchable": false,
+      "type": "string"
+    },
+    {
+      "name": "no_of_bathrooms",
+      "description": "Antall bad",
+      "mandatory": false,
+      "multi-value": false,
+      "searchable": false,
+      "type": "number"
+    },
+    {
+      "name": "no_of_bedrooms",
+      "description": "Soverom",
+      "mandatory": false,
+      "multi-value": false,
+      "searchable": false,
+      "type": "number"
+    },
+    {
+      "name": "no_of_floors",
+      "description": "Antall etasjer",
+      "mandatory": false,
+      "multi-value": false,
+      "searchable": false,
+      "type": "number"
+    },
+    {
+      "name": "no_of_rooms",
+      "description": "Rom",
+      "mandatory": false,
+      "multi-value": false,
+      "searchable": false,
+      "type": "number"
+    },
+    {
+      "name": "ownership_type",
+      "description": "Eieform",
+      "mandatory": false,
+      "multi-value": false,
+      "searchable": false,
+      "type": "string"
+    },
+    {
+      "name": "parking_spots",
+      "description": "Ant. p_plasser",
+      "mandatory": false,
+      "multi-value": false,
+      "searchable": false,
+      "type": "number"
+    },
+    {
+      "name": "plot",
+      "description": "...",
+      "mandatory": false,
+      "multi-value": false,
+      "searchable": false,
+      "type": "complex",
+      "children": [
+        {
+          "name": "area",
+          "description": "Tomteareal",
+          "mandatory": false,
+          "multi-value": false,
+          "searchable": false,
+          "type": "number"
+        },
+        {
+          "name": "owned",
+          "description": "Eiet",
+          "mandatory": false,
+          "multi-value": false,
+          "searchable": false,
+          "type": "boolean"
+        },
+        {
+          "name": "condition",
+          "description": "Beskaffenhet",
+          "mandatory": false,
+          "multi-value": false,
+          "searchable": false,
+          "type": "string"
+        },
+        {
+          "name": "ground_tax",
+          "description": "Festeavgift",
+          "mandatory": false,
+          "multi-value": false,
+          "searchable": false,
+          "type": "string"
+        },
+        {
+          "name": "ground_year",
+          "description": "Festeår",
+          "mandatory": false,
+          "multi-value": false,
+          "searchable": false,
+          "type": "string"
+        }
+      ]
+    },
+    {
+      "name": "potential_income",
+      "description": "Estimert potensiell leieinntekt",
+      "mandatory": false,
+      "multi-value": false,
+      "searchable": false,
+      "type": "string"
+    },
+    {
+      "name": "preemption",
+      "description": "Forkjøpsrett",
+      "mandatory": false,
+      "multi-value": false,
+      "searchable": false,
+      "type": "string"
+    },
+    {
+      "name": "progress",
+      "description": "Fremdrift",
+      "mandatory": false,
+      "multi-value": false,
+      "searchable": false,
+      "type": "string"
+    },
+    {
+      "name": "property_type",
+      "description": "Property type of the realestate",
+      "mandatory": true,
+      "multi-value": true,
+      "searchable": true,
+      "type": "string"
+    },
+    {
+      "name": "refurbished_year",
+      "description": "Renovert",
+      "mandatory": false,
+      "multi-value": false,
+      "searchable": false,
+      "type": "number"
+    },
+    {
+      "name": "regulations",
+      "description": "Regulering",
+      "mandatory": false,
+      "multi-value": false,
+      "searchable": false,
+      "type": "string"
+    },
+    {
+      "name": "situation",
+      "description": "Beliggenhet",
+      "mandatory": false,
+      "multi-value": false,
+      "searchable": false,
+      "type": "string"
+    },
+    {
+      "name": "size",
+      "description": "Property Size in Square meters",
+      "mandatory": false,
+      "multi-value": false,
+      "searchable": false,
+      "type": "complex",
+      "children": [
+        {
+          "name": "main",
+          "description": "Main Area",
+          "mandatory": false,
+          "multi-value": false,
+          "searchable": false,
+          "type": "number"
+        },
+        {
+          "name": "developed",
+          "description": "Developed Area",
+          "mandatory": false,
+          "multi-value": false,
+          "searchable": false,
+          "type": "number"
+        },
+        {
+          "name": "floor",
+          "description": "Floor Area",
+          "mandatory": false,
+          "multi-value": false,
+          "searchable": false,
+          "type": "number"
+        },
+        {
+          "name": "gross",
+          "description": "Gross Area",
+          "mandatory": false,
+          "multi-value": false,
+          "searchable": false,
+          "type": "number"
+        },
+        {
+          "name": "living",
+          "description": "Living Area",
+          "mandatory": false,
+          "multi-value": false,
+          "searchable": false,
+          "type": "number"
+        },
+        {
+          "name": "usable",
+          "description": "Usable Area",
+          "mandatory": false,
+          "multi-value": false,
+          "searchable": false,
+          "type": "number"
+        },
+        {
+          "name": "primary",
+          "description": "Primary Area",
+          "mandatory": false,
+          "multi-value": false,
+          "searchable": false,
+          "type": "number"
+        },
+        {
+          "name": "outdoor",
+          "description": "Outdoor Area",
+          "mandatory": false,
+          "multi-value": false,
+          "searchable": false,
+          "type": "number"
+        }
+      ]
+    },
+    {
+      "name": "units",
+      "description": "Antall enheter",
+      "mandatory": false,
+      "multi-value": false,
+      "searchable": false,
+      "type": "number"
+    },
+    {
+      "name": "viewings",
+      "description": "Visninger",
+      "mandatory": false,
+      "multi-value": true,
+      "searchable": false,
+      "type": "complex",
+      "children": [
+        {
+          "name": "date",
+          "description": "Dato",
+          "mandatory": false,
+          "multi-value": false,
+          "searchable": false,
+          "type": "string"
+        },
+        {
+          "name": "from",
+          "description": "Fra",
+          "mandatory": false,
+          "multi-value": false,
+          "searchable": false,
+          "type": "string"
+        },
+        {
+          "name": "to",
+          "description": "Til",
+          "mandatory": false,
+          "multi-value": false,
+          "searchable": false,
+          "type": "string"
+        },
+        {
+          "name": "note",
+          "description": "Notat",
+          "mandatory": false,
+          "multi-value": false,
+          "searchable": false,
+          "type": "string"
+        }
+      ]
+    }
+  ],
+  "price-definitions": [
+    {
+      "name": "main",
+      "description": "Main Price",
+      "mandatory": false,
+      "range": false,
+      "fields": [
+        {
+          "name": "sales_cost",
+          "description": "What is the total sales cost?",
+          "mandatory": false,
+          "multi-value": false,
+          "searchable": false,
+          "type": "html"
+        },
+        {
+          "name": "changed",
+          "description": "Has the price changed from its original value?",
+          "mandatory": false,
+          "multi-value": false,
+          "searchable": false,
+          "type": "boolean"
+        },
+        {
+          "name": "includes",
+          "description": "What is included in the price?",
+          "mandatory": false,
+          "multi-value": false,
+          "searchable": false,
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "total",
+      "description": "Total Price",
+      "mandatory": false,
+      "range": false
+    },
+    {
+      "name": "sold_price",
+      "description": "Sold price",
+      "mandatory": false,
+      "range": false
+    },
+    {
+      "name": "estimated_value",
+      "description": "Estimated Value",
+      "mandatory": false,
+      "range": false
+    },
+    {
+      "name": "collective_assets",
+      "description": "Collective Assets",
+      "mandatory": false,
+      "range": false
+    },
+    {
+      "name": "collective_debt",
+      "description": "Collective Debt",
+      "mandatory": false,
+      "range": false
+    },
+    {
+      "name": "loan_fare",
+      "description": "Loan Fare",
+      "mandatory": false,
+      "range": false
+    },
+    {
+      "name": "loan_value",
+      "description": "Loan Value",
+      "mandatory": false,
+      "range": false
+    },
+    {
+      "name": "shared_cost",
+      "description": "Shared cost",
+      "mandatory": false,
+      "range": false,
+      "fields": [
+        {
+          "name": "includes",
+          "description": "What is included in the price?",
+          "mandatory": false,
+          "multi-value": false,
+          "searchable": false,
+          "type": "html"
+        }
+      ]
+    },
+    {
+      "name": "shared_cost_after_interest",
+      "description": "Shared cost after the interest period ends",
+      "mandatory": false,
+      "range": false
+    },
+    {
+      "name": "community_tax",
+      "description": "Community Tax",
+      "mandatory": false,
+      "range": false
+    },
+    {
+      "name": "tax_value",
+      "description": "Tax Value",
+      "mandatory": false,
+      "range": false
+    },
+    {
+      "name": "square_meter",
+      "description": "Price per square meter",
+      "mandatory": false,
+      "range": false
+    }
+  ],
+  "links": [
+    {
+      "href": "https://cache.api.finn.no/iad/ad/realestate-homes/new",
+      "rel": "new-ad"
+    }
+  ]
+}

@@ -1,0 +1,586 @@
+{
+    "title": "GRÜNERLØKKA: Attraktiv 3-r hjørneleil m tregulv, rosett og stukkatur - Pipeløp",
+    "updated": "2014-10-13T14:14:00.000Z",
+    "published": "2014-10-13T22:21:00.000Z",
+    "expires": "2019-03-01T22:59:00.000Z",
+    "edited": "2014-10-13T14:14:00.000Z",
+    "links": {
+        "self": "https://cache.api.finn.no/iad/ad/realestate-homes/52518614",
+        "alternate": "http://www.finn.no/52518614",
+        "http://api.finn.no/relations/statistics": "https://cache.api.finn.no/iad/ad/realestate-homes/52518614/statistics",
+        "urn:finn:cms:finance": "http://www.finn.no/cms/page/view/realestate/homes/finance/52518614",
+        "urn:finn:cms:insurance": "http://www.finn.no/cms/page/view/realestate/homes/insurance/52518614",
+        "urn:finn:bidding:bid": "https://budrunder.no/gibud/finnkode/52518614",
+        "urn:finn:bidding:info": "http://www.finn.no/finn/article/Gi_bud_info?template=templates/static_template.jsp",
+        "urn:finn:realestate:ownershiphistory": "http://api.finn.no/realestate/ownership?kommunenummer=301&gaardsnummer=225&bruksnummer=273&andelsnummer=10"
+    },
+    "categories": [
+        {
+            "scheme": "urn:finn:ad:private",
+            "term": "false",
+            "label": ""
+        },
+        {
+            "scheme": "urn:finn:ad:type",
+            "term": "realestate-homes",
+            "label": "Bolig til salgs"
+        },
+        {
+            "scheme": "urn:finn:search:type",
+            "term": "realestate-homes",
+            "label": "Boliger"
+        },
+        {
+            "scheme": "urn:finn:ad:status",
+            "term": "activated",
+            "label": "Aktiv"
+        },
+        {
+            "scheme": "urn:finn:ad:disposed",
+            "term": "false",
+            "label": "Solgt"
+        }
+    ],
+    "location": {
+        "address": "SANNERGATA 38 B",
+        "postalCode": "0557",
+        "city": "Oslo",
+        "country": "Norge"
+    },
+    "mediaContent": [
+        {
+            "url": "http://finncdn.no/mmo/2014/10/vertical-2/13/4/525/186/14_858791792.jpg",
+            "width": 1134,
+            "height": 756,
+            "type": "image/jpeg",
+            "medium": "image",
+            "description": "Velkommen til Sannergata 38B! Boligen presenteres og vises av Eiendomsmegler MNEF / Partner Bård Tisthamar (900 29 357)."
+        },
+        {
+            "url": "http://finncdn.no/mmo/2014/10/vertical-2/13/4/525/186/14_564955375.jpg",
+            "width": 1134,
+            "height": 756,
+            "type": "image/jpeg",
+            "medium": "image",
+            "description": "Stuen oppleves som svært hyggelig og har god plass til større sofagruppe og øvrig ønsket møblement."
+        },
+        {
+            "url": "http://finncdn.no/mmo/2014/10/vertical-2/13/4/525/186/14_401722385.jpg",
+            "width": 1134,
+            "height": 756,
+            "type": "image/jpeg",
+            "medium": "image",
+            "description": "Stuen oppleves som svært hyggelig og har god plass til større sofagruppe og øvrig ønsket møblement."
+        },
+        {
+            "url": "http://finncdn.no/mmo/2014/10/vertical-2/13/4/525/186/14_1934028321.jpg",
+            "width": 1134,
+            "height": 756,
+            "type": "image/jpeg",
+            "medium": "image",
+            "description": "Store vindusflater gir et sjenerøst lysinnfall."
+        },
+        {
+            "url": "http://finncdn.no/mmo/2014/10/vertical-2/13/4/525/186/14_367680550.jpg",
+            "width": 1134,
+            "height": 756,
+            "type": "image/jpeg",
+            "medium": "image",
+            "description": "Pent kjøkken med god plass til stor spisegruppe"
+        },
+        {
+            "url": "http://finncdn.no/mmo/2014/10/vertical-2/13/4/525/186/14_1960756033.jpg",
+            "width": 1134,
+            "height": 756,
+            "type": "image/jpeg",
+            "medium": "image",
+            "description": "Moderne kjøkkeninnredning fra Ikea, ny i 2006. Innredningen har glatte fronter, og heltre benkeplate.\n"
+        },
+        {
+            "url": "http://finncdn.no/mmo/2014/10/vertical-2/13/4/525/186/14_2020039312.jpg",
+            "width": 1134,
+            "height": 756,
+            "type": "image/jpeg",
+            "medium": "image",
+            "description": "Over benken er det dekorative mosaikkfliser i en frisk farge som gir en spennende kontrast til det klassiske."
+        },
+        {
+            "url": "http://finncdn.no/mmo/2014/10/vertical-2/13/4/525/186/14_1206704556.jpg",
+            "width": 1134,
+            "height": 756,
+            "type": "image/jpeg",
+            "medium": "image",
+            "description": "Integrert platetopp og stekeovn, samt opplegg for oppvaskmaskin. Fritthengende ventilatorhette i stål og glass med kullfilter."
+        },
+        {
+            "url": "http://finncdn.no/mmo/2014/10/vertical-2/13/4/525/186/14_809752309.jpg",
+            "width": 1134,
+            "height": 756,
+            "type": "image/jpeg",
+            "medium": "image",
+            "description": "Rommet har plass til spisemøbler og kan fint brukes som kombinert spisestue/kjøkken."
+        },
+        {
+            "url": "http://finncdn.no/mmo/2014/10/vertical-2/13/4/525/186/14_731071639.jpg",
+            "width": 1134,
+            "height": 756,
+            "type": "image/jpeg",
+            "medium": "image",
+            "description": "Doble fløydører mot stue skaper en luftig og åpen atmosfære."
+        },
+        {
+            "url": "http://finncdn.no/mmo/2014/10/vertical-2/13/4/525/186/14_1319476903.jpg",
+            "width": 1134,
+            "height": 756,
+            "type": "image/jpeg",
+            "medium": "image",
+            "description": "Soverom I er stort og har god plass til dobbeltseng og garderobe."
+        },
+        {
+            "url": "http://finncdn.no/mmo/2014/10/vertical-2/13/4/525/186/14_852802902.jpg",
+            "width": 1134,
+            "height": 756,
+            "type": "image/jpeg",
+            "medium": "image",
+            "description": "Flott og dekorativ mønstret tapet på den ene veggen setter et spennende preg på rommet."
+        },
+        {
+            "url": "http://finncdn.no/mmo/2014/10/vertical-2/13/4/525/186/14_1271534738.jpg",
+            "width": 1134,
+            "height": 756,
+            "type": "image/jpeg",
+            "medium": "image",
+            "description": "Soverom II har plass til seng og garderobeløsning."
+        },
+        {
+            "url": "http://finncdn.no/mmo/2014/10/vertical-2/13/4/525/186/14_1174419968.jpg",
+            "width": 1134,
+            "height": 756,
+            "type": "image/jpeg",
+            "medium": "image",
+            "description": "Malt i en delikatfarge som gjør det perfekt som barnerom, men her har man mange bruksmuligheter"
+        },
+        {
+            "url": "http://finncdn.no/mmo/2014/10/vertical-2/13/4/525/186/14_1244333266.jpg",
+            "width": 1134,
+            "height": 756,
+            "type": "image/jpeg",
+            "medium": "image",
+            "description": "Lekkert flislagt bad som ble modernisert i 2006. Heldekkende servant, med underskap i glatte fronter med mye oppbevaringsplass. Opplegg for vaskemaskin"
+        },
+        {
+            "url": "http://finncdn.no/mmo/2014/10/vertical-2/13/4/525/186/14_396309267.jpg",
+            "width": 1067,
+            "height": 1600,
+            "type": "image/jpeg",
+            "medium": "image",
+            "description": "Badet har en dusjnisje med rullestein i dusjsone, overdusj og glassdører. Felt med lekre mosaikkfliser som bryter fint med det ellers stilrene utrykket.\n"
+        },
+        {
+            "url": "http://finncdn.no/mmo/2014/10/vertical-2/13/4/525/186/14_1300728654.jpg",
+            "width": 1134,
+            "height": 756,
+            "type": "image/jpeg",
+            "medium": "image",
+            "description": "Separat toalettrom med toalett og veggmontert vask."
+        },
+        {
+            "url": "http://finncdn.no/mmo/2014/10/vertical-2/13/4/525/186/14_1098729935.jpg",
+            "width": 1067,
+            "height": 1600,
+            "type": "image/jpeg",
+            "medium": "image",
+            "description": "Innbydende entré med flislagt gulv. Her er det en svært romslig garderobeløsning med god plass til oppheng av yttertøy."
+        },
+        {
+            "url": "http://finncdn.no/mmo/2014/10/vertical-2/13/4/525/186/14_130172444.jpg",
+            "width": 1134,
+            "height": 756,
+            "type": "image/jpeg",
+            "medium": "image",
+            "description": "Praktisk innebygd hyllesystem for oppbevaring av sko."
+        },
+        {
+            "url": "http://finncdn.no/mmo/2014/10/vertical-2/13/4/525/186/14_814126791.jpg",
+            "width": 1134,
+            "height": 756,
+            "type": "image/jpeg",
+            "medium": "image",
+            "description": "Asfaltert gårdsrom med sykkelparkering og sittegruppe."
+        },
+        {
+            "url": "http://finncdn.no/mmo/2014/10/vertical-2/13/4/525/186/14_988737271.jpg",
+            "width": 1134,
+            "height": 756,
+            "type": "image/jpeg",
+            "medium": "image",
+            "description": "Fasade mot gate"
+        },
+        {
+            "url": "http://finncdn.no/mmo/2014/10/vertical-2/13/4/525/186/14_1117022581.jpg",
+            "width": 408,
+            "height": 575,
+            "type": "image/jpeg",
+            "medium": "image",
+            "description": "Grünerløkka har et stort utvalg av flotte restauranter, kaféer og serveringssteder."
+        },
+        {
+            "url": "http://finncdn.no/mmo/2014/10/vertical-2/13/4/525/186/14_2131657979.jpg",
+            "width": 1000,
+            "height": 667,
+            "type": "image/jpeg",
+            "medium": "image",
+            "description": "Leiligheten har flere flotte og idylliske grøntområder i nærheten, som for eksempel Sofienbergparken"
+        },
+        {
+            "url": "http://finncdn.no/mmo/2014/10/vertical-2/13/4/525/186/14_1444823236.jpg",
+            "width": 575,
+            "height": 365,
+            "type": "image/jpeg",
+            "medium": "image",
+            "description": "Langs Akerselva finnes det også flotte tur- og rekreasjonsmuligheter."
+        },
+        {
+            "url": "http://finncdn.no/mmo/2014/10/vertical-2/13/4/525/186/14_1151236450.jpg",
+            "width": 575,
+            "height": 384,
+            "type": "image/jpeg",
+            "medium": "image",
+            "description": "Ønsker man å bevege seg bort fra Grünerløkka har området har et utmerket tilbud av offentlig kommunikasjon."
+        },
+        {
+            "url": "http://finncdn.no/mmo/2014/10/vertical-2/13/4/525/186/14_1876228450.jpg",
+            "width": 1032,
+            "height": 651,
+            "type": "image/jpeg",
+            "medium": "image",
+            "description": "Planskisse for leiligheten i Sannergata 38B - Velkommen på visning!"
+        },
+        {
+            "url": "http://finncdn.no/mmo/2014/10/vertical-2/13/4/525/186/14_886469611.jpg",
+            "width": 1032,
+            "height": 651,
+            "type": "image/jpeg",
+            "medium": "image",
+            "description": "Alternativ planløsning"
+        }
+    ],
+    "images": [
+        {
+            "url": "http://finncdn.no/mmo/2014/10/vertical-2/13/4/525/186/14_858791792.jpg",
+            "width": 1134,
+            "height": 756,
+            "type": "image/jpeg",
+            "medium": "image",
+            "description": "Velkommen til Sannergata 38B! Boligen presenteres og vises av Eiendomsmegler MNEF / Partner Bård Tisthamar (900 29 357)."
+        },
+        {
+            "url": "http://finncdn.no/mmo/2014/10/vertical-2/13/4/525/186/14_564955375.jpg",
+            "width": 1134,
+            "height": 756,
+            "type": "image/jpeg",
+            "medium": "image",
+            "description": "Stuen oppleves som svært hyggelig og har god plass til større sofagruppe og øvrig ønsket møblement."
+        },
+        {
+            "url": "http://finncdn.no/mmo/2014/10/vertical-2/13/4/525/186/14_401722385.jpg",
+            "width": 1134,
+            "height": 756,
+            "type": "image/jpeg",
+            "medium": "image",
+            "description": "Stuen oppleves som svært hyggelig og har god plass til større sofagruppe og øvrig ønsket møblement."
+        },
+        {
+            "url": "http://finncdn.no/mmo/2014/10/vertical-2/13/4/525/186/14_1934028321.jpg",
+            "width": 1134,
+            "height": 756,
+            "type": "image/jpeg",
+            "medium": "image",
+            "description": "Store vindusflater gir et sjenerøst lysinnfall."
+        },
+        {
+            "url": "http://finncdn.no/mmo/2014/10/vertical-2/13/4/525/186/14_367680550.jpg",
+            "width": 1134,
+            "height": 756,
+            "type": "image/jpeg",
+            "medium": "image",
+            "description": "Pent kjøkken med god plass til stor spisegruppe"
+        },
+        {
+            "url": "http://finncdn.no/mmo/2014/10/vertical-2/13/4/525/186/14_1960756033.jpg",
+            "width": 1134,
+            "height": 756,
+            "type": "image/jpeg",
+            "medium": "image",
+            "description": "Moderne kjøkkeninnredning fra Ikea, ny i 2006. Innredningen har glatte fronter, og heltre benkeplate.\n"
+        },
+        {
+            "url": "http://finncdn.no/mmo/2014/10/vertical-2/13/4/525/186/14_2020039312.jpg",
+            "width": 1134,
+            "height": 756,
+            "type": "image/jpeg",
+            "medium": "image",
+            "description": "Over benken er det dekorative mosaikkfliser i en frisk farge som gir en spennende kontrast til det klassiske."
+        },
+        {
+            "url": "http://finncdn.no/mmo/2014/10/vertical-2/13/4/525/186/14_1206704556.jpg",
+            "width": 1134,
+            "height": 756,
+            "type": "image/jpeg",
+            "medium": "image",
+            "description": "Integrert platetopp og stekeovn, samt opplegg for oppvaskmaskin. Fritthengende ventilatorhette i stål og glass med kullfilter."
+        },
+        {
+            "url": "http://finncdn.no/mmo/2014/10/vertical-2/13/4/525/186/14_809752309.jpg",
+            "width": 1134,
+            "height": 756,
+            "type": "image/jpeg",
+            "medium": "image",
+            "description": "Rommet har plass til spisemøbler og kan fint brukes som kombinert spisestue/kjøkken."
+        },
+        {
+            "url": "http://finncdn.no/mmo/2014/10/vertical-2/13/4/525/186/14_731071639.jpg",
+            "width": 1134,
+            "height": 756,
+            "type": "image/jpeg",
+            "medium": "image",
+            "description": "Doble fløydører mot stue skaper en luftig og åpen atmosfære."
+        },
+        {
+            "url": "http://finncdn.no/mmo/2014/10/vertical-2/13/4/525/186/14_1319476903.jpg",
+            "width": 1134,
+            "height": 756,
+            "type": "image/jpeg",
+            "medium": "image",
+            "description": "Soverom I er stort og har god plass til dobbeltseng og garderobe."
+        },
+        {
+            "url": "http://finncdn.no/mmo/2014/10/vertical-2/13/4/525/186/14_852802902.jpg",
+            "width": 1134,
+            "height": 756,
+            "type": "image/jpeg",
+            "medium": "image",
+            "description": "Flott og dekorativ mønstret tapet på den ene veggen setter et spennende preg på rommet."
+        },
+        {
+            "url": "http://finncdn.no/mmo/2014/10/vertical-2/13/4/525/186/14_1271534738.jpg",
+            "width": 1134,
+            "height": 756,
+            "type": "image/jpeg",
+            "medium": "image",
+            "description": "Soverom II har plass til seng og garderobeløsning."
+        },
+        {
+            "url": "http://finncdn.no/mmo/2014/10/vertical-2/13/4/525/186/14_1174419968.jpg",
+            "width": 1134,
+            "height": 756,
+            "type": "image/jpeg",
+            "medium": "image",
+            "description": "Malt i en delikatfarge som gjør det perfekt som barnerom, men her har man mange bruksmuligheter"
+        },
+        {
+            "url": "http://finncdn.no/mmo/2014/10/vertical-2/13/4/525/186/14_1244333266.jpg",
+            "width": 1134,
+            "height": 756,
+            "type": "image/jpeg",
+            "medium": "image",
+            "description": "Lekkert flislagt bad som ble modernisert i 2006. Heldekkende servant, med underskap i glatte fronter med mye oppbevaringsplass. Opplegg for vaskemaskin"
+        },
+        {
+            "url": "http://finncdn.no/mmo/2014/10/vertical-2/13/4/525/186/14_396309267.jpg",
+            "width": 1067,
+            "height": 1600,
+            "type": "image/jpeg",
+            "medium": "image",
+            "description": "Badet har en dusjnisje med rullestein i dusjsone, overdusj og glassdører. Felt med lekre mosaikkfliser som bryter fint med det ellers stilrene utrykket.\n"
+        },
+        {
+            "url": "http://finncdn.no/mmo/2014/10/vertical-2/13/4/525/186/14_1300728654.jpg",
+            "width": 1134,
+            "height": 756,
+            "type": "image/jpeg",
+            "medium": "image",
+            "description": "Separat toalettrom med toalett og veggmontert vask."
+        },
+        {
+            "url": "http://finncdn.no/mmo/2014/10/vertical-2/13/4/525/186/14_1098729935.jpg",
+            "width": 1067,
+            "height": 1600,
+            "type": "image/jpeg",
+            "medium": "image",
+            "description": "Innbydende entré med flislagt gulv. Her er det en svært romslig garderobeløsning med god plass til oppheng av yttertøy."
+        },
+        {
+            "url": "http://finncdn.no/mmo/2014/10/vertical-2/13/4/525/186/14_130172444.jpg",
+            "width": 1134,
+            "height": 756,
+            "type": "image/jpeg",
+            "medium": "image",
+            "description": "Praktisk innebygd hyllesystem for oppbevaring av sko."
+        },
+        {
+            "url": "http://finncdn.no/mmo/2014/10/vertical-2/13/4/525/186/14_814126791.jpg",
+            "width": 1134,
+            "height": 756,
+            "type": "image/jpeg",
+            "medium": "image",
+            "description": "Asfaltert gårdsrom med sykkelparkering og sittegruppe."
+        },
+        {
+            "url": "http://finncdn.no/mmo/2014/10/vertical-2/13/4/525/186/14_988737271.jpg",
+            "width": 1134,
+            "height": 756,
+            "type": "image/jpeg",
+            "medium": "image",
+            "description": "Fasade mot gate"
+        },
+        {
+            "url": "http://finncdn.no/mmo/2014/10/vertical-2/13/4/525/186/14_1117022581.jpg",
+            "width": 408,
+            "height": 575,
+            "type": "image/jpeg",
+            "medium": "image",
+            "description": "Grünerløkka har et stort utvalg av flotte restauranter, kaféer og serveringssteder."
+        },
+        {
+            "url": "http://finncdn.no/mmo/2014/10/vertical-2/13/4/525/186/14_2131657979.jpg",
+            "width": 1000,
+            "height": 667,
+            "type": "image/jpeg",
+            "medium": "image",
+            "description": "Leiligheten har flere flotte og idylliske grøntområder i nærheten, som for eksempel Sofienbergparken"
+        },
+        {
+            "url": "http://finncdn.no/mmo/2014/10/vertical-2/13/4/525/186/14_1444823236.jpg",
+            "width": 575,
+            "height": 365,
+            "type": "image/jpeg",
+            "medium": "image",
+            "description": "Langs Akerselva finnes det også flotte tur- og rekreasjonsmuligheter."
+        },
+        {
+            "url": "http://finncdn.no/mmo/2014/10/vertical-2/13/4/525/186/14_1151236450.jpg",
+            "width": 575,
+            "height": 384,
+            "type": "image/jpeg",
+            "medium": "image",
+            "description": "Ønsker man å bevege seg bort fra Grünerløkka har området har et utmerket tilbud av offentlig kommunikasjon."
+        },
+        {
+            "url": "http://finncdn.no/mmo/2014/10/vertical-2/13/4/525/186/14_1876228450.jpg",
+            "width": 1032,
+            "height": 651,
+            "type": "image/jpeg",
+            "medium": "image",
+            "description": "Planskisse for leiligheten i Sannergata 38B - Velkommen på visning!"
+        },
+        {
+            "url": "http://finncdn.no/mmo/2014/10/vertical-2/13/4/525/186/14_886469611.jpg",
+            "width": 1032,
+            "height": 651,
+            "type": "image/jpeg",
+            "medium": "image",
+            "description": "Alternativ planløsning"
+        }
+    ],
+    "aData": {
+        "advertiser_reference": "BT1614280",
+        "cadastres": [
+            {
+                "cadastral_unit_number": "225",
+                "property_unit_number": "273",
+                "county_number": "301"
+            }
+        ],
+        "change_of_ownership_insurance": "Ja",
+        "construction_year": 1904,
+        "energy_label": "G",
+        "energy_label_color_code": "rod",
+        "external_ad_id": "52518614",
+        "external_reference": "BT1614280",
+        "facilities": [
+            "Bredbåndstilknytning",
+            "Kabel-TV",
+            "Offentlig vann/kloakk",
+            "Sentralt",
+            "Vaktmester-/vektertjeneste",
+            "Turterreng"
+        ],
+        "floor": 3,
+        "general_text": [
+            {
+                "title": "Beskrivelse",
+                "value": "<p><strong>Velkommen til Sannergata 38B! Boligen presenteres og vises av Eiendomsmegler MNEF / Partner Bård Tisthamar (900 29 357).</strong></p><p><strong>Det er en lekker og klassisk 3-roms leilighet beliggende sentralt til øverst på Grünerløkka. I nabolaget rundt leiligheten finner du alt du trenger av fasiliteter.</strong></p><p><strong>Leiligheten har en svært god planløsning, som sammen med store vindusflater og god takhøyde(2,9m)  gir et lyst og luftig preg. Den har en gjennomgående god standard, med kjøkken fra 2006 og bad modernisert i 2006. På bad, WC og i entré er det fliser på gulv, ellers er det originale, lakkerte tregulv i leiligheten. Badet har også flislagte vegger, mens resten av leiligheten har malte vegg- og himlingsflater, foruten en dekorativ mønstret tapet på det ene soverommet, og lekre mosaikkfliser over benk på kjøkkenet. </strong></p><p><strong>Moderne kjøkken fra 2006 med plass til stort spisebord. Lys stue med god plass til sofagruppe, samt pipeløp som gir mulighet for ildsted. To romslige soverom med god plass til seng og garderobe. Pent flislagt bad med lekre fliser, og rullestein i dusjsone. Praktisk entré med moderne fliser på gulv og rikelig med oppbevaringsplass.</strong></p><p><strong>Detaljer som originale tregulv, rosett og stukkatur setter et klassisk preg på leiligheten. Dette kombinert med delikate fargevalg og moderne løsninger gir leiligheten et stilfullt og gjennomført uttrykk.</strong></p><p><strong>Velkommen på visning</strong></p><p> </p><p>Leiligheten ligger i gårdens 3. etasje og inneholder entré, WC, bad, to soverom, stue og kjøkken.</p><p>I tillegg disponerer leiligheten 1 kjellerbod og 1 loftsbod.</p><p> </p><p><strong>Entré: </strong>Innbydende entré med flislagt gulv. Her er det en svært romslig garderobeløsning med god plass til oppheng av yttertøy. Praktisk innebygd hyllesystem for oppbevaring av sko. Dørcalling med åpner, og brann- og lydklassifisert entrédør.</p><p><strong>Stue:</strong> Stuen oppleves som svært hyggelig og har god plass til større sofagruppe og øvrig ønsket møblement. Doble fløydører mot kjøkken skaper en luftig atmosfære og en god romfølelse. Rosett og stukkatur i himling rammer inn rommet og gir det et klassisk preg. I stuen er det pipeløp med mulighet for ildsted.</p><p><strong>Kjøkken:</strong> Moderne kjøkkeninnredning fra Ikea, ny i 2006. Innredningen har glatte fronter, og heltre benkeplate. Over benken er det dekorative mosaikkfliser i en frisk farge som gir en spennende kontrast til det klassiske. Integrert platetopp og stekeovn, samt opplegg for oppvaskmaskin. Fritthengende ventilatorhette i stål og glass med kullfilter. Rikelig med oppbevaringsplass i smart hyllesystem. Rommet har plass til spisemøbler og kan fint brukes som kombinert spisestue/kjøkken. </p><p><strong>Soverom I:</strong> Soverom I er stort og har god plass til dobbeltseng og garderobe.  Flott og dekorativ mønstret tapet på den ene veggen setter et spennende preg på rommet.</p><p><strong>Soverom II:</strong> Soverom II har også plass til dobbeltseng og garderobeløsning. Malt i en delikatfarge som gjør det perfekt som barnerom, men her har man mange bruksmuligheter som for eksempel hjemmekontor, gjesterom eller walk-in-closet i tilknytning til soverom I.</p><p><strong>Bad:</strong> Lekkert flislagt bad som ble modernisert i 2006. Badet har en dusjnisje med rullestein i dusjsone, overdusj og glassdører. Heldekkende servant, med underskap i glatte fronter med mye oppbevaringsplass. Felt med lekre mosaikkfliser som bryter fint med det ellers stilrene utrykket. Opplegg for vaskemaskin. Varmekabler i gulv og downlights i himling.</p><p><strong>WC:</strong> Separat toalettrom med toalett og veggmontert vask. Varmekabler i gulv.</p>"
+            },
+            {
+                "title": "Beliggenhet",
+                "value": "<p>Leiligheten har en etterspurt og populær beliggenhet øverst på Grünerløkka.</p><p>I nabolaget rundt leiligheten finner du alt du trenger av fasiliteter. Grünerløkka har også et stort utvalg av flotte restauranter, kaféer og serveringssteder. Tar du turen over Akerselva kommer du til det nye Vulkan området. Her finner du den populære Mathallen som selger spennende råvarer og har flere serveringssteder.</p><p>Langs Akerselva finnes det også flotte tur- og rekreasjonsmuligheter. Her går det turstier hvor man kan sykle eller jogge helt opp til Maridalen. For de treningsglade som heller ønsker å benytte seg av treningssenter er det også flere alternativer i nabolaget. Tøyenbadet er heller ikke så langt unna.</p><p>Tross sin sentrale og urbane beliggenhet, har leiligheten flere flotte og idylliske grøntområder i nærheten. Parkanlegg som Birkelunden, Sofienbergparken, Kubaparken og Olaf Ryes Plass ligger alle innenfor gåavstand.</p><p>Ønsker man å bevege seg bort fra Grünerløkka har området har et utmerket tilbud av offentlig kommunikasjon.</p>"
+            },
+            {
+                "title": "Diverse",
+                "value": "<p>* Borettslaget består av 22 andelsleiligheter.<br />* Get er leverandør av kabel-TV og bredbåndstjenester.<br />* Vaktmestertjeneste via Vaktmester Andersen AS.<br />* Bygården står på byantikvarens liste over bevaringsverdige bygninger (gul liste).<br />* Pipeløp med mulighet for ildsted på stue.<br />* Avtrekk skjer via ventil på bad, WC og kjøkken.<br />* Varmtvannsbereder plassert i skap på soverom (120L med produksjonsår 2006).<br />* Sikringsskap med skrusikringer og jordfeilbryter.<br />* Innendørs sykkel-/barnevognparkering i bakgården.<br />* Brannbalkongen med sammenfellbare møbler til fri benyttelse for beboerne. Her er det fin ettermiddags-/kveldssol.<br />* Facebookside: https://www.facebook.com/sannergata38<br />* Borettslaget leier ut fem næringslokaler, dette skaper en god økonomi for laget.<br />* Borettslaget jobber med salg av loftsareal.<br />* Det foreligger ekspedisjonsdokument på eiendommen, samt ferdigattest på senere utførte arbeider.</p>"
+            },
+            {
+                "title": "Adkomst",
+                "value": "Adkomst direkte fra Sannergata. Det vil bli skiltet med IHUS-skilt ved annonsert visning."
+            },
+            {
+                "title": "Parkering",
+                "value": "Gateparkering etter gjeldende regler."
+            },
+            {
+                "title": "Fyring",
+                "value": "Elektrisk oppvarming, samt varmekabler på bad og WC. Pipeløp med mulighet for ildsted på stue."
+            },
+            {
+                "title": "Byggemåte",
+                "value": "Tradisjonell bygård med grunnmur i naturstein/tegl, antatt fundamentert til flåte eller faste komprimerte masser. Pussede og malte fasader med trekninger rundt vinduer. Bærende konstruksjoner i hullmurskonstruksjon. Etasjeskillere med trebjelkelag og stubbloftsfyll. Saltak i trekonstruksjoner tekket med plater. <br/><br/>Vedlikeholdshistorikk:<br/>2008: Fasader mot gårdsrom ble pusset opp"
+            },
+            {
+                "title": "Tomt",
+                "value": "Asfaltert gårdsrom med sykkel-/barnevognsparkering og sittegruppe."
+            },
+            {
+                "title": "Lånevilkår",
+                "value": "Lånenr: EIKA1-152029185<br/>Type lån: Annuitet<br/>Restsaldo: kr. 4.379.820,-<br/>Restløpetid: 22 år 10 mnd<br/>Terminer per år: 12<br/>Rente: Flyt, 3,80%"
+            }
+        ],
+        "no_of_bedrooms": 2,
+        "no_of_rooms": 3,
+        "ownership_type": "Andel",
+        "part_ownership": {
+            "number": "10"
+        },
+        "plot": {
+            "area": 731,
+            "owned": true
+        },
+        "preemption": "Ingen forkjøpsrett. Kun styregodkjenning.",
+        "property_type": [
+            "Leilighet"
+        ],
+        "size": {
+            "description": "Bruttoareal: 85m²",
+            "usable": 78,
+            "primary": 78
+        },
+        "viewings": [
+            {
+                "date": "2014-10-19",
+                "from": "14:00",
+                "to": "15:00"
+            }
+        ],
+        "prices": {
+            "main": 2850000,
+            "total": 3069065,
+            "estimated_value": 3000000,
+            "collective_assets": 17392,
+            "collective_debt": 219065,
+            "loan_value": 2550000,
+            "shared_cost": 3265,
+            "shared_cost_after_interest": 0,
+            "tax_value": 840453
+        }
+    }
+}
