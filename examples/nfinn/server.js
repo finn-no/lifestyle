@@ -3,14 +3,13 @@ var bodyParser = require('body-parser');
 var compress = require('compression');
 var express = require('express');
 var favicon = require('serve-favicon');
-var moment = require('moment');
 var nunjucks = require('nunjucks');
 var R = require('ramda');
 
 var finn = require('../../index')
 
 var app = express();
-app.use(compress()); //nop
+app.use(compress());
 app.use(bodyParser.urlencoded({ extended: false }))
 app.use(favicon(__dirname + '/public/favicon.png'));
 app.use(express.static(__dirname + '/public'));
@@ -127,12 +126,6 @@ app.get('/ad/:adid', function(req, res) {
             res.render('ad', {ad: ad});
         });
 });
-
-function getSearchDefinitions() {
-    return client
-        .getSearchIds()
-        .map(R.invoker(client.getSearchDefinition.bind(client)))
-}
 
 app.listen(3031, function() {
     console.log("Site up at http://localhost:" + 3031);
