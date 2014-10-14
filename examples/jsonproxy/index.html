@@ -1,0 +1,149 @@
+<!doctype html>
+<title>Dirt simple json proxy</title>
+<style>
+    body { font-family: sans-serif; }
+</style>
+<h1>JSON API proxy</h1>
+
+Super dumb HTTP API. Provides 4 read-only resources that deliver JSON reprsentations of some of the resources the full REST API exposes:
+
+<dl>
+    <dt><code>/searches</code></dt>
+    <dd>A list of search IDs</dd>
+    <dt><code>/search</code></dt>
+    <dd>Perform a search. Takes the query argument "searchid", which must be a valid search ID. Any other query arguments are passed on to the API client as search arguments.</dd>
+    <dt><code>/description</code></dt>
+    <dd>Get an OpenSearch search description. Takes the query argument "searchid", which must be a valid search ID.</dd>
+    <dt><code>/ad</code></dt>
+    <dd>An ad. Takes a single adid query argument.</dd>
+</dl>
+
+<h2>Searches</h2>
+
+<form action="/searches">
+    <input type="submit">
+</form>
+
+<h2>Search</h2>
+
+<form action="/search">
+    <!-- BEWM! Hardcoded. Fixme -->
+    <select name="searchid">
+        <option>agriculture-thresher</option>
+        <option>agriculture-tools</option>
+        <option>agriculture-tractor</option>
+        <option>atv</option>
+        <option>bap</option>
+        <option>bap-free</option>
+        <option>bap-sale</option>
+        <option>bap-wanted</option>
+        <option>boat-dock</option>
+        <option>boat-dock-wanted</option>
+        <option>boat-motor</option>
+        <option>boat-parts</option>
+        <option>boat-parts-motor-wanted</option>
+        <option>boat-rent</option>
+        <option>boat-rent-wanted</option>
+        <option>boat-sale</option>
+        <option>boat-used</option>
+        <option>boat-used-wanted</option>
+        <option>bus</option>
+        <option>car-abroad</option>
+        <option>car-norway</option>
+        <option>caravan</option>
+        <option>company-for-sale</option>
+        <option>construction</option>
+        <option>job-full-time</option>
+        <option>job-management</option>
+        <option>job-part-time</option>
+        <option>mc</option>
+        <option>mobile-home</option>
+        <option>moped-scooter</option>
+        <option>realestate-business-letting</option>
+        <option>realestate-business-plot</option>
+        <option>realestate-business-sale</option>
+        <option>realestate-development</option>
+        <option>realestate-homes</option>
+        <option>realestate-leisure-plot</option>
+        <option>realestate-leisure-sale</option>
+        <option>realestate-leisure-sale-abroad</option>
+        <option>realestate-letting</option>
+        <option>realestate-letting-wanted</option>
+        <option>realestate-plot</option>
+        <option>realestate-prefabricated</option>
+        <option>realestate-unit</option>
+        <option>snowmobile</option>
+        <option>truck</option>
+        <option>truck-abroad</option>
+        <option>van-abroad</option>
+        <option>van-norway</option>
+    </select>
+    <input type="submit">
+</form>
+
+<h2>Search Description</h2>
+
+<form action="/description">
+    <!-- BEWM! Hardcoded. Fixme -->
+    <select name="searchid">
+        <option>agriculture-thresher</option>
+        <option>agriculture-tools</option>
+        <option>agriculture-tractor</option>
+        <option>atv</option>
+        <option>bap</option>
+        <option>bap-free</option>
+        <option>bap-sale</option>
+        <option>bap-wanted</option>
+        <option>boat-dock</option>
+        <option>boat-dock-wanted</option>
+        <option>boat-motor</option>
+        <option>boat-parts</option>
+        <option>boat-parts-motor-wanted</option>
+        <option>boat-rent</option>
+        <option>boat-rent-wanted</option>
+        <option>boat-sale</option>
+        <option>boat-used</option>
+        <option>boat-used-wanted</option>
+        <option>bus</option>
+        <option>car-abroad</option>
+        <option>car-norway</option>
+        <option>caravan</option>
+        <option>company-for-sale</option>
+        <option>construction</option>
+        <option>job-full-time</option>
+        <option>job-management</option>
+        <option>job-part-time</option>
+        <option>mc</option>
+        <option>mobile-home</option>
+        <option>moped-scooter</option>
+        <option>realestate-business-letting</option>
+        <option>realestate-business-plot</option>
+        <option>realestate-business-sale</option>
+        <option>realestate-development</option>
+        <option>realestate-homes</option>
+        <option>realestate-leisure-plot</option>
+        <option>realestate-leisure-sale</option>
+        <option>realestate-leisure-sale-abroad</option>
+        <option>realestate-letting</option>
+        <option>realestate-letting-wanted</option>
+        <option>realestate-plot</option>
+        <option>realestate-prefabricated</option>
+        <option>realestate-unit</option>
+        <option>snowmobile</option>
+        <option>truck</option>
+        <option>truck-abroad</option>
+        <option>van-abroad</option>
+        <option>van-norway</option>
+    </select>
+    <input type="submit">
+</form>
+
+
+<h2>Get ad</h2>
+
+<form action="/ad">
+    <label>Ad id: 
+        <input placeholder="8 digits" type="text" pattern="\d{8}" name="adid">
+    </label>
+    <input type="submit">
+</form>
