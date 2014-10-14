@@ -6,7 +6,7 @@
 Use the NPM dependency:
 
 ```
-git://github.com/finn-no/hjorner#master
+git://github.com/finn-no/lifestyle#master
 ```
 
 The package will be added to NPM once the API solidifies.
@@ -190,11 +190,11 @@ If you need node style callbacks, use one of the wrapper generators provided by 
 
 The examples directory contains an example of using lifestyle with express to make a basic version of FINN.
 
-In the examples/nfinn directory and run npm install. Then run  "node server.js".
+In the examples/nfinn directory and run npm install. Then run  `node server.js`.
 
 This assumes you are on the FINN network and don't need an API key. To use a key, pass it in as an argument:
 
-"node server.js my-key-here"
+`node server.js my-key-here`
 
 The first time the page loads it may take some time, as it populates caches on first pageload.
 
