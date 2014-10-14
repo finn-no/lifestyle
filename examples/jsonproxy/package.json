@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "express": "~4.9.7",
-    "bluebird": "~2.3.5"
+    "bluebird": "~2.3.5",
+    "nomnom": "~1.8.0"
   }
 }
