@@ -188,15 +188,33 @@ If you need node style callbacks, use one of the wrapper generators provided by 
 
 ## Examples
 
-The examples directory contains an example of using lifestyle with express to make a basic version of FINN.
+The examples directory contains a few different things that make use of the client.
 
-In the examples/nfinn directory and run npm install. Then run  `node server.js`.
+### nfinn
+
+This is a very basic version of FINN. It supports listing available searches, performing a search, looking at search results and looking at ads.
+
+In the examples/nfinn directory, run `npm install`. Then run  `node server.js`.
 
 This assumes you are on the FINN network and don't need an API key. To use a key, pass it in as an argument:
 
 `node server.js my-key-here`
 
 The first time the page loads it may take some time, as it populates caches on first pageload.
+
+In the examples/ directory, run `npm install`. Then run  `node server.js`.
+
+### json
+
+This folder contains example output JSON the client provides. There is also a small tool to refetch the JSON files, useful for updating the files whenever the client changes.
+
+### lifestyleproxy
+
+This is an API server that delivers JSON reprsentations of some of the resources the full REST API exposes.
+
+In the examples/ directory, run `npm install`. Then run  `node lifestyleproxy.js`. When it's started it should be available on port 3031 on the machine.
+
+Use the `--help` command line option to see the various configuration options available.
 
 ### To do
 
