@@ -6,7 +6,7 @@
 Use the NPM dependency:
 
 ```
-git://github.com/finn-no/lifestyle#master
+$ npm install finn-no/lifestyle
 ```
 
 The package will be added to NPM once the API solidifies.
