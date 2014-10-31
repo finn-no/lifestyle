@@ -12,6 +12,6 @@
     "xmldom": "^0.1.19",
     "bluebird": "^2.3.4",
     "request": "git://github.com/mikeal/request.git#master",
-    "ramda": "^0.6.0"
+    "ramda": "^0.7.0"
   }
 }
