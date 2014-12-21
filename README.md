@@ -15,7 +15,7 @@ The package will be added to NPM once the API solidifies.
 
 ```javascript
 var lifestyle = require('lifestyle');
-var client = new lifestyle.FinnClient("https://cache.api.finn.no", "my-api-key-here");
+var client = new lifestyle.FinnClient("https://cache.api.finn.no/iad/", "my-api-key-here");
 ```
 
 ### Getting list of available searches
